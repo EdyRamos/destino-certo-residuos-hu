@@ -112,8 +112,7 @@ Capturas revisadas: `output/home-*.png`, `output/game-*.png`, `output/mobile-fee
    - os itens usam recortes do gabarito em PDF e a Nery é um retrato provisório; os direitos de distribuição não foram confirmados;
    - faltam 52 itens, a Nery com poses e os recipientes (ver `docs/ASSETS_PENDENTES.md`). O código já usa `item.image` quando existir.
 3. **Homologação em tablet físico,** com pessoas da DEP, da assistência e alguém que nunca viu o jogo físico.
-4. **Publicação:** falta definir o repositório e a conta. O workflow do Pages é manual e não foi executado.
-5. **Controle de versão:** o repositório Git ainda não tem nenhum commit.
+4. **Publicação da versão final:** a homologação já está publicada (ver seção 8). Para a versão aprovada, falta definir se continua nesta conta pessoal ou migra para uma conta institucional.
 
 ## 7. Como homologar
 
@@ -127,3 +126,11 @@ npm run preview -- --host 127.0.0.1 --port 4173
 - Testes de navegador: `npm run test:e2e`. Se o Chromium do Playwright não estiver instalado, use o Chrome ou o Edge da máquina: `$env:PW_CHANNEL='chrome'; npm run test:e2e`.
 - Gabarito: abra `output/gabarito/Destino-Certo-Gabarito-DEPE.html` diretamente, também a partir de um pendrive.
 - Tablet: hospede `dist/` em HTTPS, aguarde “Pronto para uso offline”, instale, desligue a rede, feche e reabra o app, e jogue uma carreira completa.
+
+## 8. Publicação da homologação
+
+- Repositório (público): https://github.com/EdyRamos/destino-certo-residuos-hu
+- Jogo para instalar no tablet: https://edyramos.github.io/destino-certo-residuos-hu/
+- Downloads (gabarito HTML e pacote do jogo para hospedagem própria): https://github.com/EdyRamos/destino-certo-residuos-hu/releases/tag/v0.9.0
+
+Após a publicação, o site real foi conferido no Chrome: service worker com o escopo correto, manifesto válido, “Pronto para uso offline”, reabertura sem rede com os 8 destinos, sem respostas de erro e sem pedidos externos.

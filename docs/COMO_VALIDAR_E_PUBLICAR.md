@@ -60,7 +60,9 @@ Uma PWA exige o primeiro acesso pelo navegador; não é um instalador executáve
 
 O projeto usa caminhos relativos e foi preparado para subdiretórios. Após criar o repositório na conta escolhida, publicar o conteúdo de `dist`, ou usar o workflow manual fornecido em `.github/workflows/pages.yml` e habilitar Pages com origem GitHub Actions. Não enviar `node_modules`.
 
-Nenhum repositório remoto foi criado nem publicação executada. O workflow é manual para não publicar automaticamente uma versão em homologação.
+Repositório: https://github.com/EdyRamos/destino-certo-residuos-hu (público). Jogo publicado em https://edyramos.github.io/destino-certo-residuos-hu/ e arquivos para download no release [v0.9.0](https://github.com/EdyRamos/destino-certo-residuos-hu/releases/tag/v0.9.0).
+
+O workflow é manual para não publicar automaticamente uma versão em homologação. Para publicar uma nova versão: enviar o commit para `main` e executar Actions > “Publicar piloto no GitHub Pages” > Run workflow (ou `gh workflow run pages.yml`).
 
 ## Cloudflare Pages
 

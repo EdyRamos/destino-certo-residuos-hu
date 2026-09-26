@@ -88,4 +88,11 @@ Implementação concluída para homologação interna (ver `IMPLEMENTATION_REPOR
 - Hospedagem em subdiretório (`/residuos/`, como GitHub Pages) passou a ser teste automatizado: escopo do service worker, recursos sem 404 e reabertura offline.
 - Verificação final: 35 testes unitários e 10 de navegador passaram; build e gabarito regenerados; tela de fases conferida visualmente.
 - Entregue `IMPLEMENTATION_REPORT.md`; atualizados CHANGELOG, README e instruções de validação.
-- Próximo passo (humano): devolução da planilha pelo DEPE, arte final, homologação em tablet físico, escolha do repositório de publicação e primeiro commit.
+- Próximo passo (humano): devolução da planilha pelo DEPE, arte final e homologação em tablet físico.
+
+### 11. Repositório e publicação da homologação — concluída
+- Primeiro commit em `main`; repositório público https://github.com/EdyRamos/destino-certo-residuos-hu.
+- GitHub Pages habilitado (origem GitHub Actions); workflow manual executado com sucesso, incluindo `npm test` e build no Linux.
+- Jogo: https://edyramos.github.io/destino-certo-residuos-hu/ — conferido no Chrome: escopo do service worker, manifesto, uso offline e ausência de pedidos externos.
+- Pré-lançamento v0.9.0 com gabarito HTML e pacote `dist` compactado para hospedagem própria.
+- Próximo passo: homologação em tablet físico e devolução da planilha pelo DEPE.
