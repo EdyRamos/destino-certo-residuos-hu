@@ -1,0 +1,14 @@
+import fs from 'node:fs';
+const read=p=>fs.readFileSync(p,'utf8');
+const items=JSON.parse(read('src/data/items.json'));
+const destinations=JSON.parse(read('src/data/destinations.json'));
+const crops=JSON.parse(read('src/data/reference-crops.json'));
+const version=JSON.parse(read('src/data/version.json'));
+const dataUrl=p=>'data:image/'+(p.endsWith('.webp')?'webp':'png')+';base64,'+fs.readFileSync('public/'+p).toString('base64');
+const images={};
+for(const p of ['brand/hu-horizontal.png','brand/depe.png','reference/gabarito-1.png','reference/gabarito-2.png',...items.flatMap(i=>i.image?[i.image]:[])]) images[p]=dataUrl(p);
+const data=JSON.stringify({items,destinations,crops,version,images}).replaceAll('<','\\u003c');
+const html=read('src/presenter/template.html').replace('/*__STYLE__*/',read('src/presenter/style.css')).replace('/*__DATA__*/','const DATA='+data+';').replace('/*__SCRIPT__*/',read('src/presenter/presenter.js'));
+fs.mkdirSync('output/gabarito',{recursive:true});
+fs.writeFileSync('output/gabarito/Destino-Certo-Gabarito-DEPE.html',html);
+console.log('Gabarito offline gerado: output/gabarito/Destino-Certo-Gabarito-DEPE.html ('+(Buffer.byteLength(html)/1048576).toFixed(1)+' MB)');

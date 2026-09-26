@@ -1,0 +1,2925 @@
+1  
+                                           
+ 
+                                             
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RDC Nº 222/2018 COMENTADA 
+ 
+ 
+ 
+GERENCIA DE REGULAMENTAÇÃO E CONTROLE 
+SANITÁRIO EM SERVIÇOS DE SAÚDE - 
+GRECS/GERENCIA GERAL DE TECNOLOGIA EM 
+SERVIÇOS DE SAÚDE - GGTES/ANVISA 
+Brasília, 11 de junho de 2018. 
+2  
+ 
+ 
+Diretor-Presidente  
+Jarbas Barbosa da Silva Junior 
+ 
+Chefe de Gabinete 
+Leonardo Batista Paiva 
+ 
+Diretores  
+Alessandra Bastos Soares 
+Fernando Mendes Garcia Neto 
+Renato Alencar Porto 
+Willian Dib 
+ 
+Adjuntos de Diretor  
+Bruno de Araújo Rios 
+Pedro Ivo Sebba Ramalho  
+Meiruze Sousa Freitas 
+Orlando Henrique Costa de Oliveira  
+ 
+ 
+Gerência Geral de Tecnologia em Serviços de Saúde –  GGTES  
+Gerência de Regulamentação e Controle Sanitário em Serviços de Saúde- GRECS 
+ 
+ 
+Técnico Responsável  
+Marcelo Cavalcante de Oliveira 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+3  
+RESOLUÇÃO RDC Nº. 222, DE 28 DE MARÇO DE 2018.  
+ 
+ 
+Regulamenta as Boas Práticas de Gerenciamento 
+dos Resíduos de Serviços de Saúde e dá outras 
+providências. 
+ 
+O gerenciamento dos resíduos de serviços de saúde (GRSS), anteriormente à criação da Anvisa, 
+era regulamentado somente por resolução do Conselho  Nacional do Meio Ambiente (CONAMA). Devido à 
+competência legal estabelecida pela Lei 9.782/1999, que criou a Anvisa, coube a esta Agência a competência 
+de regulamentar os procedimentos internos dos serviços de saúde, relativos ao GRSS. O Sistema Nacional de 
+Vigilância Sanitária (SNVS) atua de forma descentra lizada, e a fiscalização do GRSS compete às Vigilân cias 
+Sanitárias dos Estados, Municípios e do DF, com o a uxílio dos órgãos ambientais locais, auxiliados pel os 
+Serviços de Saneamento e dos Serviços de Limpeza Ur bana. Considera-se que parte dos resíduos gerados 
+apresenta risco similar aos domiciliares, podendo ter o mesmo destino, esgoto ou aterro sanitário. 
+Dessa forma, a Anvisa publicou a RDC 306 em 2004, s obre GRSS, com a finalidade de 
+estabelecer os procedimentos internos nos serviços geradores de RSS e compatibilizar com a resolução d o 
+CONAMA 358/2005, pois as resoluções anteriores divergiam em certos aspectos. 
+Passados alguns anos da entrada em vigor da RDC 306 /2004, devido aos questionamentos 
+recebidos durante esse tempo, bem como a evolução d as tecnologias e ainda a entrada em vigor da Lei 
+12.305/2010, que instituiu a Política Nacional de R esíduos Sólidos (PNRS), verificou-se a necessidade de 
+revisar essa RDC e publicar uma nova normativa que contemple as novidades legais e tecnológicas que 
+surgiram nesse período. 
+ 
+  CAPÍTULO I  
+DAS DISPOSIÇÕES INICIAIS 
+ 
+Este documento destina-se a comentar os artigos exi stentes na RDC nº 222/2018, que 
+regulamenta as boas práticas de gerenciamento dos resíduos de serviços de saúde e dá outras 
+providências. Não pretende esgotar o tema, mas orientar vigilâncias sanitárias locais e serviços 
+geradores de resíduos de serviços de saúde no correto cumprimento da norma.  
+ 
+Seção I 
+Objetivo 
+ 
+Art. 1º Esta Resolução dispõe sobre os requisitos d e Boas Práticas de Gerenciamento 
+dos Resíduos de Serviços de Saúde.  
+ 
+Ao abordar as boas práticas de gerenciamento de res íduos de serviços de saúde, a norma 
+pretende minimizar os riscos inerentes ao gerenciamento de resíduos no País no que diz respeito 
+à saúde humana e animal, bem como na proteção ao me io ambiente e aos recursos naturais 
+renováveis.  
+ 
+Seção II  
+Abrangência  
+Art. 2º Esta Resolução se aplica aos geradores de r esíduos de serviços de saúde – RSS 
+cujas atividades envolvam qualquer etapa do gerenci amento dos RSS, sejam eles 
+públicos e privados, filantrópicos, civis ou milita res, incluindo aqueles que exercem 
+ações de ensino e pesquisa.  
+4  
+A RDC não diferencia os serviços geradores de resíd uos de serviços de saúde quanto à esfera 
+administrativa ou quanto a natureza da organização, devendo ser aplicada igualmente a todos 
+os serviços que geram resíduos de serviços de saúde, independente de ser ou não um serviço de 
+saúde, e, o entendimento é que alguns serviços, mes mo não sendo de saúde, geram resíduos 
+similares aos gerados nos serviços de saúde. 
+§ 1º Para efeito desta resolução, definem-se como g eradores de RSS todos os serviços 
+cujas atividades estejam relacionadas com a atenção  à saúde humana ou animal, 
+inclusive os serviços de assistência domiciliar; la boratórios analíticos de produtos para 
+saúde; necrotérios, funerárias e serviços onde se r ealizem atividades de 
+embalsamamento (tanatopraxia e somatoconservação); serviços de medicina legal; 
+drogarias e farmácias, inclusive as de manipulação;  estabelecimentos de ensino e 
+pesquisa na área de saúde; centros de controle de zoonoses; distribuidores de produtos 
+farmacêuticos, importadores, distribuidores de mate riais e controles para diagnóstico 
+in vitro ; unidades móveis de atendimento à saúde; serviços de acupuntura; serviços de 
+piercing e tatuagem, salões de beleza e estética, dentre outros afins.  
+Este parágrafo define quem são os geradores de resíduos de serviços de saúde abrangidos pela 
+norma, mantendo o que já estava vigente na RDC nº 3 06/2004 e enfatizando a inclusão dos 
+serviços de estética e embelezamento. 
+ 
+§ 2º Esta Resolução não se aplica a fontes radioati vas seladas, que devem seguir as 
+determinações da Comissão Nacional de Energia Nucle ar – CNEN, e às indústrias de 
+produtos sob vigilância sanitária, que devem observ ar as condições específicas do seu 
+licenciamento ambiental. 
+ 
+Este parágrafo traz as exceções à abrangência da no rma, sendo as fontes radioativas seladas 
+regulamentadas por normas da Comissão Nacional de E nergia Nuclear – CNEN e as indústrias 
+de cosméticos, saneantes, produtos para saúde, medicamentos e outros produtos sob vigilância 
+sanitária que devem ter licenciamento ambiental e s e basear nele para as questões de 
+gerenciamento de resíduos. 
+ 
+Seção III  
+Definições 
+ 
+Art. 3º  Para efeito desta Resolução são adotadas a s seguintes definições: 
+ 
+Neste artigo são apresentadas as definições de “ter mos chave” utilizados no corpo da norma. 
+Devem sempre ser utilizados como referência durante  a leitura da norma para ajudar na 
+interpretação dos artigos. 
+ 
+I.  abrigo externo: ambiente no qual ocorre o armazenam ento externo dos 
+coletores de resíduos;  
+II.  abrigo temporário: ambiente no qual ocorre o armaze namento temporário dos 
+coletores de resíduos;  
+III.  acondicionamento: ato de embalar os resíduos segreg ados em sacos ou 
+recipientes que evitem vazamentos, e, quando couber , sejam resistentes às 
+ações de punctura, ruptura e tombamento,  e que sejam adequados física e 
+quimicamente ao conteúdo acondicionado; 
+5  
+IV.  agentes biológicos: microrganismos capazes ou não d e originar algum tipo de 
+infecção, alergia ou toxicidade no corpo humano, ta is como: bactérias, fungos, 
+vírus, clamídias, riquétsias, micoplasmas, parasita s e outros agentes, linhagens 
+celulares, príons e toxinas; 
+V.  armazenamento externo: guarda dos coletores de resí duos em ambiente 
+exclusivo, com acesso facilitado para a coleta externa; 
+VI.  armazenamento interno: guarda do resíduo contendo p roduto químico ou 
+rejeito radioativo na área de trabalho, em condições definidas pela legislação e 
+normas aplicáveis a essa atividade; 
+VII.  armazenamento temporário: guarda temporária dos col etores de resíduos de 
+serviços de saúde, em ambiente próximo aos pontos de geração, visando agilizar 
+a coleta no interior das instalações e otimizar o d eslocamento entre os pontos 
+geradores e o ponto destinado à apresentação para coleta externa; 
+VIII.  aterro de resíduos perigosos – Classe I: local de d isposição final de resíduos 
+perigosos no solo, sem causar danos ou riscos à saú de pública, minimizando os 
+impactos ambientais e utilizando procedimentos específicos de engenharia para 
+o confinamento destes; 
+IX.  carcaça de animal: produto de retalhação de animal; 
+X.  cadáver de animal: corpo animal após a morte; 
+XI.  classe de risco 1 (baixo risco individual e para a comunidade): agentes biológicos 
+conhecidos por não causarem doenças no homem ou nos animais adultos sadios; 
+XII.  classe de risco 2 (moderado risco individual e limitado risco para a comunidade): 
+inclui os agentes biológicos que provocam infecções no homem ou nos animais, 
+cujo potencial de propagação na comunidade e de dis seminação no meio 
+ambiente é limitado, e para os quais existem medidas terapêuticas e profiláticas 
+eficazes; 
+XIII.  classe de risco 3 (alto risco individual e moderado  risco para a comunidade): 
+inclui os agentes biológicos que possuem capacidade  de transmissão por via 
+respiratória e que causam patologias humanas ou ani mais, potencialmente 
+letais, para as quais existem usualmente medidas de  tratamento ou de 
+prevenção. Representam risco se disseminados na com unidade e no meio 
+ambiente, podendo se propagar de pessoa a pessoa; 
+XIV.     classe de risco 4 (elevado risco individual e el evado risco para a comunidade): 
+classificação do Ministério da Saúde que inclui age ntes biológicos que 
+representam grande ameaça para o ser humano e para os animais, implicando 
+grande risco a quem os manipula, com grande poder d e transmissibilidade de 
+um indivíduo a outro, não existindo medidas prevent ivas e de tratamento para 
+esses agentes; 
+XV.     coleta e transporte externos: remoção dos resídu os de serviços de saúde do 
+abrigo externo até a unidade de tratamento ou outra destinação, ou disposição 
+final ambientalmente adequada, utilizando-se de téc nicas que garantam a 
+preservação das condições de acondicionamento;  
+XVI.     coletor: recipiente utilizado para acondicionar os sacos com resíduos; 
+XVII.      coletor com rodas ou carro de coleta: recipient e com rodas utilizado para 
+acondicionar e transportar internamente os sacos com resíduos; 
+XVIII.     compostagem: processo biológico que acelera a de composição do material 
+orgânico, tendo como produto final o composto orgânico; 
+6  
+XIX.     decaimento radioativo: desintegração natural de um núcleo atômico por meio 
+da emissão de energia em forma de radiação; 
+XX.  destinação final ambientalmente adequada: destinação de resíduos que inclui a 
+reutilização, a reciclagem, a compostagem, a recupe ração e o aproveitamento 
+energético ou outras destinações admitidas pelos ór gãos competentes do 
+Sistema Nacional do Meio Ambiente (Sisnama), do Sis tema Nacional de 
+Vigilância Sanitária (SNVS) e do Sistema Unificado de Atenção à Sanidade 
+Agropecuária (Suasa), entre elas a disposição final  ambientalmente adequada, 
+observando normas operacionais específicas de modo a evitar danos ou riscos à 
+saúde pública e à segurança e a minimizar os impactos ambientais adversos; 
+XXI.  disposição final ambientalmente adequada: distribui ção ordenada de rejeitos 
+em aterros, observando normas operacionais específicas de modo a evitar danos 
+ou riscos à saúde pública e à segurança e a minimiz ar os impactos ambientais 
+adversos; 
+XXII.     equipamento de proteção individual (EPI): dispos itivo ou produto de uso 
+individual utilizado pelo trabalhador, destinado à proteção de riscos suscetíveis 
+de ameaçar a segurança e a saúde no trabalho;  
+XXIII.     equipamento de proteção coletiva (EPC): disposit ivos ou produtos de uso 
+coletivo utilizados pelo trabalhador, destinados à proteção de riscos suscetíveis 
+de ameaçar a segurança e a saúde no trabalho e de terceiros; 
+XXIV.        ficha de informações de segurança de produtos  químicos (FISPQ): ficha que 
+contém informações essenciais detalhadas dos produt os químicos, 
+especialmente sua identificação, seu fornecedor, su a classificação, sua 
+periculosidade, as medidas de precaução e os proced imentos em caso de 
+emergência; 
+XXV.        fonte radioativa selada: fonte radioativa enc errada hermeticamente em uma 
+cápsula, ou ligada totalmente a material inativo en volvente, de forma que não 
+possa haver dispersão de substância radioativa em condições normais e severas 
+de uso;  
+XXVI.        forma livre: saturação de um líquido em um re síduo que o absorva ou o 
+contenha, de forma que possa produzir gotejamento, vazamento ou 
+derramamento espontaneamente ou sob compressão mínima; 
+XXVII.        gerenciamento dos resíduos de serviços de saú de: conjunto de procedimentos 
+de gestão, planejados e implementados a partir de b ases científicas, técnicas, 
+normativas e legais, com o objetivo de minimizar a geração de resíduos e 
+proporcionar um encaminhamento seguro, de forma efi ciente, visando à 
+proteção dos trabalhadores e a preservação da saúde  pública, dos recursos 
+naturais e do meio ambiente; 
+XXVIII.         hemoderivados: produtos oriundos do sangue total ou do plasma, obt idos por 
+meio de processamento físico-químico ou biotecnológico;  
+XXIX.        identificação dos resíduos de serviços de saú de: conjunto de medidas que 
+permite o reconhecimento dos riscos presentes nos resíduos acondicionados, de 
+forma clara e legível em tamanho proporcional aos s acos, coletores e seus 
+ambientes de armazenamento, conforme disposto no Anexo II desta Resolução;  
+XXX.         instalação radiativa: unidade ou serviço no qual se produzam, processam, 
+manuseiam, utilizam, transportam ou armazenam fonte s de radiação, 
+7  
+excetuando-se as Instalações Nucleares definidas em  norma da Comissão 
+Nacional de Energia Nuclear (CNEN);  
+XXXI.         licença ambiental: ato administrativo pelo qual o órgão ambiental competente 
+estabelece as condições, restrições e medidas de controle ambiental que devem 
+ser obedecidas para localizar, instalar, ampliar e operar empreendimentos ou 
+atividades utilizadores dos recursos ambientais con siderados efetiva ou 
+potencialmente poluidoras ou aquelas que, sob qualquer forma, possam causar 
+degradação ambiental;  
+XXXII.         licença sanitária: documento emitido pelo ór gão sanitário competente dos 
+Estados, Distrito Federal ou dos Municípios, conten do permissão para o 
+funcionamento dos estabelecimentos que exerçam ativ idades sob regime de 
+vigilância sanitária; 
+XXXIII.         líquidos corpóreos: líquidos originados no c orpo humano, limitados para fins 
+desta resolução, em líquidos cefalorraquidiano, per icárdico, pleural, articular, 
+ascítico e amniótico; 
+XXXIV.         logística reversa: instrumento de desenvolvi mento econômico e social 
+caracterizado por um conjunto de ações, procediment os e meios destinados a 
+viabilizar a coleta e a restituição dos resíduos sólidos ao setor empresarial, para 
+reaproveitamento, em seu ciclo ou em outros ciclos produtivos, ou outra 
+destinação final ambientalmente adequada; 
+XXXV.        manejo dos resíduos de serviços de saúde: atividade de manuseio dos resíduos 
+de serviços de saúde, cujas etapas são a segregação , acondicionamento, 
+identificação, transporte interno, armazenamento temporário, armazenamento 
+externo, coleta interna, transporte externo, destin ação e disposição final 
+ambientalmente adequada dos resíduos de serviços de saúde; 
+XXXVI.         metal pesado: qualquer substância ou composto contendo antimônio, cádmio, 
+cromo (IV), chumbo, estanho, mercúrio, níquel, prata, selênio, telúrio e tálio; 
+XXXVII.         nível de dispensa: valor estabelecido por no rma da Comissão Nacional de 
+Energia Nuclear (CNEN), tal que fontes de radiação com concentração de 
+atividade ou atividade total igual ou inferior a esse valor podem ser dispensadas 
+de controle regulatório e ser liberado pelas vias convencionais, sob os aspectos 
+de proteção radiológica; 
+XXXVIII.         nível III de inativação microbiana: processo  físico ou outros processos para a 
+redução ou eliminação da carga microbiana, tendo como resultado a inativação 
+de bactérias vegetativas, fungos, vírus lipofílicos  e hidrofílicos, parasitas e 
+micobactérias com redução igual ou maior que 6Log10, e inativação de esporos 
+do B. stearothermophilus  ou de esporos do B. subtilis  com redução igual ou maior 
+que 4Log10; 
+XXXIX.         patogenicidade: é a capacidade que tem o age nte infeccioso de, uma vez 
+instalado no organismo do homem e dos animais, prod uzir sintomas em maior 
+ou menor proporção dentre os hospedeiros infectados; 
+XL.        periculosidade: qualidade ou estado de ser perigoso; 
+XLI.         plano de gerenciamento dos resíduos de serviços de saúde (PGRSS): documento 
+que aponta e descreve todas as ações relativas ao g erenciamento dos resíduos 
+de serviços de saúde, observadas suas características e riscos, contemplando os 
+aspectos referentes à geração, identificação, segre gação, acondicionamento, 
+coleta, armazenamento, transporte, destinação e dis posição final 
+8  
+ambientalmente adequada, bem como as ações de proteção à saúde pública, do 
+trabalhador e do meio ambiente; 
+XLII.         plano de proteção radiológica (PPR): documen to exigido para fins de 
+licenciamento de instalações radiativas, pela Comis são Nacional de Energia 
+Nuclear (CNEN); 
+XLIII.         príon: estrutura proteica alterada relaciona da como agente etiológico das 
+diversas formas de encefalite espongiforme; 
+XLIV.         produto para diagnóstico de uso in vitro:  reagentes, padrões, calibradores, 
+controles, materiais, artigos e instrumentos, junto  com as instruções para seu 
+uso, que contribuem para realizar uma determinação qualitativa, quantitativa ou 
+semiquantitativa de uma amostra biológica e que não  estejam destinados a 
+cumprir função anatômica, física ou terapêutica alg uma, que não sejam 
+ingeridos, injetados ou inoculados em seres humanos  e que são utilizados 
+unicamente para provar informação sobre amostras ob tidas do organismo 
+humano; 
+XLV.         quimioterápicos antineoplásicos: produtos químicos que atuam ao nível celular 
+com potencial de produzirem genotoxicidade, citotox icidade, mutagenicidade, 
+carcinogenicidade e teratogenicidade; 
+XLVI.        reciclagem: processo de transformação dos res íduos sólidos que envolve a 
+alteração de suas propriedades físicas, físico-químicas ou biológicas, com vistas 
+à transformação em insumos ou novos produtos; 
+XLVII.         recipiente vazio de medicamento: embalagem p rimária de medicamentos 
+usada em sua preparação ou administração, que tenha  sido esvaziado em 
+decorrência da total utilização ou transferência de  seu conteúdo deste para 
+outro recipiente; 
+XLVIII.         redução de carga microbiana: aplicação de pr ocesso que visa à inativação 
+microbiana das cargas biológicas contidas nos resíduos;  
+XLIX.         rejeitos: resíduos sólidos que, depois de es gotadas todas as possibilidades de 
+tratamento e recuperação por processos tecnológicos  disponíveis e 
+economicamente viáveis, não apresente outra possibi lidade que não a 
+disposição final ambientalmente adequada; 
+L.         rejeito radioativo: material que contenha ra dionuclídeo em quantidade 
+superior aos limites de dispensa especificados nas normas da Comissão Nacional 
+de Energia Nuclear (CNEN), para o qual a reutilizaç ão é imprópria ou não 
+prevista; 
+LI.         resíduos de serviços de saúde (RSS): todos o s resíduos resultantes das 
+atividades exercidas pelos geradores de resíduos de serviços de saúde, definidos 
+nesta Resolução; 
+LII.        resíduo perigoso: aquele que, em razão de sua s características de 
+inflamabilidade, corrosividade, reatividade, toxici dade, patogenicidade, 
+carcinogenicidade, teratogenicidade e mutagenicidad e, apresenta significativo 
+risco à saúde pública ou à qualidade ambiental ou à  saúde do trabalhador, de 
+acordo com lei, regulamento ou norma técnica; 
+LIII.         resíduo sólido: material, substância, objeto  ou bem descartado, resultante de 
+atividades humanas em sociedade, a cuja destinação se propõe proceder ou se 
+está obrigado a proceder, nos estados sólido ou sem issólido, bem como gases 
+contidos em recipientes e líquidos cujas particular idades tornem inviável o seu 
+9  
+lançamento na rede pública de esgotos ou em corpos d’água, ou exijam para isso 
+soluções técnica ou economicamente inviáveis em fac e da melhor tecnologia 
+disponível;   
+LIV.         resíduos de serviços de saúde do Grupo A: resíduos com a possível presença de 
+agentes biológicos que, por suas características, p odem apresentar risco de 
+infecção, elencados no Anexo I desta Resolução;  
+LV.         resíduos de serviços de saúde do Grupo B: re síduos contendo produtos 
+químicos que podem apresentar risco à saúde pública  ou ao meio ambiente, 
+dependendo de suas características de inflamabilida de, corrosividade, 
+reatividade e toxicidade, elencados no Anexo I desta Resolução;  
+LVI.         resíduos de serviços de saúde do Grupo C: re jeitos radioativos, elencados no 
+Anexo I desta Resolução; 
+LVII.        resíduos de serviços de saúde do Grupo D: res íduos que não apresentam risco 
+biológico, químico ou radiológico à saúde ou ao mei o ambiente, podendo ser 
+equiparados aos resíduos domiciliares, elencados no Anexo I desta Resolução;  
+LVIII.         resíduos de serviços de saúde do Grupo E: re síduos perfurocortantes ou 
+escarificantes, tais como: lâminas de barbear, agul has, escalpes, ampolas de 
+vidro, brocas, limas endodônticas, fios ortodôntico s cortados, próteses bucais 
+metálicas inutilizadas, pontas diamantadas, lâminas  de bisturi, lancetas, tubos 
+capilares, micropipetas, lâminas e lamínulas, espát ulas e todos os utensílios de 
+vidro quebrados no laboratório (pipetas, tubos de c oleta sanguínea e placas de 
+Petri), elencados no Anexo I desta Resolução;  
+LIX.  reutilização: processo de aproveitamento dos resídu os sólidos sem sua 
+transformação biológica, física ou físico-química;  
+LX.        sala de utilidades: ambiente destinado à limp eza, desinfecção e guarda dos 
+materiais e roupas utilizados na assistência ao usu ário do serviço e guarda 
+temporária de resíduos; 
+LXI.         segregação: separação dos resíduos, conforme  a classificação dos Grupos 
+estabelecida no Anexo I desta Resolução, no momento  e local de sua geração, 
+de acordo com as características físicas, químicas, biológicas, o seu estado físico 
+e os riscos envolvidos;  
+LXII.         transporte interno: traslado dos resíduos do s pontos de geração até o abrigo 
+temporário ou o abrigo externo. 
+LXIII.         tratamento: Etapa da destinação que consiste  na aplicação de processo que 
+modifique as características físicas, químicas ou b iológicas dos resíduos, 
+reduzindo ou eliminando o risco de dano ao meio ambiente ou à saúde pública;  
+LXIV.         unidade geradora de resíduos de serviço de saúde: unidade funcional dentro do 
+serviço no qual é gerado o resíduo.   
+ 
+ CAPÍTULO II 
+DO PLANO DE GERENCIAMENTO DE RESÍDUOS DE SERVIÇOS DE SAÚDE 
+ 
+Art. 4º  O gerenciamento dos RSS deve abranger toda s as etapas de planejamento dos 
+recursos físicos, dos recursos materiais e da capac itação dos recursos humanos 
+envolvidos. 
+ 
+A gestão compreende as ações referentes às tomadas de decisões nos aspectos administrativo, 
+operacional, financeiro, social e ambiental e tem n o planejamento integrado um importante 
+10   
+instrumento no gerenciamento de resíduos em todas a s suas etapas - geração, classificação, 
+segregação, acondicionamento, armazenamento, transporte, destinação até a disposição final 
+ambientalmente adequada, possibilitando que se esta beleçam, de forma sistemática e 
+integrada em cada uma delas, metas, programas, sist emas organizacionais e tecnologias, 
+compatíveis com a realidade local. Com o planejamen to, a adequação dos procedimentos de 
+manejo, o sistema de sinalização e o uso de equipam entos apropriados, não só é possível 
+diminuir os riscos, como reduzir as quantidades de resíduos a serem tratados e, ainda, promover 
+o reaproveitamento de grande parte dos mesmos pela segregação de boa parte dos materiais 
+recicláveis, reduzindo os custos de seu tratamento desnecessário e disposição final que 
+normalmente são altos. 
+ 
+Art. 5º  Todo serviço gerador deve dispor de um Pla no de Gerenciamento de RSS 
+(PGRSS), observando as regulamentações federais, estaduais, municipais ou do Distrito 
+Federal. 
+ 
+O gerenciamento dos RSS constitui-se em um conjunto de procedimentos de gestão, planejados 
+e implementados a partir de bases científicas e técnicas, normativas e legais, com o objetivo de 
+minimizar a produção de resíduos e proporcionar, ao s resíduos gerados, um encaminhamento 
+seguro, de forma eficiente, visando à proteção dos trabalhadores, a preservação da saúde, dos 
+recursos naturais e do meio ambiente. O Plano de Ge renciamento dos Resíduos de Serviços de 
+Saúde (PGRSS) é o documento que aponta e descreve as ações relativas ao manejo de resíduos 
+sólidos, que corresponde às etapas de: segregação, acondicionamento, identificação, transporte 
+interno, armazenamento temporário, armazenamento ex terno, coleta interna, transporte 
+externo, destinação e disposição final ambientalmen te adequada. Deve considerar as 
+características e riscos dos resíduos, as ações de proteção à saúde e ao meio ambiente e os 
+princípios da biossegurança de empregar medidas téc nicas administrativas e normativas para 
+prevenir acidentes. O PGRSS deve contemplar medidas  de envolvimento coletivo. O 
+planejamento do programa deve ser feito em conjunto  com todos os setores definindo-se 
+responsabilidades e obrigações de cada um em relação aos riscos. A elaboração, implantação e 
+o desenvolvimento do PGRSS devem envolver os setores de higienização e limpeza, a Comissão 
+de Controle de Infecção Hospitalar - CCIH ou Comiss ões de Biossegurança e os Serviços de 
+Engenharia de Segurança e Medicina no Trabalho - SE SMT, onde houver obrigatoriedade de 
+existência desses serviços, por meio de seus respon sáveis, abrangendo toda a comunidade do 
+estabelecimento, em consonância com as legislações de saúde, ambiental e de proteção 
+radiológica vigentes. Devem fazer parte do plano, ações para emergências e acidentes, ações de 
+controle integrado de pragas e de controle químico,  compreendendo medidas preventivas e 
+corretivas assim como de prevenção de saúde ocupacional. O PGRSS deve ser construído baseado 
+na complexidade de cada serviço gerador de RSS, bem  como na sua demanda. A Anvisa não 
+dispõe de um modelo de PGRSS justamente por entende r que este depende das peculiaridades 
+de cada serviço e também não há a necessidade de enviar/protocolar o PGRSS na Anvisa. 
+ 
+§ 1º Para obtenção da licença sanitária, caso o serviço gere exclusivamente resíduos do 
+Grupo D, o PGRSS pode ser substituído por uma notificação desta condição ao órgão de 
+vigilância sanitária competente, seguindo as orientações locais. 
+ 
+Em serviços, como um consultório de psicologia, por exemplo, onde há apenas a geração de RSS 
+do grupo D, e seguindo as normas locais, caso exist am, o PGRSS pode ser substituído por uma 
+declaração ou outro documento que informe às autoridades competentes que aquele serviço só 
+gera resíduo do Grupo D. 
+ 
+§ 2º Caso o serviço gerador possua instalação radia tiva, adicionalmente, deve atender 
+11   
+às regulamentações específicas da CNEN. 
+ 
+Este tipo de serviço deve sempre acompanhar as publ icações e as diretrizes da Comissão 
+Nacional de Energia Nuclear. 
+ 
+§ 3º Os novos geradores de resíduos terão prazo de 180 (cento e oitenta) dias, a partir 
+do início do funcionamento, para apresentar o PGRSS. 
+ 
+Para os novos geradores o ideal é que as diretrizes do PGRSS já sejam pensadas no momento da 
+construção da edificação e o mais rápido possível p ara edificações já prontas, pois, a partir do 
+1º dia de funcionamento começa a se contar o prazo para apresentar o PGRSS às autoridades 
+competentes. Para todos os serviços sempre deve se verificar a existência de normativas locais 
+sobre o assunto. 
+ 
+Art. 6º No PGRSS, o gerador de RSS deve: 
+ 
+I – estimar a quantidade dos RSS gerados por grupos, conforme a classificação do Anexo 
+I desta resolução; 
+ 
+Cada serviço gerador de RSS deve fazer uma estimativa de geração de RSS por grupos (A, B, C, D 
+e E). Essa estimativa pode ser diária, semanal ou utilizando algum outro critério encontrado pelo 
+serviço, desde que seja representativa. No primeiro  momento sempre há a preocupação da 
+geração ser sub ou superestimada, porém, esses dado s podem ser corrigidos e adequados ao 
+longo do funcionamento do serviço e também vai cont ribuir para o dimensionamento dos 
+abrigos. 
+ 
+II - descrever os procedimentos relacionados ao ger enciamento dos RSS quanto à 
+geração, à segregação, ao acondicionamento, à ident ificação, à coleta, ao 
+armazenamento, ao transporte, ao tratamento e à dis posição final ambientalmente 
+adequada; 
+ 
+Cada serviço gerador de RSS deve ter procedimento d escrevendo cada uma das etapas do 
+manejo de RSS o que facilita a implementação e o co nhecimento por parte dos colaboradores 
+principalmente, do PGRSS. 
+ 
+III – estar em conformidade com as ações de proteçã o à saúde pública, do trabalhador 
+e do meio ambiente; 
+ 
+Cada serviço gerador de RSS deve observar outras no rmativas que possam existir de outros 
+órgãos de saúde pública, do Ministério do Trabalho e Ministério do Meio Ambiente e da 
+Comissão Nacional de Energia Nuclear, bem como os ó rgãos estaduais ou municipais que 
+também tratam destes temas. 
+ 
+IV - estar em conformidade com a regulamentação san itária e ambiental, bem como 
+com as normas de coleta e transporte dos serviços locais de limpeza urbana; 
+ 
+Cada serviço gerador de RSS deve observar também a existência de normativas sanitárias e 
+ambientais dos órgãos locais, bem como os órgãos qu e regulamentam as questões de limpeza 
+pública na localidade. 
+ 
+12   
+V – quando aplicável, contemplar os procedimentos l ocais definidos pelo processo de 
+logística reversa para os diversos RSS; 
+ 
+Caso algum serviço gere resíduos dos quais haja pro dutos ou substâncias que estejam 
+contemplados em algum processo de logística reversa já definido pelos órgãos competentes, o 
+PGRSS deve também descrever estes procedimentos. 
+ 
+VI - estar em conformidade com as rotinas e process os de higienização e limpeza 
+vigentes no serviço gerador de RSS; 
+ 
+Cada serviço gerador de RSS, quando aplicável, deve adequar o PGRSS aos processos instalados 
+no serviço por comissões ou outros instrumentos, como, por exemplo, as comissões de controle 
+de infecção. 
+ 
+VII - descrever as ações a serem adotadas em situaç ões de emergência e acidentes 
+decorrentes do gerenciamento dos RSS; 
+ 
+Cada serviço gerador de RSS deve possuir mecanismos  (os tipos de mecanismos a serem 
+adotados fica a critério de cada serviço de acordo com as suas particularidades) de ação para o 
+caso do acontecimento de situações emergenciais relacionadas ao gerenciamento de RSS. Estes 
+mecanismos podem ser procedimentos escritos, planos de contingência, etc. É importante que 
+os serviços, de acordo com suas complexidades, poss am desenvolver e implantar processos de 
+simulação de situações de emergência. 
+ 
+VIII - descrever as medidas preventivas e corretivas de controle integrado de vetores e 
+pragas urbanas, incluindo a tecnologia utilizada e a periodicidade de sua implantação;  
+ 
+Estas medidas ficam a critério de cada serviço, de acordo com sua complexidade. A Anvisa, por 
+se tratar de uma agência reguladora, não vai indicar ou propor tipos de medidas ou tecnologias 
+para que não haja a criação de reservas de mercado. 
+ 
+IX - descrever os programas de capacitação desenvol vidos e implantados pelo serviço 
+gerador abrangendo todas as unidades geradoras de R SS e o setor de limpeza e 
+conservação; 
+ 
+Relatar qualquer ação desenvolvida com o intuito de capacitar os funcionários, como cursos 
+presenciais ou à distância, aulas ou qualquer outro mecanismo utilizado pelo serviço gerador 
+de RSS. 
+ 
+X - apresentar documento comprobatório da capacitaç ão e treinamento dos 
+funcionários envolvidos na prestação de serviço de limpeza e conservação que atuem 
+no serviço, próprios ou terceiros de todas as unidades geradoras; 
+ 
+O empregador deve manter os documentos comprobatóri os da realização do treinamento que 
+informem a carga horária, o conteúdo ministrado, o nome e a formação profissional do instrutor 
+e os trabalhadores envolvidos. 
+ 
+XI - apresentar cópia do contrato de prestação de serviç os e da licença ambiental das 
+empresas prestadoras de serviços para a destinação dos RSS; e 
+ 
+É imprescindível para o serviço gerador de RSS cont ratar empresas legalizadas que prestam 
+13   
+serviços de coleta e destinação dos RSS. A lei 12.305/2010, que dispõe sobre a Política Nacional 
+de Resíduos Sólidos, e a Lei de Crimes Ambientais s ão claras quando dizem que o gerador é 
+responsável pelo resíduo da geração à disposição final. 
+ 
+XII - apresentar documento comprobatório de operação de venda ou de doação dos RSS 
+destinados à recuperação, à reciclagem, à compostagem e à logística reversa. 
+ 
+Este inciso também está relacionado às legislações que colocam o gerador de RSS como 
+responsável por seus resíduos da geração à disposição final e tem a finalidade de comprovar que 
+o serviço deu uma destinação correta para aqueles resíduos que não foram encaminhados, como 
+rejeitos, para o aterro sanitário. 
+ 
+Parágrafo único. Os documentos referidos nos inciso s X e XII devem ser mantidos 
+arquivados, em meio físico ou eletrônico, por no mí nimo cinco anos, para fins de 
+inspeção sanitária, a critério da autoridade sanitária competente.  
+ 
+Esta é mais uma garantia às autoridades sanitárias de que os funcionários estão sendo treinados 
+e capacitados no GRSS e que os resíduos estão tendo uma destinação adequada, de acordo com 
+as normas ambientais. 
+ 
+Art. 7º  O PGRSS deve ser monitorado e mantido atua lizado, conforme periodicidade 
+definida pelo responsável por sua elaboração e implantação.  
+ 
+A Anvisa não definiu uma periodicidade mínima para o monitoramento e atualização do PGRSS, 
+porque isso depende da complexidade e demanda de cada serviço. O ideal é que, no mínimo, se 
+houver alguma mudança no fluxo ou na rotina de algu ma etapa que envolve o GRSS, o PGRSS 
+seja atualizado e essa atualização seja informada e disponibilizada a todos os envolvidos. 
+ 
+Art. 8º O estabelecimento que possua serviços geradores de RSS com licenças sanitárias 
+individualizadas deve ter PGRSS único que contemple todos os serviços existentes.  
+ 
+No caso de hospitais, por exemplo, que possuam na s ua edificação outros serviços como 
+laboratório clínico, radiologia ou outros serviços de imagem, o PGRSS deve ser único, 
+contemplando todos os geradores de RSS existentes ali. 
+ 
+Parágrafo único. Nas edificações não hospitalares n as quais houver serviços 
+individualizados, os respectivos RSS dos Grupos A e  E podem ter o armazenamento 
+externo de forma compartilhada. 
+ 
+Este parágrafo se refere aos condomínios de clínica s em prédios comerciais que não são um 
+hospital, inclusive existem clínicas em alas específicas de shoppings centers, e permite que haja 
+um armazenamento externo dos RSS de forma compartil hada, não sendo necessário que cada 
+serviço gerador de RSS tenha o seu abrigo externo. 
+ 
+Art. 9º O serviço gerador de RSS deve manter cópia do PGRSS disponível para consulta 
+dos órgãos de vigilância sanitária ou ambientais, dos funcionários, dos pacientes ou do 
+público em geral. 
+ 
+O PGRSS deve estar disponível, em meio físico ou eletrônico, para que possa ser consultado por 
+todos aqueles envolvidos no processo de implantação e implementação, bem como os pacientes 
+e o público em geral, como uma forma de mostrar par a a sociedade que aquele serviço está 
+14   
+preocupado não só em cumprir as normativas legais, mas também em proteger a saúde humana 
+e o meio ambiente. 
+ 
+Art. 10 O serviço gerador de RSS é responsável pela  elaboração, implantação, 
+implementação e monitoramento do PGRSS. 
+ 
+Os estabelecimentos geradores de resíduos de serviços de saúde são os responsáveis pelo correto 
+gerenciamento de todos os RSS por eles gerados, cabendo aos órgãos públicos, dentro de suas 
+competências, a regulamentação e fiscalização. Embora a responsabilidade direta pelos RSS seja 
+dos estabelecimentos geradores, pelo princípio da r esponsabilidade compartilhada, ela se 
+estende a outros atores: ao poder público e às empresas de coleta, tratamento e disposição final. 
+A Constituição Federal, em seu artigo 30, estabelec e como competência dos municípios 
+"organizar e prestar, diretamente ou sob o regime d e concessão ou permissão, os serviços 
+públicos de interesse local, incluído o de transporte coletivo que tem caráter essencial". No que 
+concerne aos aspectos de biossegurança e prevenção de acidentes - preservando a saúde e o 
+meio ambiente - compete à ANVISA, ao Ministério do Meio Ambiente, ao SISNAMA, com apoio 
+das Vigilâncias Sanitárias dos estados, dos municíp ios e do Distrito Federal, bem como aos 
+órgãos de meio ambiente regionais, de limpeza urban a e da Comissão Nacional de Energia 
+Nuclear - CNEN: regulamentar o correto gerenciament o dos RSS, orientar e fiscalizar o 
+cumprimento desta regulamentação. 
+ 
+Parágrafo único. A elaboração, a implantação e o mo nitoramento do PGRSS pode ser 
+terceirizada. 
+ 
+O serviço gerador pode contratar uma empresa tercei rizada, ou até mesmo um profissional 
+autônomo para realizar estas etapas do PGRSS. A Vig ilância Sanitária Local, nas inspeções de 
+rotina, deverá verificar como estas etapas são feit as no serviço e analisar o tipo de vínculo do 
+profissional ou empresa terceirizada, de forma que haja a possibilidade de responsabilização de 
+todos os envolvidos no caso de alguma intercorrência.  Na gestão de resíduos sólidos de serviços 
+de saúde, os estabelecimentos geradores de RSS pode m contratar outros prestadores para 
+realizar os serviços de limpeza, coleta de resíduos, tratamento, disposição final e comercialização 
+de materiais recicláveis. Por isso, é importante te r à disposição mecanismos que permitam 
+verificar se os procedimentos definidos e a conduta dos atores estão em sincronia com as leis. As 
+contratações devem exigir e garantir que as empresa s e autônomos cumpram as legislações 
+vigentes. Ao assegurar o cumprimento das legislaçõe s por parte de  empresas terceirizadas, o 
+gerador tem como responsabilizá-los em caso de irre gularidades, tornando-os corresponsáveis 
+no caso de danos decorrentes da prestação destes se rviços. Especialmente nos casos de 
+empresas que são contratadas para o tratamento dos resíduos, é necessário exigir tanto a 
+licença de operação (LO) e suas condicionantes, se houverem, como os documentos de 
+monitoramento ambiental previstos no licenciamento. 
+ 
+CAPÍTULO III 
+DAS ETAPAS DO MANEJO  
+ 
+Seção I 
+Segregação, acondicionamento e identificação 
+ 
+A segregação é uma das operações fundamentais para permitir o cumprimento dos objetivos de 
+um sistema eficiente de manuseio de resíduos e cons iste em separar ou selecionar 
+apropriadamente os resíduos segundo a classificação adotada. Essa operação deve ser realizada 
+na fonte de geração e está condicionada à prévia ca pacitação do pessoal de serviço. Um bom 
+15   
+gerenciamento dos resíduos de serviços de saúde deve ter como princípio a segregação na fonte, 
+o que resulta na redução do volume de resíduos com potencial de risco e na incidência de 
+acidentes ocupacionais. O ideal é que tal operação seja pensada como um processo contínuo. 
+Ela deve se expandir a todos os tipos de resíduos progressivamente, tendo em vista a segurança, 
+o reaproveitamento e redução de custo no tratamento  ou reprocessamento dos mesmos. Em 
+cada serviço especializado, existe um ou mais tipos de resíduos gerados. Para efetivar a gestão 
+com base no princípio de minimização dos riscos adi cionais dos RSS, o gestor deve adotar 
+procedimentos de segregação de acordo com o tipo de resíduo, no próprio local de geração. As 
+vantagens de praticar a segregação na origem são: 
+-  redução dos riscos para a saúde e o ambiente, im pedindo que os resíduos potencialmente 
+infectantes ou especiais, que geralmente são frações pequenas, contaminem os outros resíduos 
+gerados no hospital; 
+-  diminuição de gastos, já que apenas terá tratamento especial uma fração e não todos resíduos; 
+-  aumento da eficácia da reciclagem. 
+O acondicionamento consiste no ato de embalar os re síduos segregados, em sacos ou 
+recipientes. A capacidade dos recipientes de acondi cionamento deve ser compatível com a 
+geração diária de cada tipo de resíduo. Um acondici onamento inadequado compromete a 
+segurança do processo e o encarece. Recipientes ina dequados ou improvisados (pouco 
+resistentes, mal fechados ou muito pesados), construídos com materiais sem a devida proteção, 
+aumentam o risco de acidentes de trabalho. Os resíduos não devem ultrapassar 2/3 do volume 
+dos recipientes. Os recipientes de acondicionamento existentes nas salas de cirurgia e nas salas 
+de parto não necessitam de tampa para vedação, deve ndo os resíduos serem recolhidos 
+imediatamente após o término dos procedimentos. A i dentificação consiste no conjunto de 
+medidas que permite o reconhecimento dos resíduos c ontidos nos sacos e recipientes, 
+fornecendo informações ao correto manejo dos RSS. Os recipientes de coleta interna e externa, 
+assim como os locais de armazenamento onde são colocados os RSS, devem ser identificados em 
+local de fácil visualização, de forma indelével, utilizando símbolos, cores e frases, além de outras 
+exigências relacionadas à identificação de conteúdo  e aos riscos específicos de cada grupo de 
+resíduos. 
+ 
+Art. 11 Os RSS devem ser segregados no momento de s ua geração, conforme 
+classificação por Grupos constante no Anexo I desta  Resolução, em função do risco 
+presente. 
+ 
+Em um procedimento como a aplicação de um medicamen to injetável, por exemplo, o resíduo 
+perfurocortante deve ser descartado imediatamente como tal, não devendo ser acondicionado 
+de outra forma para se segregar depois. O mesmo vale para os outros grupos de resíduos: A, B,  
+e D. Para o grupo C deve-se seguir as normas da CNEN.  
+ 
+Art. 12 Quando, no momento da geração de RSS, não f or possível a segregação de 
+acordo com os diferentes grupos, os coletores e os sacos devem ter seu manejo com 
+observância das regras relativas à classificação do Anexo I desta Resolução. 
+ 
+Por exemplo, no caso de um perfurocortante contaminado com um produto químico, ou rejeito 
+radioativo, ou outro tipo de resíduo, é importante que todos os resíduos presentes que 
+necessitem de tratamento prévio sejam contemplados e que a segregação seja feita de forma a  
+atender os tipos de procedimentos necessários. 
+ 
+Art. 13 Os RSS no estado sólido, quando não houver orientação específica, devem ser 
+acondicionados em saco constituído de material resi stente a ruptura, vazamento e 
+impermeável. 
+16   
+ 
+Normalmente um único saco, e não um saco duplo, é suficiente para acondicionar os RSS sólidos 
+e atender às exigências do artigo. É importante verificar a existência de normativas locais para 
+o acondicionamento de RSS que sejam mais restritivas que a norma federal.  
+ 
+§ 1º Devem ser respeitados os limites de peso de cada saco, assim como o limite de 2/3 
+(dois terços) de sua capacidade, garantindo-se sua integridade e fechamento. 
+ 
+É importante obedecer os limites de peso estabelecidos para os sacos de acondicionamento, pois, 
+isto aumenta a garantia de que os sacos vão permanecer íntegros e vão poder ser fechados sem 
+dificuldades, além de proteger a saúde do trabalhador da limpeza, responsável por esta etapa 
+do manejo dos RSS. 
+ 
+§ 2º É proibido o esvaziamento ou reaproveitamento dos sacos. 
+ 
+Esta medida tem como principais objetivos proteger a saúde do trabalhador e evitar 
+contaminações no meio ambiente. 
+ 
+Art. 14 Os sacos para acondicionamento de RSS do gr upo A devem ser substituídos ao 
+atingirem o limite de 2/3 (dois terços) de sua capacidade ou então a cada 48 (quarenta 
+e oito) horas, independentemente do volume, visando  o conforto ambiental e a 
+segurança dos usuários e profissionais. 
+ 
+Ao se atingir o limite máximo de 2/3 da capacidade do saco, este deverá ser substituído por 
+outro, ou, em serviços ou locais do serviço onde a geração de RSS é menor, admite-se que este 
+saco de acondicionamento possa ficar no máximo 48 horas, sem levar em consideração o volume 
+do mesmo, para ser substituído.  
+ 
+Parágrafo único. Os sacos contendo RSS do grupo A d e fácil putrefação devem ser 
+substituídos no máximo a cada 24 (vinte e quatro) h oras, independentemente do 
+volume. 
+ 
+A questão principal deste parágrafo é o que é ou nã o de fácil putrefação. É importante que o 
+responsável pelos RSS no serviço faça uma avaliação  e uma descrição de todos os resíduos 
+gerados no serviço que sejam de fácil apodrecimento , ou que possam produzir odores 
+desagradáveis. O ideal é que o serviço tenha procedimentos escritos mostrando o que fazer com 
+este tipo de resíduo e que estes sacos não ultrapassem as 24 horas para serem substituídos. 
+ 
+Art. 15 Os RSS do Grupo A que não precisam ser obri gatoriamente tratados e os RSS 
+após o tratamento são considerados rejeitos e devem  ser acondicionados em saco 
+branco leitoso. 
+ 
+De acordo com a Lei nº 12.305/2010 que dispõe sobre  a Política Nacional de Resíduos Sólidos, 
+rejeitos são os resíduos sólidos que, depois de esgotadas todas as possibilidades de tratamento 
+e recuperação por processos tecnológicos disponívei s e economicamente viáveis, não 
+apresentem outra possibilidade que não a disposição final ambientalmente adequada.  Os RSS 
+do grupo A são divididos em subgrupos (A1 a A5), e alguns resíduos desses subgrupos precisam 
+obrigatoriamente ser tratados e outros não, sendo que ambos são considerados rejeitos e devem 
+ser encaminhados para a disposição final ambientalm ente adequada, ou seja, encaminhados 
+para aterro sanitário. 
+17   
+ 
+Parágrafo único. Os rejeitos, tratados ou não, acondicionados em sacos brancos leitosos 
+devem ser encaminhados para disposição final ambientalmente adequada.  
+ 
+De acordo com a Lei nº 12.305/2010 que dispõe sobre  a Política Nacional de Resíduos Sólidos , 
+disposição final ambientalmente adequada é a  distribuição ordenada de rejeitos em aterros, 
+observando normas operacionais específicas de modo a evitar danos ou riscos à saúde pública e 
+à segurança e a minimizar os impactos ambientais adversos. Os rejeitos, tratados ou não, devem 
+ser encaminhados para aterros sanitários ou outra solução licenciada pelos órgãos ambientais 
+competentes. 
+ 
+Art. 16 Quando houver a obrigação do tratamento dos RSS do Grupo A, estes devem ser 
+acondicionados em sacos vermelhos. 
+ 
+Todos os resíduos do Grupo A que forem encaminhados  para tratamento devem ser 
+acondicionados em saco vermelho. Isto é para diferenciar dos resíduos que já foram tratados ou 
+não precisam de tratamento, estes por sua vez devem  ser acondicionados em saco branco 
+leitoso. Em resumo, resíduos que serão tratados devem ser acondicionados em sacos vermelhos 
+e os resíduos que já foram tratados ou aqueles que não precisam de tratamento devem ser 
+acondicionados em saco branco leitoso. As condições de empresas que fazem o tratamento extra 
+estabelecimento devem ser avaliadas pelos órgãos co mpetentes, pois, estas empresas 
+manipulam uma quantidade considerável de resíduos e rejeitos. 
+ 
+Parágrafo único. O saco vermelho pode ser substituído pelo saco branco leitoso sempre 
+que as regulamentações estaduais, municipais ou do Distrito Federal exigirem o 
+tratamento indiscriminado de todos os RSS do Grupo A, exceto para acondicionamento 
+dos RSS do subgrupo A5. 
+ 
+Existem localidades que possuem normativas obrigando o tratamento indiscriminado de todos os 
+resíduos do grupo A, neste caso entendemos não haver a necessidade do uso do saco vermelho, 
+uma vez que este é só para diferenciar aquilo que s erá tratado daquilo que não precisa ser 
+tratado. Como a normativa local manda tratar tudo, entendemos que esta medida pode reduzir 
+custos dos serviços na aquisição dos sacos vermelho s. A única exceção é para o 
+acondicionamento dos resíduos do subgrupo A5. 
+ 
+Art. 17 O coletor do saco para acondicionamento dos  RSS deve ser de material liso, 
+lavável, resistente à punctura, ruptura, vazamento e tombamento, com tampa provida 
+de sistema de abertura sem contato manual, com cantos arredondados.  
+ 
+Este artigo trata do tipo de lixeira ou recipiente de acondicionamento dos RSS, que na norma é 
+chamado de coletor. 
+ 
+§ 1º O coletor não necessitará de tampa para fecham ento sempre que ocorrer a 
+substituição imediata do saco para acondicionamento  após a realização de cada 
+procedimento. 
+ 
+Em locais nos serviços onde ocorre a substituição dos sacos após cada procedimento, como por 
+exemplo, nos centros cirúrgicos e obstétricos, os c oletores, lixeiras ou recipientes de 
+acondicionamento não precisam de tampa para fechame nto. Nos outros locais onde os RSS 
+permanecem nas lixeiras não sendo os sacos substitu ídos a cada procedimento, como no caso 
+das enfermarias e áreas administrativas, as lixeiras necessitam ter tampa de fechamento. 
+18   
+ 
+§ 2º  Após sua substituição, o saco para acondicionamento  usado deve ser fechado e 
+transferido para o carro de coleta. 
+ 
+Os sacos, depois de substituídos, não podem ser col ocados no chão de abrigos temporários, 
+expurgos, ou outro local que não seja o carro que f az a coleta dos RSS, podendo ficar em um 
+abrigo temporário ou ser apresentado para a coleta externa no abrigo externo. 
+ 
+Art. 18    Os RSS líquidos devem ser acondicionados em recip ientes 
+constituídos de material compatível com o líquido a rmazenado, resistentes, rígidos e 
+estanques, com tampa que garanta a contenção do RSS  e identificação conforme o 
+Anexo II desta resolução. 
+É importante que os resíduos, principalmente os res íduos químicos – Grupo B, sejam 
+acondicionados de acordo com o preconizado no caput  deste artigo, promovendo assim uma 
+maior proteção ao trabalhador e ao meio ambiente da  contaminação com produtos químicos 
+perigosos. 
+ 
+Art. 19  Os recipientes de acondicionamento para RSS químicos no estado sólido devem 
+ser constituídos de material rígido, resistente, co mpatível com as características do 
+produto químico acondicionado e identificados conforme o Anexo II desta Resolução. 
+ 
+A obediência ao texto descrito neste artigo também visa promover uma maior proteção ao 
+trabalhador e ao meio ambiente da contaminação com produtos químicos perigosos. 
+ 
+Art. 20  Os rejeitos radioativos devem ser acondicionados co nforme procedimentos 
+definidos pelo supervisor de proteção radiológica, com certificado de qualificação 
+emitido pela CNEN, ou equivalente de acordo com normas da CNEN, na área de atuação 
+correspondente. 
+ 
+Todo o manejo dos rejeitos radioativos é definido e coordenado pelo profissional supervisor de 
+proteção radiológica. Este profissional deve estar qualificado pela CNEN e atuar dentro do 
+serviço que gera RSS do grupo C. 
+ 
+Art. 21  Os RSS do Grupo D devem ser acondicionados de acord o com as orientações 
+dos órgãos locais responsáveis pelo serviço de limpeza urbana. 
+ 
+Os municípios possuem órgãos específicos que tratam das questões da limpeza pública, e estes 
+órgãos normalmente dão as diretrizes sobre o manejo dos resíduos comuns – Grupo D,  devendo 
+ser seguidas pelos geradores de RSS deste grupo. 
+ 
+Art. 22  A identificação dos RSS deve estar afixada nos carr os de coleta, nos locais de 
+armazenamento e nos sacos que acondicionam os resíduos. 
+ 
+Ambientes como o abrigo interno, temporário e o abr igo externo, bem como os veículos 
+utilizados na coleta dos RSS, aqui chamados carros de coleta, e também os sacos utilizados no 
+acondicionamento dos RSS devem estar identificados, seguindo as diretrizes presentes no anexo 
+II desta resolução. 
+ 
+§ 1º  Os sacos que acondicionam os RSS do Grupo D não precisam ser identificados. 
+19   
+ 
+São aqueles populares sacos pretos ou azuis (ou de outras cores). Estes sacos não precisam de 
+identificação para acondicionar os resíduos semelhantes aos domiciliares, os resíduos do Grupo 
+D. 
+ 
+§ 2º A identificação de que trata este artigo deve estar afixada em local de fácil 
+visualização, de forma clara e legível, utilizando- se símbolos e expressões descritos no 
+Anexo II, cores e frases, e outras exigências relacionadas à identificação de conteúdo e 
+à periculosidade específica de cada grupo de RSS. 
+ 
+Todas as identificações, sejam nos ambientes ou nos  recipientes de coleta, sacos, carros, etc., 
+devem estar colocadas em locais onde a visualização  é fácil para todos (público em geral, 
+pacientes nos casos dos serviços de saúde) e não ap enas para os trabalhadores envolvidos no 
+processo de limpeza e higienização do serviço. 
+ 
+§ 3º A identificação dos sacos para acondicionamento deve estar impressa, sendo 
+vedado o uso de adesivo. 
+ 
+É proibido o uso de identificações adesivas nos sacos para acondicionamento de RSS, pois a cola 
+adesiva vai se perdendo e vai certamente se despren der dos sacos, deixando-os sem 
+identificação. Portanto, é importante exigir que a identificação dos sacos seja impressa no 
+mesmo e não colada. 
+ 
+Art. 23  Os RSS gerados pelos serviços de atenção domiciliar devem ser acondicionados 
+e recolhidos pelos próprios agentes de atendimento ou por pessoa treinada para a 
+atividade e encaminhados à destinação final ambientalmente adequada. 
+ 
+Os serviços de atenção domiciliar também são responsáveis pelos resíduos gerados na casa dos 
+pacientes e o manejo destes RSS deve ser feito pelo s profissionais do serviço. Entendemos que 
+pessoas ligadas ao paciente, parentes ou não, possa m ser treinadas e capacitadas para a 
+realização desta tarefa. 
+ 
+Parágrafo único. O transporte destes RSS pode ser feito no próprio veículo utilizado para 
+o atendimento e deve ser realizado em coletores de material resistente, rígido, 
+identificados e com sistema de fechamento dotado de  dispositivo de vedação, 
+garantindo a estanqueidade e o não tombamento. 
+ 
+Uma dúvida que sempre existiu nos serviços de atenç ão domiciliar é se os RSS poderiam ser 
+transportados no mesmo veículo que faz o atendiment o. Entendemos que os riscos desse 
+transporte são mínimos, desde que respeitadas as condições de acondicionamento e transporte, 
+respeitando também, dentro do veículo, o espaço par a os profissionais e colocando estes RSS 
+num local isolado do veículo, como o porta-malas por exemplo. 
+ 
+Art. 24  O descarte de produtos para saúde oriundos de explante deve seguir o disposto 
+na RDC nº 15/2012 ou outra que vier a substituí-la. 
+ 
+No CME Classe II, os produtos para saúde oriundos d e explantes devem ser submetidos ao 
+processo de limpeza, seguida de esterilização.  
+Após o processo de esterilização, estes explantes p odem ser considerados como resíduos sem 
+risco biológico, químico ou radiológico e devem fic ar sob guarda temporária em setor a ser 
+20   
+designado pelo Comitê de Processamento de Produtos para Saúde ou do Responsável Legal pela 
+empresa processadora.  Os explantes constituídos de  componentes desmontáveis, após a 
+esterilização, não devem ser acondicionados na mesm a embalagem, de forma a impedir a 
+remontagem do produto.  Os explantes tratados e o i nstrumental cirúrgico considerado 
+inservível podem ser encaminhados para reciclagem, desde que a empresa que recebe o material 
+seja licenciada para proceder à reciclagem destes m ateriais e o serviço de saúde mantenha 
+registro dos itens que foram encaminhados à empresa.  É proibida a entrega deste material às 
+cooperativas de catadores ou empresas que recolhem materiais inservíveis denominadas de 
+"ferro velho". O material explantado poderá ser ent regue ao paciente mediante solicitação 
+formal.  Admite-se pedido de encaminhamento dos exp lantes tratados para fins de estudo ou 
+análise, por solicitação do fabricante do produto ou instituições de pesquisa ou ensino, mediante 
+autorização do paciente. A entrega dos explantes deverá ser precedida de assinatura de termo 
+de recebimento e responsabilidade e a embalagem de esterilização deverá ser rompida e retida 
+antes da entrega. 
+ 
+Seção II 
+Coleta e transporte interno 
+ 
+A coleta e transporte interno dos RSS consistem no traslado dos resíduos dos pontos de geração 
+até local destinado ao armazenamento temporário ou armazenamento externo, com a 
+finalidade de disponibilização para a coleta. É nesta fase que o processo se torna visível para o 
+usuário e o público em geral, pois os resíduos são transportados nos equipamentos de coleta 
+(carros de coleta) em áreas comuns.  
+Recomendações gerais 
+A coleta e o transporte devem atender ao roteiro pr eviamente definido e devem ser feitos em 
+horários, sempre que factível, não coincidentes com  a distribuição de roupas, alimentos e 
+medicamentos, períodos de visita ou de maior fluxo de pessoas ou de atividades. A coleta deve 
+ser feita separadamente, de acordo com o grupo de resíduos e em recipientes específicos a cada 
+grupo de resíduos. A coleta interna de RSS deve ser planejada com base no tipo de RSS, volume 
+gerado, roteiros (itinerários), dimensionamento dos  abrigos, regularidade, frequência  de 
+horários de coleta externa. Deve ser dimensionada c onsiderando o número de funcionários 
+disponíveis, número de carros de coletas, EPIs e demais ferramentas e utensílios necessários. O 
+transporte interno dos recipientes deve ser realizado sem esforço excessivo ou risco de acidente 
+para o funcionário. Após as coletas, o funcionário deve lavar as mãos ainda enluvadas, retirar as 
+luvas e colocá-las em local próprio. Ressalte-se qu e o funcionário também deve lavar as mãos 
+antes de calçar as luvas e depois de retirá-las. Os equipamentos para transporte interno (carros 
+de coleta) devem ser constituídos de material rígido, lavável, impermeável e providos de tampa 
+articulada ao próprio corpo do equipamento, cantos e bordas arredondados, rodas revestidas de 
+material que reduza o ruído. Também devem ser identificados com o símbolo correspondente ao 
+risco do resíduo nele contido. Os recipientes com mais de 400 litros de capacidade devem possuir 
+válvula de dreno no fundo. O uso de recipientes des providos de rodas requer que sejam 
+respeitados os limites de carga permitidos para o t ransporte pelos trabalhadores, conforme 
+normas reguladoras do Ministério do Trabalho. 
+Recomendações específicas para a operação de coleta interna: 
+- Os carros de coleta devem ter, preferencialmente, pneus de borracha e estar devidamente 
+identificados com símbolos de risco; 
+- Estabelecer turnos, horários e frequência de coleta; 
+- Sinalizar o itinerário da coleta de forma apropriada; 
+- Não utilizar transporte por meio de dutos ou tubos de queda; 
+- Diferenciar as coletas, isto é, executá-las em horários diferentes segundo o tipo de resíduo; 
+- Coletar resíduos recicláveis de forma separada; 
+21   
+- Fazer a manutenção preventiva dos carros para a coleta interna e higienizá-los ao final de cada 
+coleta.  
+ 
+Art. 25  O transporte interno dos RSS deve ser realizado atendendo a rota e a horários 
+previamente definidos, em coletor identificado de a cordo com o Anexo II desta 
+Resolução. 
+ 
+O serviço deve estabelecer rotas de coletas dos RSS  que sejam em horários diferentes das 
+refeições dos pacientes, das medicações e outras ro tinas que o serviço entender que possa 
+colocar em risco a segurança dos pacientes ou dos p rofissionais de saúde ou dos próprios 
+profissionais envolvidos com a limpeza e higienização. 
+ 
+Art. 26  O coletor utilizado para transporte interno deve ser constituído de material liso, 
+rígido, lavável, impermeável, provido de tampa arti culada ao próprio corpo do 
+equipamento, cantos e bordas arredondados. 
+ 
+Estas especificações são para os carros de coleta u tilizados no serviço e tem a finalidade de 
+proteger a saúde dos trabalhadores envolvidos com o gerenciamento de resíduos, bem como dos 
+pacientes e profissionais de saúde. 
+ 
+Parágrafo Único. Os coletores com mais de quatrocen tos litros de capacidade devem 
+possuir válvula de dreno no fundo.   
+ 
+A exigência da válvula é para facilitar o processo de higienização do coletor, minimizando os 
+riscos de contaminação dos trabalhadores envolvidos no gerenciamento de resíduos, bem como 
+do meio ambiente. 
+ 
+Seção III 
+Armazenamento interno, temporário e externo 
+O armazenamento interno não estava previsto na RDC nº 306/2004. Esta nova modalidade de 
+armazenamento foi criada para atender geradores de resíduos dos grupos B e C que apresentam 
+volumes pequenos de resíduos destes grupos, e estes  poderão ficar armazenados em um local 
+específico dentro da própria área de trabalho. Com isso, estes resíduos podem ficar armazenados 
+até que haja um volume significativo que justifique  o custo com a coleta e o tratamento, 
+respeitadas todas as condições inerentes às caracte rísticas destes resíduos, como os níveis de 
+dispensa para os rejeitos radioativos, estabelecidos pela Comissão Nacional de Energia Nuclear. 
+O armazenamento temporário consiste na guarda tempo rária dos recipientes contendo os 
+resíduos já acondicionados, em local próximo aos po ntos de geração, visando agilizar a coleta 
+dentro do estabelecimento e otimizar o deslocamento  entre os pontos geradores e o ponto 
+destinado à disponibilização para coleta externa. Dependendo da distância entre os pontos de 
+geração de resíduos e do armazenamento externo, pod erá ser dispensado o armazenamento 
+temporário, fazendo-se o encaminhamento direto ao l ocal de armazenamento para coleta 
+externa. Não poderá ser feito armazenamento temporário com disposição direta dos sacos sobre 
+o piso, sendo obrigatória a conservação dos sacos em recipientes de acondicionamento. Quando 
+o armazenamento temporário for feito em local exclu sivo, deve ser identificado como sala de 
+resíduo que pode ser um compartimento adaptado para isso, caso não tenha sido concebido na 
+construção, desde que atenda às exigências legais para este tipo de ambiente. A quantidade de 
+salas de resíduos será definida em função do porte,  quantidade de resíduos, distância entre 
+pontos de geração e layout do estabelecimento. Depe ndendo do volume de geração e da 
+funcionalidade do estabelecimento, poderá ser utili zada a "sala de utilidades" de forma 
+compartilhada. Neste caso, além da área mínima de seis metros quadrados destinados à sala de 
+22   
+utilidades, deverá dispor, no mínimo, de mais dois metros quadrados para armazenar dois 
+recipientes coletores para posterior traslado até a área de armazenamento externo. A sala para 
+guarda de recipientes de transporte interno de resíduos deve ter pisos e paredes lisas e laváveis, 
+sendo o piso, além disso, resistente ao tráfego dos recipientes coletores. Deve possuir iluminação 
+artificial e área suficiente para armazenar, no mín imo, dois recipientes coletores, para o 
+posterior traslado até a área de armazenamento exte rno. Para melhor higienização é 
+recomendável a existência de ponto de água e ralo s ifonado com tampa escamoteável. No 
+armazenamento temporário não é permitida a retirada  dos sacos de resíduos de dentro dos 
+recipientes coletores ali estacionados. Os resíduos  de fácil putrefação que venham a ser 
+coletados por período superior a 24 horas de seu ar mazenamento devem ser conservados sob 
+refrigeração e, quando não for possível, ser submetidos a outro método de conservação. O local 
+para o armazenamento dos resíduos químicos deve ser  fechado, dotado de aberturas teladas 
+para ventilação, com dispositivo que impeça a luz s olar direta, pisos e paredes em materiais 
+laváveis com sistema de retenção de líquidos. 
+O armazenamento externo consiste no acondicionament o dos resíduos em abrigo, em 
+recipientes coletores adequados, em ambiente exclusivo e com acesso facilitado para os veículos 
+coletores, no aguardo da realização da etapa de col eta externa. O abrigo de resíduos deve ser 
+dimensionado de acordo com o volume de resíduos ger ados, com capacidade de 
+armazenamento compatível com a periodicidade de coleta do sistema de limpeza urbana local. 
+Deve ser construído em ambiente exclusivo, possuindo, no mínimo, um ambiente separado para 
+atender o armazenamento de recipientes de resíduos do grupo A juntamente com o grupo E e 
+um ambiente para o grupo D.  
+O local desse armazenamento externo de RSS deve apresentar as seguintes características: 
+- Acessibilidade: o ambiente deve estar localizado e c onstruído de forma a permitir acesso 
+facilitado para os recipientes de transporte e para os veículos coletores; 
+- Exclusividade: o ambiente deve ser utilizado somente para o armazenamento de resíduos; 
+- Segurança: o ambiente deve reunir condições físicas estruturais adequadas, impedindo a ação 
+do sol, chuva, ventos etc. e que pessoas não autorizadas ou animais tenham acesso ao local; 
+- Higiene e saneamento: deve haver local para higieniz ação dos carrinhos e coletores de 
+resíduos. O ambiente deve contar com boa iluminação  e ventilação e ter pisos e paredes 
+revestidos com materiais resistentes aos processos de higienização, como azulejos, porcelanatos 
+ou tinta epóxi, por exemplo. 
+O abrigo de resíduos do grupo A deve atender aos seguintes requisitos: 
+- Ser fechado, dotado apenas de aberturas para ventilação, teladas, que possibilitem uma área 
+mínima de ventilação correspondente a 1/20 da área do piso e não inferior a 0,20 m2; 
+- Ser revestido internamente (piso e paredes) com material liso, lavável, impermeável, resistente 
+ao tráfego e impacto; 
+- Ter porta provida de tela de proteção contra roedores e vetores, de largura compatível com as 
+dimensões dos recipientes de coleta externa; 
+- Possuir símbolo de identificação, em local de fácil visualização, de acordo com a natureza do 
+resíduo; 
+- Possuir área específica de higienização para limpeza e desinfecção simultânea dos recipientes 
+coletores e demais equipamentos utilizados no manej o de RSS. A área deve possuir cobertura, 
+dimensões compatíveis com os equipamentos que serão  submetidos à limpeza e higienização, 
+piso e paredes lisos, impermeáveis, laváveis, ser p rovida de pontos de iluminação e tomada 
+elétrica, ponto de água, canaletas de escoamento de  águas servidas direcionadas para a rede 
+de esgotos do estabelecimento e ralo sifonado provido de tampa que permita  o seu  fechamento. 
+O estabelecimento gerador de resíduos de serviços de saúde, cuja produção semanal não exceda 
+700 litros e cuja produção diária não exceda 150 litros, pode optar pela instalação de um abrigo 
+reduzido. Este deve possuir as seguintes características: 
+- Ser exclusivo para guarda temporária de RSS, devidamente acondicionados em recipientes; 
+- Ter piso, paredes, porta e teto de material liso, impermeável, lavável, resistente ao impacto; 
+23   
+- Ter ventilação mínima de duas aberturas de 10 cm x 20 cm cada (localizadas uma a 20 cm do 
+piso e outra a 20 cm do teto), abrindo para a área externa. A critério da autoridade sanitária, 
+essas aberturas podem dar para áreas internas do estabelecimento; 
+- Ter piso com caimento mínimo de 2% para o lado opost o à entrada, sendo recomendada a 
+instalação de ralo sifonado ligado à rede de esgoto sanitário; 
+- Ter identificação na porta com o símbolo de acordo com o tipo de resíduo armazenado; 
+- Ter localização tal que não abra diretamente para áreas de permanência de pessoas, dando-se 
+preferência a locais de fácil acesso a coleta externa. 
+O abrigo de resíduos do grupo B deve ser projetado, construído e operado de modo a: 
+- Ser fechado, dotado apenas de aberturas teladas que  possibilitem uma área de ventilação 
+adequada; 
+- Ser revestido internamente (piso e parede) com material de acabamento liso, como azulejos, 
+porcelanatos ou tinta epóxi, por exemplo, resistent e ao tráfego e impacto, lavável e 
+impermeável; 
+- Ter porta dotada de proteção inferior, impedindo o acesso de vetores e roedores; 
+- Ter piso com caimento na direção das canaletas ou ralos; 
+- Estar identificado, em local de fácil visualizaçã o, com sinalização de segurança - com as 
+palavras RESÍDUOS QUÍMICOS - com símbolo; 
+- Prever a blindagem dos pontos internos de energia el étrica, quando houver armazenamento 
+de grande volume de resíduos inflamáveis; 
+- Ter dispositivo de forma a evitar incidência direta de luz solar; 
+- Ter sistema de combate a incêndio por meio de extintores de CO 2 e PQS (pó químico seco) ou 
+extintor Multiuso (ABC).  
+- Ter kit de emergência para os casos de derramamento ou vazamento, incluindo produtos 
+absorventes, pá, vassoura, saco plásticos de diferentes tamanhos e etiquetas para identificar o 
+resíduo coletado. 
+- Armazenar os resíduos constituídos de produtos per igosos corrosivos e inflamáveis próximos 
+ao piso; 
+- Observar as medidas de segurança recomendadas para produtos químicos que podem formar 
+peróxidos; 
+- Não receber nem armazenar resíduos sem identificação; 
+- Organizar o local de armazenamento de acordo com critérios de compatibilidade, segregando 
+os recipientes com resíduos em bandejas; 
+- Manter registro dos resíduos recebidos; 
+- Manter o local trancado, impedindo o acesso de pessoas não autorizadas. 
+ 
+Art. 27  No armazenamento temporário e externo de RSS é obrigatório manter os sacos 
+acondicionados dentro de coletores com a tampa fechada. 
+ 
+Os sacos contendo os RSS quando estiverem no local de armazenamento temporário ou no 
+externo nunca devem estar no chão, ou sobre paletes, esteiras ou qualquer outro tipo de suporte. 
+Estes devem sempre estar dentro dos coletores que d evem ser mantidos com as tampas 
+fechadas. 
+ 
+Art. 28 Os procedimentos para o armazenamento inter no devem ser descritos e 
+incorporados ao PGRSS do serviço. 
+ 
+O armazenamento interno é a guarda do resíduo contendo produto químico ou rejeito radioativo 
+na área de trabalho. O serviço que optar por fazer a guarda dos seus resíduos do grupo B ou C 
+desta forma, deve possuir procedimentos escritos para tal, e estes devem fazer parte do PGRSS. 
+ 
+24   
+Parágrafo único. A coleta e o transporte externo dos RSS devem ser compatíveis com os 
+Planos Municipais e do Distrito Federal de Gestão Integrada de Resíduos Sólidos e com 
+as demais normativas aplicáveis. 
+ 
+Para estas etapas do gerenciamento de RSS os serviç os deverão observar e seguir as diretrizes 
+definidas pelos municípios e o Distrito Federal na gestão de resíduos. Estas diretrizes devem 
+seguir ou se basear na Lei 12.305/2010 que dispõe sobre a Política Nacional dos Resíduos Sólidos 
+e também em outras normativas que possam existir e se aplicar. Portanto, é fundamental que 
+todo serviço gerador de RSS conheça as normativas locais sanitárias e ambientais, bem como as 
+de limpeza pública, na hora da construção do seu Pl ano de Gerenciamento de Resíduos de 
+Serviços de Saúde – PGRSS.  
+ 
+Art. 29     O abrigo temporário de RSS deve: 
+ 
+I - ser provido de pisos e paredes revestidos de ma terial resistente, lavável e 
+impermeável; 
+ 
+Para garantir a eficiência do processo de limpeza e higienização do abrigo temporário.  
+ 
+II - possuir ponto de iluminação artificial e de água, tomada elétrica alta e ralo sifonado 
+com tampa; 
+ 
+Para facilitar o processo de limpeza e higienização do abrigo temporário.  
+ 
+III - quando provido de área de ventilação, esta de ve ser dotada de tela de proteção 
+contra roedores e vetores; 
+ 
+Para minimizar os riscos de contaminação e transmissão de doenças. 
+ 
+IV - ter porta de largura compatível com as dimensões dos coletores; e 
+ 
+Para facilitar a manobra e a colocação dos coletores dentro do abrigo temporário . 
+ 
+V - estar identificado como "ABRIGO TEMPORÁRIO DE RESÍDUOS”. 
+ 
+Para melhorar o processo de trabalho dos envolvidos  com o gerenciamento de RSS e evitar a 
+entrada de pessoas estranhas ao serviço no ambiente. 
+ 
+Art. 30   O armazenamento temporário pode ser dispensado no caso em que o fluxo de 
+recolhimento e transporte justifique. 
+ 
+Este tipo de armazenamento existe para facilitar o trabalho dos envolvidos com o gerenciamento 
+de RSS ao criar microambientes que possam guardar o s RSS de maneira temporária, porém 
+segura, antes dos mesmos serem levados para o abrig o externo, de onde serão coletados. A 
+criação ou não de local exclusivo para o armazenamento temporário é opcional ao serviço, que 
+pode entender que, devido ao seu porte e/ou quantid ade de RSS gerados, estes podem ser 
+levados diretamente para o local de armazenamento externo. 
+ 
+25   
+Art. 31  A sala de utilidades ou expurgo pode ser compartilh ada, para o 
+armazenamento temporário dos RSS dos Grupos A, E e D, devendo ser compatível com 
+a área a ser ocupada pelos coletores em uso. 
+ 
+Este artigo visa proporcionar ao serviço uma opção a mais para se criar um abrigo temporário.  
+É importante observar se a referida sala tem capacidade suficiente, seja de espaço ou de serviço, 
+para cumprir sua tarefa como uma sala de utilidades, bem como de armazenar os coletores de 
+RSS. 
+ 
+Parágrafo único. Na hipótese descrita no caput,  a sala de utilidades ou expurgo deve 
+conter também a identificação com a inscrição “ABRIGO TEMPORÁRIO DE RESÍDUOS”. 
+ 
+Para melhorar o processo de trabalho dos envolvidos  com o gerenciamento de RSS e evitar a 
+entrada de pessoas estranhas ao serviço no ambiente. 
+ 
+Art. 32  RSS de fácil putrefação devem ser submetidos a méto do de conservação em 
+caso de armazenamento por período superior a vinte e quatro horas. 
+ 
+A Anvisa não vai citar ou propor nenhum método de c onservação, cabe a cada serviço definir 
+que método de conservação destes resíduos será util izado e cabe à vigilância sanitária local 
+verificar se o método atende à normativa. 
+ 
+Art. 33   O gerenciamento de rejeitos radioativos, grupo C, deve obedecer ao Plano de 
+Proteção Radiológica do Serviço, as Normas da CNEN e demais normas aplicáveis. 
+ 
+Todo serviço que gera rejeitos radioativos deve ter um plano de proteção radiológica, construído 
+e implementado por profissional específico, de acordo com as normas da Comissão Nacional de 
+Energia Nuclear e outras normas que possam existir. 
+ 
+Art. 34  O abrigo externo deve ter, no mínimo, um ambiente p ara armazenar os 
+coletores dos RSS do Grupo A, podendo também conter  os RSS do grupo E, e outro 
+ambiente exclusivo para armazenar os coletores de RSS do grupo D. 
+ 
+Ambiente: espaço fisicamente determinado e especial izado para o desenvolvimento de 
+determinadas atividades, caracterizado por dimensõe s e instalações diferenciadas. Pode-se 
+constituir de uma sala ou de uma área; 
+Área: ambiente aberto, sem paredes em um ou mais lados; 
+Sala: ambiente envolto por paredes em todo o seu perímetro e uma porta;  
+No interior do abrigo externo os ambientes citados no caput do artigo devem estar separados, 
+podendo no mesmo ambiente estar os resíduos biológi cos (Grupo A) e os perfurocortantes 
+(Grupo E), exceto os resíduos comuns (Grupo D), que  deverão estar em ambiente exclusivo. 
+Entendemos que o ambiente exclusivo para os resíduos do grupo D deve ser uma sala. 
+ 
+Art. 35  O abrigo externo deve: 
+ 
+I - permitir fácil acesso às operações do transporte interno;  
+ 
+Para facilitar o elo entre o fluxo de coleta interna do serviço e o abrigo externo. 
+ 
+II - permitir fácil acesso aos veículos de coleta externa;  
+26   
+ 
+Para facilitar e dar celeridade ao processo de coleta externa e transporte dos RSS. 
+ 
+III - ser dimensionado com capacidade de armazenagem mínima equivalente à ausência 
+de uma coleta regular, obedecendo à frequência de coleta de cada grupo de RSS;  
+ 
+Caso a coleta no serviço seja feita diariamente, po r exemplo, as dimensões do abrigo externo 
+devem ser capazes de suportar o armazenamento dos RSS por mais um dia, isso é equivalente à 
+ausência de uma coleta regular, que no exemplo dado é diária. 
+ 
+IV – ser construído com piso, paredes e teto de mat erial resistente, lavável e de fácil 
+higienização, com aberturas para ventilação e com t ela de proteção contra acesso de 
+vetores;  
+ 
+Para facilitar o processo de limpeza e higienização  do abrigo externo, bem como minimizar a 
+possibilidade de propagação de doenças. As paredes e teto poderão ser revestidos, por exemplo, 
+com azulejo, porcelanato ou tinta epóxi. 
+ 
+V - ser identificado conforme os Grupos de RSS armazenados;  
+ 
+Para melhorar o processo de trabalho dos envolvidos com o gerenciamento de RSS.  
+ 
+VI - ser de acesso restrito às pessoas envolvidas no manejo de RSS;  
+ 
+Para evitar a entrada de pessoas estranhas ao serviço no ambiente. 
+ 
+VII - possuir porta com abertura para fora, provida de proteção inferior contra roedores 
+e vetores, com dimensões compatíveis com as dos coletores utilizados;  
+ 
+Para facilitar o processo de manejo dos RSS, evitan do a entrada de animais no ambiente que 
+possam ser potenciais propagadores de vetores para o serviço. 
+ 
+VIII - ter ponto de iluminação; 
+ 
+Para facilitar o processo de manejo dos RSS. 
+ 
+IX - possuir canaletas para o escoamento dos efluentes de lavagem, direcionadas para a 
+rede de esgoto, com ralo sifonado com tampa;  
+ 
+Para canalizar e levar os efluentes unidirecionalme nte, facilitando o processo de limpeza e 
+higienização do abrigo, bem como minimizando a possibilidade de propagação de doenças. 
+ 
+X - possuir área coberta para pesagem dos RSS, quando couber;  
+ 
+Para proteger os trabalhadores envolvidos no proces so nos dias de chuva ou sol intenso e 
+também evitar a lixiviação de qualquer tipo de resíduo. 
+ 
+XI – possuir área coberta, com ponto de saída de água, para higienização e limpeza dos 
+coletores utilizados.  
+27   
+ 
+Para proteger os trabalhadores envolvidos no processo nos dias de chuva ou sol intenso. 
+ 
+Art. 36  O abrigo externo dos RSS do Grupo B deve, ainda: 
+ 
+I - respeitar a segregação das categorias de RSS qu ímicos e incompatibilidade química, 
+conforme os Anexos III e IV desta Resolução; 
+ 
+É importante que o serviço tenha procedimentos escr itos e que os trabalhadores sejam 
+capacitados para garantir o cumprimento deste incis o, principalmente no que diz respeito à 
+compatibilidade entre os resíduos, bem como destes com as embalagens. 
+ 
+II - estar identificado com a simbologia de risco a ssociado à periculosidade do RSS 
+químico, conforme Anexo II desta Resolução; 
+ 
+Para facilitar o gerenciamento deste tipo de resíduo. 
+ 
+III - possuir caixa de retenção a montante das canaletas para o armazenamento de RSS 
+líquidos ou outra forma de contenção validada; 
+ 
+A caixa de retenção deve estar a um ponto mais baix o que as canaletas ou o serviço pode 
+desenvolver e validar outro sistema de contenção. 
+ 
+IV - possuir sistema elétrico e de combate a incênd io, que atendam os requisitos de 
+proteção estabelecidos pelos órgãos competentes. 
+  
+No geral, estes requisitos são dados e verificados pelo Corpo de Bombeiros. 
+ 
+Art. 37  É proibido o armazenamento dos coletores em uso fora de abrigos. 
+ 
+Os abrigos devem ser dimensionados para que todos o s coletores em uso no serviço sejam 
+armazenados nos seus interiores. 
+ 
+Parágrafo Único. O armazenamento interno de RSS quí mico ou rejeito radioativo pode 
+ser feito no local de trabalho onde foram gerados. 
+ 
+A RDC nº 222/2018 traz este ambiente, chamado armazenamento interno, especificamente para 
+os resíduos do grupo B e do grupo C. O intuito é at ender serviços que possuem uma geração 
+pequena destes tipos de resíduos, podendo armazená- los até que se acumule um volume que 
+justifique a contratação de uma empresa especializada no manejo destes RSS. 
+ 
+Seção IV 
+Coleta e transporte externos 
+ 
+A coleta externa consiste na remoção dos RSS do abrigo de resíduos (armazenamento externo) 
+até a unidade de tratamento ou disposição final, pe la utilização de técnicas que garantam a 
+preservação das condições de acondicionamento e a i ntegridade dos trabalhadores, da 
+população e do meio ambiente. Deve estar de acordo com as regulamentações do órgão de 
+limpeza urbana. 
+Recomendações gerais 
+28   
+No transporte dos RSS podem ser utilizados diferentes tipos de veículos, de pequeno até grande 
+porte, dependendo das definições técnicas dos siste mas municipais. Geralmente para esses 
+resíduos são utilizados dois tipos de carrocerias: montadas sobre chassi de veículos e do tipo 
+furgão, ambas sem compactação, para evitar que os sacos se rompam. Os sacos nunca devem 
+ser retirados do suporte durante o transporte, tamb ém para evitar ruptura. Para que o 
+gerenciamento dentro e fora do estabelecimento poss a ser eficaz é necessário que o poder 
+público se envolva e estabeleça leis e regulamentos  sobre a gestão de resíduos de serviços de 
+saúde, assumindo o seu papel de gestor local. O pessoal envolvido na coleta e no transporte dos 
+RSS deve observar rigorosamente a utilização dos EPIs e EPCs adequados. Em caso de acidente 
+de pequenas proporções, a própria equipe encarregad a da coleta externa deve retirar os 
+resíduos do local atingido, efetuando a limpeza e d esinfecção simultânea, mediante o uso dos 
+EPIs e EPCs adequados. Em caso de acidente de grand es proporções, a empresa e/ou 
+administração responsável pela execução da coleta e xterna deve notificar imediatamente os 
+órgãos municipais e estaduais de controle ambiental e de saúde pública. Ao final de cada turno 
+de trabalho, o veículo coletor deve ser submetido à limpeza e desinfecção simultânea, mediante 
+o uso de jato de água, preferencialmente quente e s ob pressão. Esses veículos não podem ser 
+lavados em postos de abastecimento comuns. O método de desinfecção do veículo deve ser alvo 
+de avaliação por parte do órgão que licencia o veículo coletor. 
+Recomendações específicas 
+Para a coleta de RSS do grupo A, o veículo deve ter os seguintes requisitos: 
+- Ter superfícies internas lisas, de cantos arredondados e de forma a facilitar a higienização; 
+- Não permitir vazamentos de líquidos e ser provido de ventilação adequada; 
+- Sempre que a forma de carregamento for manual, a altura de carga deve ser inferior a 1,20 m; 
+- Quando possuir sistema de carga e descarga, este d eve operar de forma a não permitir o 
+rompimento dos recipientes; 
+- Quando forem utilizados coletores de acondicionamento de resíduos, o veículo deve ser dotado 
+de equipamento hidráulico de basculamento; 
+- Para veículo com capacidade superior a 1 tonelada, a descarga pode ser mecânica; para veículo 
+com capacidade inferior a 1 tonelada, a descarga pode ser mecânica ou manual; 
+- O veículo coletor deve contar com os seguintes equipamentos auxiliares: pá, rodo, saco plástico 
+de reserva, solução desinfetante; 
+- Devem constar em local visível o nome da municipal idade, o nome da empresa coletora 
+(endereço e telefone), a especificação dos resíduos transportáveis e o número do veículo coletor; 
+-Portar sinalização externa; 
+- Exibir a simbologia para o transporte rodoviário; 
+- Ter documentação que identifique a conformidade pa ra a execução da coleta, pelo órgão 
+competente. 
+Para a coleta de RSS do grupo B, resíduos químicos perigosos, o veículo deve atender aos 
+seguintes requisitos: 
+- Observar o Decreto Federal no 96.044, de 18 de maio de 1988, e a Portaria Federal n. º 204, de 
+20 de maio de 1997 e as Resoluções da ANTT n. º 3665/2011, 5232/2016 e 5581/2017. 
+- Portar documentos de inspeção e capacitação, em va lidade, atestando a sua adequação, 
+emitidos pelo Instituto de Pesos e Medidas ou entidade por ele credenciada. 
+ 
+Art. 38  Os veículos de transporte externo dos RSS não podem ser dotados de sistema 
+de compactação ou outro sistema que danifique os sacos contendo os RSS, exceto para 
+os RSS do Grupo D. 
+ 
+Não podem ser utilizados na coleta e transporte dos RSS caminhões que fazem a compactação 
+dos resíduos no seu interior, pelo fato do risco do s sacos rasgarem e ocorrer o vazamento dos 
+resíduos, com um potencial de contaminação do meio ambiente e dos trabalhadores envolvidos 
+29   
+no processo de gerenciamento dos RSS. Esta regra nã o se aplica aos resíduos semelhantes aos 
+domiciliares, ou seja, os resíduos do grupo D. 
+ 
+Art. 39  O transporte externo de rejeitos radioativos, deve seguir normas específicas, 
+caso existam, e as normas da CNEN. 
+ 
+Para o transporte externo de rejeitos do Grupo C, o serviço deve observar a existência de alguma 
+normativa local e sempre seguir as normas e diretrizes da Comissão Nacional de Energia Nuclear. 
+ 
+Seção V 
+Destinação 
+ 
+Art. 40  Os RSS que não apresentam risco biológico, químico ou radiológico podem ser 
+encaminhados para reciclagem, recuperação, reutiliz ação, compostagem, 
+aproveitamento energético ou logística reversa. 
+ 
+Estes RSS são aqueles semelhantes aos domiciliares e podem ter todas as destinações listadas 
+no caput do artigo, atendendo ao preconizado na Lei 12.305/2010. 
+ 
+Art. 41  Os rejeitos que não apresentam risco biológico, químico ou radiológico devem 
+ser encaminhados para disposição final ambientalmente adequada. 
+ 
+Consiste na disposição definitiva de resíduos no solo ou em locais previamente preparados para 
+recebê-los. Pela legislação brasileira a disposição  deve obedecer a critérios técnicos de 
+construção e operação, para as quais é exigido lice nciamento ambiental de acordo com a 
+Resolução CONAMA nº 237/97. O projeto deve seguir as normas da ABNT. As formas adequadas 
+de disposição final dos RSS são: aterro sanitário, aterro de resíduos perigosos classe I (para 
+resíduos industriais e químicos perigosos), células  especiais para RSS (conforme Resolução 
+358/2005 do CONAMA), e todos devem ter licença de operação emitido pelo órgão ambiental. 
+Aterro sanitário - É um processo utilizado para a disposição de resíduos sólidos no solo de forma, 
+segura e controlada, garantindo a preservação ambie ntal e a saúde pública. O sistema está 
+fundamentado em critérios de engenharia e normas op eracionais específicas. Este método 
+consiste na compactação dos resíduos em camada sobre o solo devidamente impermeabilizado 
+(empregando-se, por exemplo, um trator de esteira) e no controle dos efluentes líquidos e 
+emissões gasosas. Seu recobrimento é feito diariamente com camada de solo compactado para 
+evitar proliferação de moscas e aparecimento de roedores e baratas; espalhamento de papéis, 
+lixo, pelos arredores; poluição das águas superfici ais e subterrâneas. O principal objetivo do 
+aterro sanitário é dispor os resíduos no solo de fo rma segura e controlada, garantindo a 
+preservação ambiental e a saúde. 
+Aterro de resíduos perigosos - classe I - aterro industrial - Técnica de disposição final de resíduos 
+químicos no solo, sem causar danos ou riscos à saúd e pública, minimizando os impactos 
+ambientais e utilizando procedimentos específicos de engenharia para o confinamento destes. 
+ Células especiais para RSS  - Esta técnica, com a impermeabilização do solo, é  empregada em 
+pequenos municípios. Consiste no preenchimento de v alas escavadas impermeabilizadas, com 
+largura e profundidade proporcionais à quantidade de lixo a ser aterrada. A terra é retirada com 
+retroescavadeira ou trator que deve ficar próxima à s valas e, posteriormente, ser usada na 
+cobertura diária dos resíduos. Os veículos de colet a depositam os resíduos sem compactação 
+diretamente no interior da vala e, no final do dia, é efetuada sua cobertura com terra, podendo 
+ser feita manualmente ou por meio de máquina.  
+Infelizmente, há predominância de formas inadequada s de disposição de resíduos sólidos no 
+Brasil, que devem ser combatidas, como: 
+30   
+Lixão ou vazadouro - Este é considerado um método inadequado de dispos ição de resíduos 
+sólidos e se caracteriza pela simples descarga de resíduos sobre o solo, sem medidas de proteção 
+ao meio ambiente e à saúde. É altamente prejudicial  à saúde e ao meio ambiente, devido ao 
+aparecimento de vetores indesejáveis, mau cheiro, c ontaminação das águas superficiais e 
+subterrâneas, presença de catadores e risco de expl osões devido à geração de gases (metano: 
+CH 4) oriundos da degradação do lixo. 
+Aterro controlado - Trata-se de um lixão melhorado. Neste sistema os resíduos são 
+descarregados no solo, com recobrimento de camada d e material inerte, diariamente. Esta 
+forma não evita os problemas de poluição, pois é carente de sistemas de drenagem, tratamento 
+de líquidos, gases, impermeabilização etc. 
+ 
+Art. 42  As embalagens primárias vazias de medicamentos cuja s classes farmacêuticas 
+constem no Art. 59 desta Resolução devem ser descar tadas como rejeitos e não 
+precisam de tratamento prévio à sua destinação. 
+ 
+A embalagem primária é aquela que está em contato d ireto com o produto. É preciso que o 
+serviço verifique o artigo 59 para ver se aquele medicamento que vai ser descartado consta em 
+uma das classes farmacêuticas citadas, devendo este encaminhar a embalagem primária como 
+rejeito, sem, no entanto, a necessidade de se tratar esta. 
+ 
+Art. 43  Sempre que não houver indicação específica, o trata mento do RSS pode ser 
+realizado dentro ou fora da unidade geradora.  
+ 
+O novo texto da norma procurou tornar mais clara es sa situação que sempre foi motivo de 
+questionamentos por parte dos geradores de RSS e também da vigilância sanitária. Para os RSS 
+que precisarem de tratamento mais específico, será informado no artigo respectivo onde deve 
+se dar o tratamento, que pode ser no local em que este foi gerado, ou dentro do estabelecimento 
+como um todo, ou seja, não necessariamente no local em que o RSS foi gerado, ou ainda fora do 
+estabelecimento. E, conforme o caput do artigo, se não estiver escrito que o tratamento deve ser 
+feito num respectivo local, este poderá ser feito dentro ou fora do local onde foi gerado. 
+ 
+Parágrafo único. Os RSS tratados devem ser considerados como rejeitos.  
+ 
+A RDC nº 306/2004 preconiza que quando houver desca racterização física após o tratamento, 
+os resíduos podem ser descartados como comuns. A no va normativa acabou com essa 
+prerrogativa, uma vez que não temos garantia de que  todos os tratamentos realizados 
+realmente descaracterizam 100% dos resíduos, por is so, preconiza-se agora que todos os RSS 
+tratados devem seguir o caminho dos rejeitos. 
+ 
+Art. 44  O tratamento dos RSS que apresentem múltiplos risco s deve obedecer à 
+seguinte sequência: 
+ 
+Para o caso de resíduos que tenham a presença de ma is de um grupo, por exemplo, um 
+perfurocortante contaminado com material biológico, ou um resíduo químico. 
+ 
+I - na presença de risco radiológico associado, armazenar para decaimento da atividade 
+do radionuclídeo até que o nível de dispensa seja atingido; 
+ 
+Sempre que houver risco radiológico, ou seja, mater ial radioativo com atividade acima das 
+especificadas pela CNEN, dever-se-á aguardar primeiramente o decaimento radioativo, para que 
+31   
+este chegue aos níveis de dispensa, antes de se tratar outros riscos. Portanto, resíduos de outros 
+grupos só devem ser tratados após o nível de dispensa do elemento radioativo ser atingido. Deve-
+se atentar para a necessidade de preservar o resíduo putrescível, durante o aguardo do tempo 
+de decaimento radiológico. 
+ 
+II - na presença de risco biológico associado conte ndo agente biológico classe de risco 
+4, encaminhar para tratamento; e 
+ 
+Para o cumprimento deste inciso, seguir o guia Diretrizes Gerais para o trabalho em contenção 
+com Agentes Biológicos do Ministério da Saúde. 
+ 
+III - na presença de riscos químico e biológico, o tratamento deve ser compatível com 
+ambos os riscos associados. 
+ 
+Neste caso o responsável pelo gerenciamento de resíduos no serviço deve avaliar, principalmente 
+o risco químico envolvido para se determinar o tipo  de tratamento. Pode ser que o resíduo 
+químico seja termo sensível ou tenha alguma outra p articularidade que possa dificultar o 
+tratamento que também deverá ser dado ao resíduo biológico. 
+ 
+Parágrafo único. Após o tratamento, o símbolo de id entificação relativo ao risco do 
+resíduo tratado deve ser retirado. 
+ 
+Se houve o tratamento do resíduo que estava produzindo o risco químico, por exemplo, e ainda 
+vai se fazer o tratamento para o risco biológico, a  identificação de risco químico deverá ser 
+retirada. 
+ 
+Art. 45  A destinação dos medicamentos recolhidos ou apreend idos, objetos de ações 
+de fiscalização sanitária, deve seguir a determinaç ão prevista no Art. 59 desta 
+Resolução. 
+ 
+Estes medicamentos, cujas classes farmacêuticas estão listadas no artigo 59, devem ser tratados 
+ou encaminhados para aterro de resíduos perigosos – Classe I. 
+ 
+Parágrafo Único. É responsabilidade do serviço prov idenciar o tratamento previsto no 
+Art. 59 desta resolução. 
+ 
+O serviço, de onde foi feita a apreensão ou recolhi mento, deverá arcar com todos os custos 
+envolvidos no tratamento necessário a estes resíduos. 
+ 
+Capítulo IV 
+DO GERENCIAMENTO DOS GRUPOS DE RESÍDUOS DE SERVIÇOS DE SAÚDE 
+ 
+Seção I 
+Resíduos de Serviços de Saúde do Grupo A - Subgrupo A1 
+ 
+Art. 46  As culturas e os estoques de microrganismos; os res íduos de fabricação de 
+produtos biológicos, exceto os de medicamentos hemoderivados; os meios de cultura e 
+32   
+os instrumentais utilizados para transferência, ino culação ou mistura de culturas; e os 
+resíduos de laboratórios de manipulação genética devem ser tratados. 
+ 
+Os resíduos de medicamentos hemoderivados são classificados no grupo B. 
+ 
+§ 1º Devem ser submetidos a tratamento, utilizando processos que vierem a ser 
+validados para a obtenção de redução ou eliminação da carga microbiana, em 
+equipamento compatível com Nível III de inativação microbiana. 
+ 
+A Anvisa não vai fazer a indicação de tipos de trat amento. Cada serviço gerador de RSS tem 
+autonomia para utilizar processos de tratamento que  atendam ao preconizado na legislação 
+vigente. Sugerimos consultar a PORTARIA Nº 2.349, DE 14 DE SETEMBRO DE 2017 que aprova 
+a Classificação de Risco dos Agentes Biológicos ela borada em 2010, pela Comissão de 
+Biossegurança em Saúde (CBS), do Ministério da Saúde. 
+ 
+§ 2º As culturas e os estoques de microrganismos, b em como os meios de cultura e os 
+instrumentais utilizados para transferência, inoculação ou mistura de culturas contendo 
+microrganismos das classes de risco 1 e 2 podem ser tratados fora da unidade geradora, 
+desde que este tratamento ocorra nas dependências do serviço de saúde. 
+ 
+Estes resíduos não podem deixar o estabelecimento sem o devido tratamento, podendo este ser 
+feito no local em que ele foi gerado ou ser levado para outro local dentro do mesmo 
+estabelecimento para ser tratado. Sugerimos consult ar a PORTARIA Nº 2.349, DE 14 DE 
+SETEMBRO DE 2017 que aprova a Classificação de Risco dos Agentes Bio lógicos elaborada em 
+2010, pela Comissão de Biossegurança em Saúde (CBS), do Ministério da Saúde. 
+ 
+§ 3º As culturas e os estoques de microrganismos, b em como os meios de cultura e os 
+instrumentais utilizados para transferência, inoculação ou mistura de culturas contendo 
+microrganismos das classes de risco 3 e 4 devem ser tratados na unidade geradora.   
+ 
+Estes resíduos não podem deixar o local onde eles f oram gerados sem o devido tratamento, 
+inclusive não podem ser levados para a sala do lado , por exemplo, pois o tratamento, que 
+normalmente é a autoclavação, deve ser feito no loc al onde o resíduo foi gerado. Sugerimos 
+consultar a PORTARIA Nº 2.349, DE 14 DE SETEMBRO DE 2017 que aprova a Classificação de 
+Risco dos Agentes Biológicos elaborada em 2010, pel a Comissão de Biossegurança em Saúde 
+(CBS), do Ministério da Saúde. 
+ 
+§ 4º Estes RSS devem ser acondicionados de maneira compatível com o processo de 
+tratamento.  
+ 
+O acondicionamento precisa ser feito de forma que haja eficiência no tratamento, ou seja, este 
+resíduo precisa ser tratado homogeneamente e de forma eficaz.  
+ 
+§ 5º Após o tratamento, os rejeitos devem ser encam inhados para disposição final 
+ambientalmente adequada. 
+ 
+De acordo com a Lei nº 12.305/2010 que dispõe sobre a política nacional de resíduos sólidos, os 
+rejeitos só tem um caminho que é a disposição final em aterros sanitários. 
+ 
+33   
+Art. 47  Os RSS resultantes de atividades de vacinação com m icrorganismos vivos, 
+atenuados ou inativados incluindo frascos de vacina s com expiração do prazo de 
+validade, com conteúdo inutilizado ou com restos do  produto e seringas, quando 
+desconectadas, devem ser tratados antes da disposição final.  
+ 
+Estas seringas são as que possuem mecanismos automáticos de desconexão, lembrando que é 
+proibida a desconexão manual de agulhas. O tratamento aqui pode ser feito dentro ou fora da 
+unidade geradora, inclusive fora do estabelecimento , desde que respeitadas as condições 
+mínimas de acondicionamento e transporte destes resíduos. 
+ 
+Parágrafo Único. As agulhas e o conjunto seringa-ag ulha utilizadas na aplicação de 
+vacinas, quando não desconectadas, devem atender às  regras de manejo dos resíduos 
+perfurocortantes. 
+ 
+Estes resíduos deverão ser segregados em recipientes específicos para resíduos perfurocortantes 
+e encaminhados para tratamento antes da disposição final. O tratamento aqui pode ser feito 
+dentro ou fora da unidade geradora, inclusive fora do estabelecimento, desde que respeitadas 
+as condições mínimas de acondicionamento e transporte destes resíduos. 
+ 
+Art. 48  Os RSS resultantes da atenção à saúde de indivíduos  ou animais com suspeita 
+ou certeza de contaminação biológica por agentes classe de risco 4, por microrganismos 
+com relevância epidemiológica e risco de disseminaç ão, causadores de doença 
+emergente que se tornem epidemiologicamente importantes, ou cujos mecanismos de 
+transmissão sejam desconhecidos, devem ser tratados  antes da disposição final 
+ambientalmente adequada. 
+ 
+O tratamento aqui pode ser feito dentro ou fora da unidade geradora, inclusive fora do 
+estabelecimento, desde que respeitadas as condições  mínimas de acondicionamento e 
+transporte destes resíduos. Sugerimos consultar a PORTARIA Nº 2.349, DE 14 DE SETEMBRO DE 
+2017 que aprova a Classificação de Risco dos Agentes Bio lógicos elaborada em 2010, pela 
+Comissão de Biossegurança em Saúde (CBS), do Ministério da Saúde. 
+ 
+Art. 49  As bolsas de sangue e de hemocomponentes rejeitadas por contaminação, por 
+má conservação, com prazo de validade vencido e ori undas de coleta incompleta; as 
+sobras de amostras de laboratório contendo sangue o u líquidos corpóreos; bem como 
+os recipientes e materiais resultantes do processo de assistência à saúde, contendo 
+sangue ou líquidos corpóreos na forma livre, devem ser tratados antes da disposição 
+final ambientalmente adequada. 
+ 
+A forma livre aqui citada é a saturação de um líqui do em um resíduo que o absorva ou o 
+contenha, de forma que possa produzir gotejamento, vazamento ou derramamento 
+espontaneamente ou sob compressão mínima. O tratamento aqui pode ser feito dentro ou fora 
+da unidade geradora, inclusive fora do estabelecime nto, desde que respeitadas as condições 
+mínimas de acondicionamento e transporte destes resíduos. 
+ 
+§ 1º As sobras de amostras de laboratório contendo sangue ou líquidos corpóreos 
+podem ser descartadas diretamente no sistema de col eta de esgotos, desde que 
+atendam respectivamente as regras estabelecidas pel os órgãos ambientais e pelos 
+serviços de saneamento competentes.  
+34   
+ 
+Neste caso o serviço gerador de RSS deverá consulta r previamente os órgãos locais citados no 
+parágrafo para obter as informações necessárias. 
+ 
+§ 2º Caso o tratamento venha a ser realizado fora d a unidade geradora ou do serviço, 
+estes RSS devem ser acondicionados em saco vermelho  e transportados em recipiente 
+rígido, impermeável, resistente à punctura, ruptura, vazamento, com tampa provida de 
+controle de fechamento e identificado. 
+ 
+A Anvisa não vai fazer a indicação de tipos de trat amento. Cada serviço gerador de RSS tem 
+autonomia para utilizar processos de tratamento que  atendam ao preconizado na legislação 
+vigente.  
+ 
+Seção II 
+Resíduos de Serviços de Saúde do Grupo A - Subgrupo A2 
+ 
+Art. 50  Os RSS do Subgrupo A2 devem ser tratados antes da d isposição final 
+ambientalmente adequada. 
+ 
+A Anvisa não vai fazer a indicação de tipos de trat amento. Cada serviço gerador de RSS tem 
+autonomia para utilizar processos de tratamento que  atendam ao preconizado na legislação 
+vigente.  
+ 
+§ 1º Os RSS referidos no caput  devem ser acondicionados de maneira compatível com o 
+processo de tratamento. 
+ 
+O acondicionamento precisa ser feito de acordo com o porte do animal e de forma que haja 
+eficiência no tratamento. 
+ 
+§ 2º O tratamento pode ser realizado fora da unidad e geradora, desde que ocorra nas 
+dependências do serviço. 
+ 
+Estes resíduos não podem deixar o estabelecimento sem o devido tratamento, podendo este ser 
+feito no local em que ele foi gerado ou ser levado para outro local dentro do mesmo 
+estabelecimento para ser tratado. Sugerimos consult ar a PORTARIA Nº 2.349, DE 14 DE 
+SETEMBRO DE 2017 que aprova a Classificação de Risco dos Agentes Bio lógicos elaborada em 
+2010, pela Comissão de Biossegurança em Saúde (CBS), do Ministério da Saúde. 
+ 
+§ 3º Quando houver necessidade de outra solução, em função do porte do animal, deve 
+haver autorização prévia dos órgãos de saúde e ambiental competentes.  
+ 
+No caso da necessidade de tratamento de uma carcaça de cavalo, por exemplo, que é um animal 
+de grande porte e pode ser que o serviço não tenha condições de realizar o tratamento nas suas 
+dependências, os órgãos locais de saúde e meio ambiente devem ser consultados com o intuito 
+de se dar uma solução para o problema. 
+ 
+§ 4º Após o tratamento, os rejeitos devem ser acondicionados em saco branco leitoso e 
+identificados com a inscrição "PEÇAS ANATÔMICAS DE ANIMAIS". 
+ 
+Para facilitar a disposição final ambientalmente adequada. 
+35   
+ 
+Art. 51 Os RSS do Subgrupo A2 contendo microrganism os com alto risco de 
+transmissibilidade, alto potencial de letalidade ou  que representem risco caso sejam 
+disseminados no meio ambiente, devem ser submetidos , na unidade geradora, a 
+tratamento que atenda ao Nível III de Inativação Microbiana.  
+ 
+Estes resíduos não podem deixar o local onde eles f oram gerados sem o devido tratamento, 
+inclusive não podem ser levados para a sala do lado , por exemplo. O tratamento, que 
+normalmente é a autoclavação, deve ser feito no loc al onde o resíduo foi gerado. Sugerimos 
+consultar a PORTARIA Nº 2.349, DE 14 DE SETEMBRO DE 2017 que aprova a Classificação de 
+Risco dos Agentes Biológicos elaborada em 2010, pel a Comissão de Biossegurança em Saúde 
+(CBS), do Ministério da Saúde. 
+ 
+Parágrafo único:  Quando houver necessidade de outra solução, em função do porte do 
+animal, deve haver autorização prévia dos órgãos de saúde e ambiental competentes.  
+ 
+No caso da necessidade de tratamento de uma carcaça de cavalo, por exemplo, que é um animal 
+de grande porte e pode ser que o serviço não tenha condições de realizar o tratamento nas suas 
+dependências, os órgãos locais de saúde e meio ambiente devem ser consultados com o intuito 
+de se dar uma solução para o problema. 
+ 
+Seção III 
+Resíduos de Serviços de Saúde do Grupo A - Subgrupo A3 
+ 
+Art. 52  Os RSS do Subgrupo A3 devem ser destinados para sep ultamento, cremação, 
+incineração ou outra destinação licenciada pelo órgão ambiental competente. 
+ 
+A lista destes RSS está no anexo I desta normativa.   Toda a forma de destinação deve estar 
+licenciada pelo órgão ambiental competente. 
+ 
+Parágrafo único. Quando forem encaminhados para inc ineração, os RSS devem ser 
+acondicionados em sacos vermelhos e identificados c om a inscrição "PEÇAS 
+ANATÔMICAS". 
+ 
+O saco vermelho indica que ali há resíduos que precisam de tratamento prévio e ainda não foram 
+tratados. A identificação e inscrição é para facilitar o processo de tratamento. 
+ 
+Seção IV 
+Resíduos de Serviços de Saúde do Grupo A - Subgrupo A4 
+ 
+Art. 53  Os RSS do Subgrupo A4 não necessitam de tratamento prévio .  
+ 
+O grupo de trabalho que elaborou o texto de revisão  da RDC nº 306/2004 manteve o 
+entendimento já vigente de que este subgrupo de res íduos biológicos não necessita de 
+tratamento prévio à sua disposição final. 
+ 
+Parágrafo único. Os RSS do Subgrupo A4 devem ser ac ondicionados em saco branco 
+leitoso e encaminhados para a disposição final ambientalmente adequada. 
+ 
+Os RSS acondicionados em sacos brancos leitosos são aqueles que já passaram por tratamento, 
+36   
+ou, como no caso do subgrupo A4 não precisam ser tr atados e o único caminho a seguir é o 
+encaminhamento para o aterro sanitário, sem passar por locais de coleta de materiais recicláveis 
+e/ou cooperativa de catadores. 
+ 
+Art. 54  Os cadáveres e as carcaças de animais podem ter aco ndicionamento e 
+transporte diferenciados, conforme o porte do animal, de acordo com a regulamentação 
+definida pelos órgãos ambientais e sanitários.  
+ 
+No caso da necessidade de tratamento de uma carcaça de cavalo, por exemplo, que é um animal 
+de grande porte e pode ser que o serviço não tenha condições de realizar o tratamento nas suas 
+dependências, neste caso, os órgãos locais de saúde  e meio ambiente devem ser consultados 
+com o intuito de se dar uma solução para o problema. 
+ 
+Seção V 
+Resíduos de Serviços de Saúde do Grupo A - Subgrupo A5 
+ 
+Art. 55  Os RSS do Subgrupo A5 devem ser encaminhados para t ratamento por 
+incineração.  
+ 
+Manteve-se o entendimento relativo ao tratamento deste subgrupo de resíduos, porém, foi feita 
+uma melhor descrição de quais tecidos tem uma maior  periculosidade para príons, de acordo 
+com o anexo I desta resolução.  
+ 
+Parágrafo único. Os RSS referidos no caput  devem ser segregados e acondicionados em 
+saco vermelho duplo, como barreira de proteção, e c ontidos em recipiente exclusivo 
+devidamente identificado.  
+ 
+Esta medida visa melhorar a eficiência no tratament o deste subgrupo de resíduo e o saco 
+vermelho é por se referir a um resíduo que vai ter como destinação um tipo de tratamento que 
+é a incineração. 
+Seção VI 
+Resíduos de Serviços de Saúde do Grupo B 
+ 
+Art. 56  O gerenciamento dos RSS do Grupo B deve observar a periculosidade das 
+substâncias presentes, decorrentes das característi cas de inflamabilidade, 
+corrosividade, reatividade e toxicidade.   
+ 
+Periculosidade é a qualidade daquilo que é perigoso . Normalmente, este termo costuma ser 
+aplicado no âmbito da segurança e saúde do trabalho, indicando quando determinada atividade 
+ou função é considerada uma ameaça à vida e saúde do trabalhador. 
+ 
+Parágrafo único. As características dos produtos químicos estão identificadas nas Fichas 
+de Informações de Segurança de Produtos Químicos (F ISPQ), não se aplicando aos 
+produtos farmacêuticos e cosméticos. 
+ 
+A FISPQ fornece informações sobre vários aspectos d os produtos químicos (substâncias ou 
+misturas) quanto à segurança, à saúde e ao meio amb iente; transmitindo desta maneira, 
+conhecimentos sobre produtos químicos, recomendações sobre medidas de proteção e ações em 
+situação de emergência.  
+ 
+37   
+Art. 57  Os RSS do Grupo B, no estado sólido e com caracterí sticas de periculosidade, 
+sempre que considerados rejeitos, devem ser dispostos em aterro de resíduos perigosos 
+– Classe I. 
+Para os RSS do grupo B com características de infla mabilidade, corrosividade, reatividade, 
+toxicidade, mutagenicidade, carcinogenicidade, teratogenicidade e quantidade que não possam 
+ser reutilizados, reciclados ou reaproveitados e que serão segregados como rejeitos. 
+ 
+Art. 58  Os RSS do Grupo B com características de periculosi dade, no estado líquido, 
+devem ser submetidos a tratamento antes da disposiç ão final ambientalmente 
+adequada. 
+ 
+A Anvisa não vai fazer a indicação de tipos de trat amento. Cada serviço gerador de RSS tem 
+autonomia para utilizar processos de tratamento que  atendam ao preconizado na legislação 
+vigente.  
+ 
+§ 1º Quando submetidos a processo de solidificação devem ser destinados conforme o 
+risco presente. 
+ 
+O processo utilizado para solidificar o resíduo dev e ser compatível com as características de 
+periculosidade do resíduo, por exemplo, se o resídu o é inflamável o processo não pode ser 
+contraindicado para produtos inflamáveis e assim por diante. A solidificação proporciona maior 
+segurança no acondicionamento e transporte do resíd uo que passa a ser sólido, isso coloca o 
+resíduo em condições mais seguras de ser armazenado e transportado. 
+ 
+§ 2º É  vedado o encaminhamento de RSS na forma líquida par a disposição final em 
+aterros sanitários. 
+ 
+Determinação de normativas ambientais. 
+ 
+Art. 59  Os resíduos de medicamentos contendo produtos hormo nais e produtos 
+antimicrobianos; citostáticos; antineoplásicos; imu nossupressores; digitálicos, 
+imunomoduladores; antirretrovirais, quando descarta dos por serviços assistenciais de 
+saúde, farmácias, drogarias e distribuidores de med icamentos ou apreendidos, devem 
+ser submetidos a tratamento ou dispostos em aterro de resíduos perigosos – Classe I. 
+ 
+Os serviços que gerarem resíduos de medicamentos de verão observar estas classes 
+farmacêuticas no momento da segregação destes resíduos. 
+ 
+Art. 60  Para o acondicionamento dos RSS do Grupo B devem se r observadas as  
+incompatibilidades químicas descritas no Anexos IV e V desta Resolução. 
+ 
+O anexo IV trata da incompatibilidade química entre  as substâncias e o anexo V trata da 
+incompatibilidade entre as substâncias que reagem com o polietileno de alta densidade – PEAD.  
+ 
+Parágrafo único. Os RSS do Grupo B destinados à recuperação ou reutilização devem ser 
+acondicionados em recipientes individualizados, observados os requisitos de segurança 
+e compatibilidade. 
+ 
+Para facilitar o processo a ser realizado e aumenta r a segurança dos trabalhadores envolvidos 
+no processo. 
+38   
+ 
+Art. 61  As embalagens e os materiais contaminados por produtos químicos, exceto as 
+embalagens primárias vazias de medicamentos cujas classes farmacêuticas constem no 
+Art. 59 desta Resolução, devem ser submetidos ao mesmo manejo do produto químico 
+que os contaminou. 
+ 
+No caso, por exemplo, da manipulação de um ácido co ncentrado, as embalagens do produto,  
+primária  e a  secundária, caso estejam contaminadas, precisam passar pelo mesmo processo de 
+manejo do produto contido nelas. As embalagens secundárias não contaminadas pelo produto 
+podem ser fisicamente descaracterizadas e acondicionadas como resíduo do grupo D, podendo 
+ser encaminhadas para processo de reciclagem. A exc eção é para as embalagens primárias 
+vazias de medicamentos cuja diretriz está dada no artigo 42 desta norma. 
+ 
+§ 1º As embalagens primárias vazias podem ser utili zadas para acondicionamento de 
+RSS do Grupo B, observada a compatibilidade química , conforme Anexo IV desta 
+Resolução. 
+ 
+Caso o serviço gerador queira utilizar uma embalage m primária vazia de um produto químico 
+para acondicionar RSS do grupo B, este deverá obser var a compatibilidade química listada no 
+anexo IV desta resolução. Podem-se armazenar resídu os de outros produtos químicos nestas 
+embalagens, desde que respeitadas as condições e diretrizes colocadas nos anexos IV e V desta 
+resolução. 
+ 
+§ 2º As embalagens primárias vazias de produtos quí micos com algum tipo de 
+periculosidade, submetidas à limpeza com técnicas v alidadas ou reconhecidas, são 
+consideradas rejeitos e devem ser encaminhadas para disposição final ambientalmente 
+adequada.  
+ 
+Mesmo que essas embalagens sejam lavadas, de acordo  com o texto do parágrafo, estas 
+embalagens não podem ser destinadas para reciclagem, reutilização externa ao serviço gerador 
+ou outro fim que não seja o encaminhamento para o aterro sanitário. 
+ 
+§ 3º Somente as embalagens vazias de produtos quími cos sem periculosidade podem 
+ser encaminhadas para processos de reciclagem.  
+ 
+O serviço gerador deve seguir as orientações dos fabricantes dos produtos e também verificar a 
+FISPQ, caso o produto tenha. 
+ 
+Art. 62  As embalagens secundárias de medicamentos não conta minadas devem ser 
+descaracterizadas quanto às informações de rotulage m, podendo ser encaminhadas 
+para reciclagem. 
+ 
+Essa descaracterização é para evitar que estas emba lagens possam ser utilizadas novamente 
+para o mesmo fim e ter o risco de se colocar no mer cado medicamentos vencidos ou sem 
+procedência confirmada. 
+ 
+Art. 63  As excretas de pacientes tratados com quimioterápicos antineoplásicos podem 
+ser lançadas em rede coletora de esgotos sanitários , conectada à estação de 
+tratamento, desde que atendam às normas e diretrizes da concessionária do sistema de 
+39   
+coleta e tratamento de esgotos sanitários ou lançadas diretamente em corpos hídricos 
+após tratamento próprio no serviço. 
+ 
+Neste caso o serviço gerador de RSS deverá consulta r previamente os órgãos locais citados no 
+parágrafo para obter as informações necessárias. 
+   
+Art. 64  Os medicamentos hemoderivados devem ter seu manejo como resíduo do 
+Grupo B sem periculosidade. 
+ 
+São produtos farmacêuticos obtidos a partir do plas ma humano, submetidos a processos de 
+industrialização e normatização que lhes conferem q ualidade, estabilidade e especificidade e 
+não necessitam de tratamento prévio à destinação ou disposição final. 
+ 
+Art. 65  Os resíduos de produtos e insumos farmacêuticos sujeitos a controle especial devem 
+atender à regulamentação sanitária em vigor. 
+ 
+A regulamentação sanitária em vigor é a Portaria nº 344/98. 
+ 
+Art. 66  Os reveladores utilizados em radiologia devem ser t ratados, podendo ser 
+submetidos a processo de neutralização para alcança rem pH entre 7 e 9 e serem 
+posteriormente lançados na rede coletora de esgoto com tratamento, atendendo às 
+determinações dos órgãos de meio ambiente e do serviço de saneamento. 
+ 
+A Anvisa não vai fazer a indicação de tipos de trat amento. Cada serviço gerador de RSS tem 
+autonomia para utilizar processos de tratamento que  atendam ao preconizado na legislação 
+vigente. Recomenda-se preparar um guia prático de neutralização baseado na FISPQ, que deve 
+acompanhar a aquisição dos produtos. Os órgãos locais de meio ambiente e saneamento devem 
+ser consultados. 
+ 
+Art. 67  Os fixadores usados em radiologia, quando não subme tidos a processo de 
+recuperação da prata, devem ser encaminhados para t ratamento antes da disposição 
+final ambientalmente adequada. 
+ 
+O principal problema deste tipo de resíduo é a presença da prata na sua constituição. A Anvisa 
+não vai fazer a indicação de tipos de tratamento. C ada serviço gerador de RSS tem autonomia 
+para utilizar processos de tratamento que atendam a o preconizado na legislação vigente. Os 
+órgãos locais de meio ambiente e saneamento devem ser consultados. 
+ 
+Art. 68  Os RSS sólidos contendo metais pesados, quando não submetidos a tratamento 
+devem ser dispostos em aterro de resíduos perigosos  – Classe I, conforme orientação 
+do órgão ambiental competente. 
+ 
+Os profissionais de serviços geradores de RSS que t rabalham com insumos químicos devem ter 
+atenção especial com os resíduos químicos perigosos. O risco elevado das atividades implicadas 
+no setor requer procedimentos de prevenção e segurança muito específicos, por tipo de produto. 
+Com base na gama de legislações ambientais, recomen da-se nomear profissionais da área 
+química para realização das atividades nesses estab elecimentos. Com um profissional da área 
+química, o estabelecimento tem uma dimensão mais cl ara dos problemas e riscos decorrentes 
+das atividades que desenvolve. 
+ 
+40   
+Parágrafo único. O descarte de pilhas, baterias, ac umuladores de carga e lâmpadas 
+fluorescentes deve ser feito de acordo com as normas ambientais vigentes. 
+ 
+Recomenda-se consultar o Ministério do Meio Ambiente e o órgão de meio ambiente local. 
+ 
+Art. 69  A destinação dos RSS líquidos contendo metais pesad os acima dos limites de 
+descarte deve obedecer as orientações dos órgãos ambientais competentes. 
+ 
+A destinação dos resíduos químicos perigosos depend e de aprovação do órgão regulador que 
+atende a região onde está localizado o estabelecime nto. Na solicitação, além das informações 
+de caracterização qualitativa e estimativa de geração anual de cada resíduo, deve ser indicada 
+a destinação e a forma de tratamento externo preten didos: para recuperação, para descarte, 
+incineração ou aterros Classe I. 
+ 
+Parágrafo único. Os RSS contendo mercúrio (Hg) na f orma líquida devem ser 
+acondicionados em recipientes sob selo d'água e enc aminhados para recuperação ou 
+para outra destinação que esteja de acordo com as r egras definidas pelo órgão 
+ambiental competente.  
+ 
+O mercúrio é um metal líquido encontrado na naturez a, cujo ponto de congelamento é de 
+38,87 °C, de ebulição é de 356,58 °C, muito denso 1 3,546 g/cm 3 e extremamente volátil. Pode 
+ser encontrado em pilhas, baterias, termômetros, lâ mpadas fluorescentes, barômetros e 
+aparelhos utilizados para aferição da pressão arter ial. Este material tem um fator de 
+bioconcentração (BCF) experimentalmente – determinado maior que 100. Acumula-se no meio 
+ambiente, sendo tóxico para os seres vivos. A exposição crônica ao mercúrio, por qualquer rota, 
+pode produzir nos seres humanos danos no sistema ne rvoso central, causar alergias de pele e 
+acumular-se no corpo. A exposição crônica pode aind a danificar o feto em desenvolvimento e 
+diminuir a fertilidade em homens e mulheres. Nos se rviços de saúde, o mercúrio pode ser 
+encontrado em termômetros clínicos e de estufas, em  esfigmomanômetros, no amálgama 
+odontológico e nas lâmpadas fluorescentes, sendo qu e para os resíduos provenientes destes 
+materiais devem ser observados cuidados de manuseio , armazenamento e destinação. Como 
+recomendação geral, os materiais contaminados devem  ser mantidos em recipientes bem 
+fechados, armazenados em local fresco, seco e em área ventilada. Devem ser observados todos 
+os avisos e precauções com relação ao produto.  
+Algumas recomendações específicas: 
+Resíduos de amálgamas – A coleta do resíduo de mercúrio resultante do preparo de amálgama 
+odontológico pode ser em recipiente rígido e inqueb rável dotado de boca larga e de material 
+inerte. Deve ser deixada uma lâmina de água sobre o resíduo acondicionado no coletor. 
+Termômetros clínicos – O vidro dos termômetros clínicos quebrados deve s er tratado como 
+resíduo perfurocortante do grupo E. Para o mercúrio deve se observar as recomendações gerais 
+acima. 
+Lâmpadas fluorescentes – É recomendável que as lâmpadas a descartar sejam armazenadas em 
+local seco. As caixas da embalagem original protege m as lâmpadas contra eventuais choques 
+que possam provocar sua ruptura e o empilhamento. E las devem ser re-identificadas para não 
+serem confundidas com caixas de lâmpadas novas. As lâmpadas que se quebrarem 
+acidentalmente deverão ser separadas das demais e a condicionadas em recipiente rígido.    
+Acidente com o mercúrio:  Caso caia no piso, deve-se usar luvas para removê-los com uma folha 
+de papel cartonado ou com uma seringa e depositá-lo s em recipiente apropriado. No caso da 
+quebra de frascos:  ventilar a sala abrindo as janelas, interditar a s ala até que todo o mercúrio 
+derramado seja removido, lavar o piso com água e sabão e em seguida encerá-lo. A cera impede 
+a retenção do mercúrio no piso. Após esses cuidados , a sala pode ser liberada para uso. Caso 
+41   
+fique, ainda, mercúrio no piso, deve-se recobri-lo com pó de enxofre ou óxido de zinco, e depois 
+coletá-lo e providenciar o envio do material para a descontaminação. 
+Nota: O mercúrio do piso pode aderir à sola do sapa to e, assim, pode ser transportado para 
+outros locais e expor outras pessoas aos efeitos tóxicos deste produto. 
+ 
+Art. 70  Os RSS do Grupo B que não apresentem periculosidade  à saúde pública ou ao 
+meio ambiente não necessitam de tratamento, podendo ser submetidos a processo de 
+recuperação ou reutilização. 
+ 
+É preciso esgotar as possibilidades de aplicação dos 3Rs. Em se tratando de produtos químicos, 
+além das recomendações de reduzir, reutilizar e rec iclar, cabe mais um "r", o de recuperar. A 
+recuperação é possível somente para produtos identificados, daí a importância da identificação 
+na entrada do produto químico. 
+ 
+Art. 71  A destinação dos resíduos dos equipamentos automati zados e dos reagentes 
+de laboratórios clínicos, incluindo os produtos par a diagnóstico de uso in vitro  deve 
+considerar todos os riscos presentes, conforme normas ambientais vigentes. 
+ 
+É importante que um profissional da área de química ou similar faça uma análise destes resíduos 
+com o intuito de elencar os riscos presentes e defi nir estratégias de tratamento ou outra 
+destinação legalmente regulamentada destes resíduos . Recomenda-se procurar manter o 
+almoxarifado organizado por compatibilidade química, nunca por ordem alfabética, não expor 
+os reagentes à luz solar direta e manter em área ventilada, além dos cuidados usuais.  
+ 
+Seção VII 
+Resíduos de Serviços de Saúde do Grupo C – Rejeitos Radioativos 
+ 
+Art. 72  Os rejeitos radioativos devem ser segregados de aco rdo com o radionuclídeo 
+ou natureza da radiação, estado físico, concentração e taxa de exposição. 
+ 
+A segregação é uma das operações fundamentais para permitir o cumprimento dos objetivos de 
+um sistema eficiente de manuseio de resíduos e cons iste em separar ou selecionar 
+apropriadamente os resíduos segundo a classificação adotada. Essa operação deve ser realizada 
+na fonte de geração e está condicionada à prévia capacitação do pessoal de serviço. 
+ 
+Art. 73  Os recipientes de acondicionamento de rejeitos radi oativos devem ser 
+adequados às características físicas, químicas, bio lógicas e radiológicas dos rejeitos, 
+possuir vedação e ter o seu conteúdo identificado, conforme especificado nas normas 
+vigentes. 
+ 
+Devem ser armazenados em recipientes com blindagem adequada ao tipo e ao nível de radiação 
+emitida, e ter a simbologia de radioativo. Os rejei tos radioativos sólidos devem ser 
+acondicionados em recipientes de material rígido, f orrados internamente com saco plástico 
+resistente e identificados. Os rejeitos radioativos líquidos devem ser acondicionados em frascos 
+de até dois litros ou em bombonas de material compa tível com o líquido armazenado, sempre 
+que possível de plástico, resistente, rígido e esta nque, com tampa rosqueada, vedante e 
+identificado. Eles devem ser acomodados em bandejas  de material inquebrável e com 
+profundidade suficiente para conter, com a devida m argem de segurança, o dobro do volume 
+total do rejeito, e ser identificados com símbolos específicos (anexo II). Após o decaimento do 
+radionuclídeo passam a ser resíduos e serão classif icados de acordo com o material a que o 
+42   
+radionuclídeo estiver associado. 
+ 
+Art. 74  Os RSS químicos radioativos devem ser acondicionados em coletores próprios, 
+identificados quanto aos riscos radiológico e químico presentes, e armazenados no local 
+de decaimento até atingir o limite de dispensa. 
+ 
+O manejo do resíduo químico só poderá ocorrer depois de atingido o nível de dispensa do rejeito 
+radioativo estabelecido pela Comissão Nacional de Energia Nuclear – CNEN.  
+ 
+Art. 75  Os RSS perfurocortantes radioativos devem ser trans portados do local de 
+geração até o local de armazenamento para decaimento em recipiente blindado. 
+ 
+Devem ser armazenados em recipientes com blindagem adequada ao tipo e ao nível de radiação 
+emitida e ter o símbolo de presença de radioatividade. 
+ 
+Parágrafo único. É vedada a separação do conjunto s eringa agulha contendo 
+radionuclídeos, assim como reencape manual de agulhas. 
+ 
+Neste caso, mesmo se a seringa possuir mecanismo automático de desconexão, todo o conjunto 
+deve permanecer no local de decaimento até atingir o nível de dispensa estabelecido pela 
+Comissão Nacional de Energia Nuclear. 
+ 
+Art. 76  Os rejeitos radioativos devem ser armazenados em condições adequadas, para 
+o decaimento do elemento radioativo, podendo ser re alizado na própria sala de 
+manipulação ou em sala específica, identificada como “SALA DE DECAIMENTO”. 
+ 
+ Durante o decaimento deve-se garantir que a exposiç ão ocupacional esteja de acordo com os 
+limites estabelecidos em norma da CNEN. Quando o de caimento for realizado na área de 
+manipulação, devem ser utilizados recipientes blindados individualizados. Quando feito em sala 
+de decaimento, esta deve possuir paredes blindadas ou os rejeitos radioativos devem estar 
+acondicionados em recipientes individualizados com blindagem.  A sala de decaimento de rejeitos 
+radioativos deve ter acesso controlado. Deve estar sinalizada com o símbolo internacional de 
+presença de radiação ionizante e de área de acesso restrito, dispondo de meios para garantir 
+condições de segurança contra ação de eventos induz idos por fenômenos naturais e estar de 
+acordo com o Plano de Proteção Radiológica aprovado pela CNEN para a instalação. 
+ 
+Parágrafo único. O armazenamento de rejeitos radioativos líquidos deve ser feito sobre 
+bacia de contenção, bandeja, recipiente ou material  absorvente com capacidade de 
+conter ou absorver o dobro do volume do líquido presente na embalagem. 
+ 
+Esta é uma medida de segurança para evitar o escape de qualquer líquido que contenha material 
+radioativo. 
+ 
+Art. 77  Os RSS de fácil putrefação contaminados com radionu clídeos, depois de 
+acondicionados e identificados como rejeito radioat ivo, devem ser mantidos sob 
+refrigeração ou por outro processo que evite a deco mposição, durante o período de 
+armazenamento para decaimento. 
+ 
+Para evitar a produção de odores desagradáveis dura nte o período de decaimento do rejeito 
+radioativo. 
+43   
+ 
+Art. 78  As sobras de alimentos provenientes de pacientes su bmetidos à terapia com 
+iodo 131, depois de acondicionadas, devem ter seu nível de radiação medido. 
+ 
+Para verificar se os níveis de radiação estão de ac ordo com os estabelecidos pela Comissão 
+Nacional de Energia Nuclear – CNEN para o descarte. 
+  
+§ 1º Quando os valores de atividade ou de concentração de atividade forem superiores 
+aos níveis de dispensa, o RSS deve ser considerado como rejeito radioativo e deve 
+observar as condições de conservação de RSS de fácil putrefação. 
+ 
+O decaimento deverá ocorrer de acordo com os fatore s de proteção radiológica (tempo de 
+exposição, distância da fonte e blindagem), de maneira a garantir que a exposição ocupacional 
+e de indivíduos do público esteja de acordo com os limites estabelecidos em norma da CNEN. 
+Quando o período de decaimento for realizado na áre a de manipulação, devem ser utilizados 
+recipientes blindados individualizados. Quando feito em sala de decaimento, esta deve possuir 
+paredes blindadas ou os rejeitos radioativos devem estar acondicionados em recipientes 
+individualizados com blindagem.  A sala de decaimento de rejeitos radioativos deve t er acesso 
+controlado. Deve estar sinalizada com o símbolo internacional de presença de radiação ionizante 
+e de área de acesso restrito, dispondo de meios par a garantir condições de segurança contra 
+ação de eventos induzidos por fenômenos naturais e estar de acordo com o Plano de Proteção 
+Radiológica aprovado pela CNEN para a instalação. 
+ 
+§ 2º Como alternativa ao disposto no §1º, as sobras  destes alimentos podem ser 
+trituradas na sala de decaimento ou nas instalações sanitárias do quarto terapêutico, e 
+posteriormente direcionadas para a  rede coletora de esgotos com tratamento. 
+ 
+Só poderão ser direcionadas para a rede de esgotos após atingir o nível de dispensa estabelecido 
+pela Comissão Nacional de Energia Nuclear – CNEN. 
+ 
+§ 3º Quando os valores de atividade ou de concentra ção de atividade forem inferiores 
+ou iguais aos níveis de dispensa, os resíduos sólid os podem ser descartados como 
+resíduos do Grupo D e os resíduos líquidos na rede coletora de esgotos com tratamento. 
+ 
+Neste caso não há mais o risco radiológico e estes resíduos podem ser comparados aos 
+domiciliares, inclusive podendo ser encaminhados para reciclagem, quando couber.  
+ 
+Art. 79  Quando o processo de decaimento do elemento radioat ivo atingir o nível do 
+limite de dispensa estabelecido pelas normas vigent es, o rótulo de “REJEITO 
+RADIOATIVO” deve ser retirado, permanecendo a ident ificação dos demais riscos 
+presentes. 
+ 
+Não havendo mais o risco radiológico não há mais a necessidade da presença do rótulo que 
+indica a presença de material radioativo e o serviço deve reclassificar o resíduo em outro grupo: 
+biológico, químico ou perfurocortantes, que precise  de um tratamento específico ou comum e 
+reciclável. 
+ 
+Parágrafo único. A retirada da identificação de ris co radiológico deve ser precedida de 
+medição da radiação. 
+ 
+44   
+Esta medida é para garantir que o nível de dispensa  estabelecido pela Comissão Nacional de 
+Energia Nuclear – CNEN foi atingido. 
+ 
+Seção VIII 
+Resíduos de Serviços de Saúde do Grupo D 
+ 
+Art. 80  Os RSS do Grupo D, quando não encaminhados para reutilização, recuperação, 
+reciclagem, compostagem, logística reversa ou aprov eitamento energético, devem ser 
+classificados como rejeitos. 
+ 
+A classificação como rejeito significa que este material deve ser encaminhado para a disposição 
+final em aterro sanitário. 
+ 
+§ 1º Os rejeitos sólidos devem ser dispostos conforme as normas ambientais vigentes. 
+ 
+A disposição é feita em aterros sanitários, de acordo com as normas ambientais federais e locais. 
+ 
+§ 2º Os efluentes líquidos podem ser lançados em rede coletora de esgotos. 
+ 
+Antes do lançamento destes efluentes na rede coleto ra de esgotos é imprescindível fazer uma 
+consulta aos órgãos de meio ambiente e de saneamento competentes. 
+ 
+Art. 81  O lançamento de rejeitos líquidos em rede coletora de esgotos, conectada à 
+estação de tratamento, deve atender às normas ambientais e às diretrizes do serviço de 
+saneamento. 
+ 
+Para evitar problemas como a saturação da capacidade de tratamento da concessionária. 
+ 
+Parágrafo único. Quando não houver acesso à sistema de coleta e tratamento de esgoto 
+por empresa de saneamento, estes efluentes devem se r tratados em sistema 
+ambientalmente licenciado antes do lançamento em corpo receptor. 
+ 
+Os serviços geradores de RSS que não são atendidos por empresa de saneamento em sua 
+localidade devem possuir um sistema próprio de trat amento dos seus efluentes, devidamente 
+licenciado pelo órgão ambiental competente. 
+ 
+Art. 82  Artigos e materiais utilizados na área de trabalho,  incluindo vestimentas e 
+Equipamento de Proteção Individual (EPI), desde que não apresentem sinais ou suspeita 
+de contaminação química, biológica ou radiológica, podem ter seu manejo realizado 
+como RSS do Grupo D. 
+ 
+São aqueles utilizados em áreas administrativas ou outras áreas com baixo  risco de infecção ou 
+contaminação, que não apresentem manchas ou sujidades provenientes de sangue ou líquidos 
+corpóreos, ou de produtos químicos, ou outro líquid o ou substância que possam causar algum 
+tipo de dano à saúde humana ou ao meio ambiente. 
+ 
+Art. 83  Os procedimentos de segregação, acondicionamento e identificação dos 
+coletores dos resíduos do Grupo D, para fins de rec iclagem, devem estar descritos no 
+PGRSS. 
+ 
+45   
+Esta é uma medida de segurança para evitar que resí duos não recicláveis sejam segregados 
+como tal. 
+ 
+Art. 84  Só podem ser destinados para compostagem forrações de animais de biotérios 
+que não tenham risco biológico associado, os resídu os de flores, podas de árvores, 
+jardinagem, sobras de alimentos e de seu pré-preparo, restos alimentares de refeitórios 
+e restos alimentares de pacientes que não estejam em isolamento. 
+ 
+Os animais de biotérios citados no artigo são aquel es que não passaram por processos de 
+experimentação com inoculação de microrganismos, sendo apenas as forrações desses animais 
+considerados resíduos do grupo D. As carcaças continuarão sendo classificadas no grupo A. 
+ 
+Art. 85  Os restos e sobras de alimentos só podem ser utilizados como ração animal, se 
+forem submetidos a processo que garanta a inocuidad e do composto, com a 
+concordância do órgão competente do Ministério da A gricultura e de Vigilância 
+Sanitária.  
+ 
+Este composto deve ser devidamente avaliado para co mprovação de sua inocuidade pelo 
+Ministério da Agricultura e da Vigilância Sanitária do Município, Estado ou do Distrito Federal. 
+ 
+Seção IX 
+Resíduos de Serviços de Saúde do Grupo E 
+ 
+Art. 86  Os materiais perfurocortantes devem ser descartados  em recipientes 
+identificados, rígidos, providos com tampa, resiste ntes à punctura, ruptura e 
+vazamento. 
+ 
+Para segurança de quem está envolvido na coleta deste resíduo para tratamento ou disposição 
+final. Os materiais perfurocortantes devem ser segr egados e acondicionados em recipientes 
+seguros para dar segurança aos envolvidos no processo. 
+ 
+Art. 87  Os recipientes de acondicionamento dos RSS do Grupo  E devem ser 
+substituídos de acordo com a demanda ou quando o nível de preenchimento atingir 3/4 
+da capacidade ou de acordo com as instruções do fab ricante, sendo proibidos seu 
+esvaziamento manual e seu reaproveitamento. 
+ 
+Não existe um tempo mínimo ou máximo para que um re cipiente de acondicionamento de RSS 
+do grupo E seja substituído. Em locais onde a deman da é pequena o recipiente pode ficar por 
+dias até ter o seu nível de preenchimento atingido. O que se recomenda é que o recipiente não 
+fique em local inadequado, como em cima de pias, por exemplo, ou outro local que possa molhar, 
+rasgar ou outra situação que possa colocar em risco os profissionais envolvidos no processo de 
+trabalho. Recomendamos também aos serviços geradores de RSS que o bom senso prevaleça em 
+locais de pouca demanda e consequente presença por mais tempo de um destes recipientes. 
+Recipientes que se rasguem ou tornem-se frágeis quando molhados ou se deformem ou rompam 
+mediante médio esforço, não garantem a segurança do trabalhador. 
+ 
+Parágrafo único. Admite-se o emprego de tecnologia que promova o esvaziamento 
+automatizado de recipientes plásticos específicos c om posterior descontaminação, 
+possibilitando sua reutilização.  
+ 
+46   
+Existe uma nova tecnologia no mercado que fornece a os serviços geradores de RSS do grupo E 
+recipientes plásticos específicos para a coleta de resíduos perfurocortantes, após o nível de 
+preenchimento atingido, este recipiente é recolhido e substituído por outro vazio e higienizado. 
+O recipiente recolhido é levado para um local onde tem o seu conteúdo esvaziado  de forma 
+automática e o recipiente é higienizado, podendo ser levado novamente para o serviço gerador. 
+ 
+Art. 88  Os RSS do Grupo E, quando contaminados por agentes biológicos, químicos e 
+substâncias radioativas, devem ter seu manejo de ac ordo com cada classe de risco 
+associada.  
+ 
+Antes de se tratar o resíduo perfurocortante é nece ssário identificar e fazer o gerenciamento 
+correto, de acordo com as outras classes de resíduo s presentes naquele material 
+perfurocortante, por exemplo, um conjunto seringa-a gulha contaminado com um produto 
+químico e com sangue, deve ter seu manejo alinhado aos procedimentos de manejo dos resíduos 
+do grupo B e A, respectivamente. Os resíduos perfur ocortantes contaminados com 
+radionuclídeos devem ser submetidos ao mesmo tempo de decaimento do material que o 
+contaminou. 
+ 
+Parágrafo único. O recipiente de acondicionamento deve conter a identificação de todos 
+os riscos presentes. 
+ 
+Para facilitar o gerenciamento e minimizar as possi bilidades de erros na destinação destes 
+resíduos. 
+ 
+Art. 89  As seringas e agulhas, inclusive as usadas na coleta laboratorial de amostra de 
+doadores e de pacientes, e os demais materiais perf urocortantes que não apresentem 
+risco químico, biológico ou radiológico não necessi tam de tratamento prévio à 
+disposição final ambientalmente adequada. 
+ 
+Entendemos que estes resíduos estarão contidos em r ecipientes seguros, sem contato com 
+pacientes ou profissionais de saúde minimizando os riscos de contaminação ou infecção. 
+Portanto, justifica-se a não necessidade de um trat amento prévio, diminuindo os custos do 
+serviço gerador no seu gerenciamento de resíduos. 
+ 
+Parágrafo único. É permitida a separação do conjunt o seringa agulha com auxílio de 
+dispositivos de segurança, sendo vedada a desconexão e o reencape manual de agulhas. 
+ 
+Esta medida é para proteger os profissionais de saú de de possíveis contaminações e infecções 
+provenientes de acidentes com materiais perfurocortantes nas rotinas diárias de seus trabalhos. 
+ 
+Capítulo V 
+DA SEGURANÇA OCUPACIONAL 
+ 
+A proteção à saúde e segurança dos trabalhadores nos estabelecimentos prestadores de serviços 
+de saúde em geral deve ser considerada relevante para o cumprimento das metas estabelecidas 
+no PGRSS. É fundamental garantir transparência nas relações de emprego e trabalho. É isso que 
+deve se refletir, claramente, nas questões de saúde  e segurança do trabalhador em todas as 
+etapas de trabalho. Além das condições adequadas é necessário informar o trabalhador, da 
+melhor forma possível, sobre: 
+1) características das etapas do processo e da organização do trabalho; 
+47   
+2) os riscos existentes; 
+3) as causas dos riscos; 
+4) medidas de controle de risco (ou preventivas): 
+a) medidas e equipamentos de proteção coletiva: 
+i) necessárias; 
+ii) existentes; 
+b) medidas e equipamentos de proteção individual; 
+5) procedimentos em caso de: 
+a) acidente; 
+b) incidente; 
+c) doenças; 
+d) agravos à saúde; 
+e) absenteísmo, como reflexo de sintomas de agravos à saúde. 
+Os treinamentos devem estar imbuídos do espírito de  transparência e contemplar a sequência 
+descrita. A proteção à saúde e segurança dos trabal hadores está contemplada na filosofia das 
+três etapas fundamentais de análise de riscos: 
+1. reconhecimento dos riscos existentes no processo de trabalho; 
+2. estudo e análise da conjuntura existente, inclusive definindo pontos críticos de controle; 
+3. controle dos riscos existentes. 
+O cumprimento da sequência das duas primeiras etapas é importante para se atingir, da melhor 
+forma possível, o principal objetivo que é "o controle dos riscos existentes". 
+Dentro da análise de riscos são especificadas prior idades para os níveis de intervenção das 
+medidas de controle: 
+1ª prioridade: eliminação da fonte poluidora (ou contaminante); 
+  2ª prioridade: controle de risco na fonte gerador a (proteção coletiva); 
+  3ª prioridade: controle do risco no meio, entre a  fonte e os indivíduos (proteção coletiva); 
+  4ª prioridade: controle do risco a que está expos to o indivíduo diretamente envolvido 
+(proteção individual). 
+Análise específica de riscos de resíduos de serviço s de saúde - Todo o processo pode ser 
+representado por um fluxograma que permite visualiz ar os componentes da conjuntura em 
+estudo. A legislação trabalhista dá o nome de mapeamento de riscos a esse estudo. No caso dos 
+resíduos de serviços de saúde poderia ser elaborado  um fluxograma específico. A partir deste 
+fluxograma pode-se estudar e documentar os aspectos seguintes: 
+-  atividades envolvidas; 
+-  produtos e equipamentos envolvidos; 
+-  recursos humanos envolvidos; 
+-  riscos existentes; 
+-  danos possíveis (acidentes, doenças, agravos, incidentes); 
+-  medidas de controle necessárias; 
+-  medidas de controle existentes. 
+Quanto às medidas de controle: 
+-  normalmente são propostas mais de uma medida, para "cercar o risco"; 
+-  estas medidas possuem algumas "linhas de conduta" para proteção coletiva; organização do 
+trabalho; proteção individual; treinamento (sempre fundamental); etc. 
+Equipamentos de proteção - Os equipamentos de proteção são todos os dispositivos destinados 
+a proteger a saúde e a integridade física do trabal hador. Os equipamentos de proteção devem 
+ser utilizados pelos funcionários que manuseiam os resíduos e devem ser os mais adequados 
+para lidar com os tipos de resíduos de serviços de saúde. Devem ser utilizados de acordo com as 
+recomendações normativas do Ministério do Trabalho. 
+ 
+48   
+Art. 90  O serviço deve garantir que os trabalhadores sejam avaliados periodicamente, 
+seguindo a legislação específica, em relação à saúd e ocupacional, mantendo registros 
+desta avaliação. 
+ 
+Esta medida é para proteger a saúde dos trabalhadores envolvidos no gerenciamento dos RSS e 
+também para alinhar a normativa sanitária com as do Ministério do Trabalho. 
+ 
+Art. 91  O serviço deve manter um programa de educação conti nuada para os 
+trabalhadores e todos os envolvidos nas atividades de gerenciamento de resíduos, 
+mesmo os que atuam temporariamente, que contemplem os seguintes temas: 
+ 
+O programa de educação continuada visa orientar, mo tivar, conscientizar e informar 
+permanentemente a todos os envolvidos sobre os riscos e procedimentos adequados de manejo, 
+de acordo com os preceitos do gerenciamento de resíduos. Os serviços geradores de RSS devem 
+manter um programa de educação continuada, independ ente do vínculo empregatício dos 
+profissionais. O sucesso do programa depende da par ticipação consciente e da cooperação de 
+todo o pessoal envolvido no processo. Normalmente, os profissionais envolvidos são: médicos, 
+enfermeiros, auxiliares, pessoal de limpeza, coleta dores internos e externos, pessoal de 
+manutenção e serviços. O programa deve se apoiar em  instrumentos de comunicação e 
+sinalização e abordar os seguintes temas, de modo geral: 
+- Noções gerais sobre o ciclo de vida dos materiais. 
+- Conhecimento da legislação ambiental, de limpeza p ública e de vigilância sanitária relativas 
+aos RSS. 
+- Visão básica do gerenciamento dos resíduos sólidos no município. 
+- Definições, tipo e classificação dos resíduos e seu potencial de risco. 
+- Orientações sobre biossegurança (biológica, química e radiológica). 
+- Orientações especiais e treinamento em proteção ra diológica quando houver rejeitos 
+radioativos. 
+- Sistema de gerenciamento adotado internamente no estabelecimento. 
+- Formas de reduzir a geração de resíduos e reutilização de materiais. 
+- Identificação das classes de resíduos. 
+- Conhecimento das responsabilidades e de tarefas. 
+- Medidas a serem adotadas pelos trabalhadores na pr evenção e no caso de ocorrência de 
+incidentes, acidentes e situações emergenciais. 
+- Orientações sobre o uso de Equipamentos de Proteçã o Individual - EPIs e Coletiva - EPCs 
+específicos de cada atividade, bem como sobre a necessidade de mantê-los em perfeita higiene 
+e estado de conservação. 
+- Orientações sobre higiene pessoal e dos ambientes. 
+- Conhecimento sobre a utilização dos veículos de coleta. 
+Quando realizar: frequência 
+O programa deve ter em conta as constantes alteraçõ es no quadro funcional e na própria 
+logística dos estabelecimentos e a necessidade de q ue os conhecimentos adquiridos sejam 
+reforçados periodicamente. O ideal é que o programa de educação seja ministrado: 
+a) antes do início das atividades dos empregados; 
+b) em periodicidade predefinida; 
+c) sempre que ocorra uma mudança das condições de exposição dos trabalhadores aos agentes 
+físicos, químicos, biológicos. 
+Recomendações específicas 
+Nos programas de educação continuada há de se levar em consideração que os profissionais que 
+atuam no processo podem não ter em sua formação noções sobre cuidados ambientais. Via de 
+regra, sua formação é específica, técnica e não proporciona o preparo necessário para a  busca 
+49   
+de condições que propiciem a minimização de riscos, tanto os que são inerentes à execução de 
+suas atividades quanto os que envolvem o meio ambie nte. Assim, são procedentes algumas 
+sugestões para levar a cabo essa tarefa: 
+- Organizar a capacitação em módulos para as diferen tes categorias envolvidas no processo, 
+adequando a linguagem e conteúdos às funções e ativ idades e deixando claro seu respectivo 
+nível de responsabilidade. É essencial definir meta s, expectativas a serem atingidas e as 
+competências para a execução das atividades; 
+- Capacitar, sensibilizar e motivar médicos, enferme iras e auxiliares em todos os assuntos 
+relativos aos RSS, enfatizando o processo de segregação, uma vez que a segregação (separação 
+em grupos, subgrupos e compatibilidade) e o acondic ionamento dos RSS é a chave de todo o 
+processo de manejo; 
+- Ministrar capacitação do pessoal de limpeza de man eira cuidadosa. Devem ser incluídos 
+conhecimentos sobre o impacto da realização inadequ ada dos serviços no processo de 
+gerenciamento de resíduos; 
+- Incluir um módulo de divulgação dirigido ao pessoal que não esteja diretamente envolvido com 
+os RSS, para que conheçam os métodos utilizados e os possíveis riscos do ambiente de trabalho; 
+- Agregar em todos os módulos de capacitação, informação sobre as situações de emergência; 
+- Avaliar constantemente o programa de capacitação; 
+- Utilizar técnicas participativas apoiadas por materiais audiovisuais, cartazes, folhetos etc. 
+Educação ampliada - Embora não conste como responsabilidade legal do gerador, ressaltamos 
+a importância da educação ampliada, ou seja, a info rmação e educação de outros segmentos 
+direta ou indiretamente envolvidos na gestão dos RS S. Esse programa de educação ampliada 
+pode se dar por meio de eventos e materiais gráfico s informativos, especialmente voltados à 
+comunidade do entorno, aos pacientes e aos outros grupos que têm algum contato ou influência 
+na gestão dos RSS. 
+Educação do público externo - Consiste em informar e educar o público em geral: a população, 
+especialmente as comunidades próximas à unidade de saúde, e as pessoas envolvidas na coleta 
+de lixo. Neste segmento se incluem as associações c omunitárias, bem como os grupos 
+vulneráveis, especialmente os catadores de lixo. Ta nto crianças como adultos devem estar 
+conscientes dos perigos que os RSS representam, para que evitem os riscos e para que informem 
+as autoridades sobre situações anormais, como a venda de seringas usadas ou de recipientes de 
+produtos químicos. Deve-se advertir aos usuários re gulares sobre o perigo das seringas. O 
+mesmo deve ser feito com relação à utilização de re cipientes que tenham acondicionado 
+produtos químicos perigosos, como os pesticidas, medicamentos, etc. 
+ 
+I - sistema adotado para o gerenciamento dos RSS;  
+ 
+De acordo com a complexidade de cada serviço gerador de RSS. 
+ 
+II - prática de segregação dos RSS; 
+ 
+Deve ser realizada na fonte de geração. 
+ 
+III - símbolos, expressões, padrões de cores adotadas para o gerenciamento de RSS; 
+ 
+De acordo com as normas sanitárias e ambientais vigentes. 
+ 
+IV - localização dos ambientes de armazenamento e dos abrigos de RSS;  
+ 
+Facilitar o trabalho dos profissionais envolvidos no recolhimento dos RSS. 
+ 
+50   
+V - ciclo de vida dos materiais;  
+ 
+Relacionar o gerenciamento de RSS com a exposição d e determinados produtos no meio 
+ambiente. 
+ 
+VI - regulamentação ambiental, de limpeza pública e de vigilância sanitária, relativas aos 
+RSS;  
+ 
+É fundamental que os profissionais envolvidos no ge renciamento dos RSS conheçam as 
+normativas vigentes. 
+ 
+VII - definições, tipo, classificação e risco no manejo dos RSS; 
+ 
+Melhorar o processo como um todo e proteger a saúde  dos trabalhadores envolvidos no 
+gerenciamento dos RSS. 
+ 
+VIII - formas de reduzir a geração de RSS e reutilização de materiais; 
+ 
+Conscientizar os profissionais envolvidos no gerenciamento dos RSS da importância para a saúde 
+humana, animal e o meio ambiente. 
+ 
+IX - responsabilidades e tarefas;  
+ 
+Minimizar os riscos no gerenciamento dos RSS. 
+ 
+X - identificação dos grupos de RSS; 
+ 
+Melhorar o processo como um todo e proteger a saúde  dos trabalhadores envolvidos no 
+gerenciamento dos RSS. 
+ 
+XI - utilização dos coletores dos RSS; 
+ 
+Minimizar os riscos no gerenciamento dos RSS. 
+ 
+XII - uso de Equipamentos de Proteção Individual (EPI) e Coletiva (EPC); 
+ 
+Proteger a saúde dos trabalhadores envolvidos no gerenciamento dos RSS. 
+ 
+XIII - biossegurança;  
+ 
+Proteger a saúde dos trabalhadores envolvidos no gerenciamento dos RSS. 
+ 
+XIV - orientações quanto à higiene pessoal e dos ambientes;  
+ 
+Minimizar os riscos no gerenciamento dos RSS. 
+ 
+XV - orientações especiais e treinamento em proteçã o radiológica quando houver 
+rejeitos radioativos;  
+ 
+Proteger a saúde dos trabalhadores envolvidos no gerenciamento dos RSS. 
+51   
+ 
+XVI - providências a serem tomadas em caso de acidentes e de situações emergenciais; 
+ 
+Minimizar os riscos no gerenciamento dos RSS. 
+ 
+XVII - visão básica do gerenciamento dos resíduos s ólidos no município ou Distrito 
+Federal;  
+ 
+Melhorar o processo como um todo. 
+ 
+XVIII - noções básicas de controle de infecção e de contaminação química; e 
+ 
+Proteger a saúde dos trabalhadores envolvidos no gerenciamento dos RSS. 
+ 
+XIX – conhecimento dos instrumentos de avaliação e controle do PGRSS. 
+ 
+Desenvolver instrumentos de avaliação e controle, incluindo a construção de indicadores claros, 
+objetivos, autoexplicativos e confiáveis, que permi tam acompanhar a eficácia do PGRSS 
+implantado. Listamos abaixo algumas sugestões de indicadores que podem ser utilizados: 
+- Variação da geração de resíduos 
+- Variação da proporção de resíduos do Grupo A 
+- Variação da proporção de resíduos do Grupo B 
+- Variação da proporção de resíduos do Grupo D 
+- Variação da proporção de resíduos do Grupo E 
+- Variação do percentual de reciclagem. 
+Os indicadores devem ser produzidos no momento da implantação do PGRSS e posteriormente 
+com frequência determinada pelo serviço gerador de RSS, levando em consideração alguns 
+fatores como a sua complexidade. 
+ 
+ 
+CAPÍTULO VI 
+DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS 
+ 
+Art. 92  Fica revogada a Resolução da Diretoria Colegiada RD C Anvisa nº 306, de 7 de 
+dezembro de 2004, a partir da entrada em vigor desta Resolução. 
+ 
+A RDC nº 306/2004 ficará vigente ainda por 180 dias  a contar da publicação dessa nova 
+normativa. 
+ 
+Art. 93  Fica revogado o item 7 do Anexo 2 da Resolução da D iretoria Colegiada – RDC 
+nº 305, de 14 de novembro de 2002. 
+ 
+Esta medida visa melhorar o gerenciamento dos resíduos do subgrupo A5.  
+ 
+Art. 94  O descumprimento das disposições contidas nesta Resolução constitui infração 
+sanitária, nos termos da Lei nº 6.437, de 20 de ago sto de 1977, sem prejuízo das 
+responsabilidades civil, administrativa e penal cabíveis.  
+ 
+52   
+Art. 95  Esta Resolução entra em vigor 180 (cento e oitenta) dias a partir da data da sua 
+publicação.  
+ 
+Prazo entendido pelo grupo de trabalho como suficiente para que cada serviço gerador de RSS 
+faça as adequações necessárias para o cumprimento desta nova normativa. 
+53   
+ANEXO I 
+CLASSIFICAÇÃO DOS RESÍDUOS DE SERVIÇOS DE SAÚDE 
+ 
+GRUPO A 
+Resíduos com a possível presença de agentes biológi cos que, por suas características, 
+podem apresentar risco de infecção. 
+ 
+Subgrupo A1 
+- Culturas e estoques de micro-organismos; resíduos  de fabricação de produtos 
+biológicos, exceto os medicamentos hemoderivados; d escarte de vacinas de 
+microrganismos vivos, atenuados ou inativados; meio s de cultura e instrumentais 
+utilizados para transferência, inoculação ou mistur a de culturas; resíduos de 
+laboratórios de manipulação genética.  
+- Resíduos resultantes da atividade de ensino e pes quisa ou atenção à saúde de 
+indivíduos ou animais, com suspeita ou certeza de contaminação biológica por agentes 
+classe de risco 4, microrganismos com relevância ep idemiológica e risco de 
+disseminação ou causador de doença emergente que se  torne epidemiologicamente 
+importante ou cujo mecanismo de transmissão seja desconhecido. 
+- Bolsas transfusionais contendo sangue ou hemocomp onentes rejeitadas por 
+contaminação ou por má conservação, ou com prazo de  validade vencido, e aquelas 
+oriundas de coleta incompleta. 
+- Sobras de amostras de laboratório contendo sangue ou líquidos corpóreos, recipientes 
+e materiais resultantes do processo de assistência à saúde contendo sangue ou líquidos 
+corpóreos na forma livre. 
+ 
+Subgrupo A2 
+- Carcaças, peças anatômicas, vísceras e outros res íduos provenientes de animais 
+submetidos a processos de experimentação com inocul ação de microrganismos, bem 
+como suas forrações, e os cadáveres de animais susp eitos de serem portadores de 
+microrganismos de relevância epidemiológica e com risco de disseminação, que foram 
+submetidos ou não a estudo anatomopatológico ou confirmação diagnóstica. 
+ 
+Subgrupo A3 
+- Peças anatômicas (membros) do ser humano; produto de fecundação sem sinais vitais, 
+com peso menor que 500 gramas ou estatura menor que  25 centímetros ou idade 
+gestacional menor que 20 semanas, que não tenham valor científico ou legal e não tenha 
+havido requisição pelo paciente ou seus familiares. 
+ 
+Subgrupo A4 
+- Kits de linhas arteriais, endovenosas e dialisadores, quando descartados. 
+- Filtros de ar e gases aspirados de área contamina da; membrana filtrante de 
+equipamento médico-hospitalar e de pesquisa, entre outros similares. 
+- Sobras de amostras de laboratório e seus recipien tes contendo fezes, urina e 
+secreções, provenientes de pacientes que não conten ham e nem sejam suspeitos de 
+conter agentes classe de risco 4, e nem apresentem relevância epidemiológica e risco 
+de disseminação, ou microrganismo causador de doenç a emergente que se torne 
+epidemiologicamente importante ou cujo mecanismo de transmissão seja desconhecido 
+54   
+ou com suspeita de contaminação com príons. 
+- Resíduos de tecido adiposo proveniente de lipoasp iração, lipoescultura ou outro 
+procedimento de cirurgia plástica que gere este tipo de resíduo. 
+- Recipientes e materiais resultantes do processo d e assistência à saúde, que não 
+contenha sangue ou líquidos corpóreos na forma livre. 
+- Peças anatômicas (órgãos e tecidos), incluindo a placenta, e outros resíduos 
+provenientes de procedimentos cirúrgicos ou de estu dos anatomopatológicos ou de 
+confirmação diagnóstica. 
+- Cadáveres, carcaças, peças anatômicas, vísceras e  outros resíduos provenientes de 
+animais não submetidos a processos de experimentaçã o com inoculação de 
+microrganismos. 
+- Bolsas transfusionais vazias ou com volume residual pós-transfusão. 
+ 
+Subgrupo A5 
+- Órgãos, tecidos e fluidos orgânicos de alta infectividade para príons, de casos suspeitos 
+ou 
+confirmados, bem como quaisquer materiais resultant es da atenção à saúde de 
+indivíduos ou animais, suspeitos ou confirmados, e que tiveram contato com órgãos, 
+tecidos e fluidos de alta infectividade para príons. 
+- Tecidos de alta infectividade para príons são aqueles assim definidos em documentos 
+oficiais 
+pelos órgãos sanitários competentes. 
+Referência: World Health Organization, 2010. WHO Ta bles on Tissue Infectivity 
+Distribution in 
+Transmissible Spongiform Encephalopathies. 
+http://portal.anvisa.gov.br/resultado-de-
+busca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&p_p_c 
+ol_id=column-
+1&p_p_col_count=1&_101_struts_action=%2Fasset_publisher%2Fview_content&_101 
+_assetEntryId=402981&_101_type=content&_101_groupId=33868&_101_urlTitle=info 
+rme-snvs-anvisa-ufarm-n-7-de-2001&inheritRedirect=true  
+ 
+GRUPO B 
+Resíduos contendo produtos químicos que apresentam periculosidade à saúde pública 
+ou ao meio ambiente, dependendo de suas característ icas de inflamabilidade, 
+corrosividade, reatividade, toxicidade, carcinogeni cidade, teratogenicidade, 
+mutagenicidade e quantidade. 
+- Produtos farmacêuticos  
+- Resíduos de saneantes, desinfetantes, desinfestan tes; resíduos contendo metais 
+pesados; reagentes para laboratório, inclusive os recipientes contaminados por estes. 
+- Efluentes de processadores de imagem (reveladores e fixadores). 
+- Efluentes dos equipamentos automatizados utilizados em análises clínicas. 
+- Demais produtos considerados perigosos: tóxicos, corrosivos, inflamáveis e reativos. 
+ 
+GRUPO C 
+Qualquer material que contenha radionuclídeo em qua ntidade superior aos níveis de 
+dispensa especificados em norma da CNEN e para os quais a reutilização é imprópria ou 
+55   
+não prevista. 
+ 
+- Enquadra-se neste grupo o rejeito radioativo prov eniente de laboratório de pesquisa 
+e ensino na área da saúde, laboratório de análise clínica, serviço de medicina nuclear e 
+radioterapia, segundo Resolução da CNEN e Plano de Proteção Radiológica aprovado 
+para a instalação radiativa. 
+ 
+GRUPO D 
+Resíduos que não apresentam risco biológico, químic o ou radiológico à saúde ou ao 
+meio ambiente, podendo ser equiparados aos resíduos domiciliares. 
+- papel de uso sanitário e fralda, absorventes higi ênicos, peças descartáveis de 
+vestuário, gorros e máscaras descartáveis, resto al imentar de paciente, material 
+utilizado em antissepsia e hemostasia de venóclises , luvas de procedimentos que não 
+entraram em contato com sangue ou líquidos corpóreo s, equipo de soro, abaixadores 
+de língua e outros similares não classificados como A1; 
+- sobras de alimentos e do preparo de alimentos; 
+- resto alimentar de refeitório; 
+- resíduos provenientes das áreas administrativas; 
+- resíduos de varrição, flores, podas e jardins; 
+- resíduos de gesso provenientes de assistência à saúde; 
+- forrações de animais de biotérios sem risco biológico associado. 
+- resíduos recicláveis sem contaminação biológica, química e radiológica associada. 
+- pelos de animais. 
+ 
+No caso dos materiais utilizados em antissepsia e hemostasia de venóclises não está incluído o 
+algodão com sangue contido (geralmente uma gota), u tilizado nas punções venosas. Por uma 
+questão de prioridade ao maior risco, esse material  (algodão com sangue contido utilizado na 
+punção venosa) é classificado no subgrupo A4 (Recipientes e materiais resultantes do processo 
+de assistência à saúde, que não contenha sangue ou líquidos corpóreos na forma livre). 
+  
+GRUPO E 
+Materiais perfurocortantes ou escarificantes, tais como: lâminas de barbear, agulhas, 
+escalpes, ampolas de vidro, brocas, limas endodônti cas, pontas diamantadas, lâminas 
+de bisturi, lancetas; tubos capilares; ponteiras de  micropipetas; lâminas e lamínulas; 
+espátulas; e todos os utensílios de vidro quebrados  no laboratório (pipetas, tubos de 
+coleta sanguínea e placas de Petri) e outros similares. 
+56   
+ANEXO II 
+IDENTIFICAÇÃO DOS GRUPOS DOS RESÍDUOS DE SERVIÇOS DE SAÚDE 
+ 
+O grupo A é identificado, no mínimo, 
+pelo símbolo de risco biológico, com 
+rótulo de fundo branco, desenho e 
+contornos pretos, acrescido da 
+expressão RESÍDUO INFECTANTE.  
+ 
+RESÍDUO INFECTANTE  
+O grupo B é identif icado por meio de 
+símbolo e frase de risco associado à 
+periculosidade do resíduo químico.  
+Observação – outros símbolos e 
+frases do GHS também podem ser 
+utilizados. 
+ 
+devem ser utilizados, de acordo com 
+o risco do resíduo. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+O grupo C é rep resentado pelo 
+símbolo internacional de presença 
+de radiação ionizante (trifólio de cor 
+magenta ou púrpura) em rótulo de 
+fundo amarelo, acrescido da 
+expressão MATERIAL RADIOATIVO, 
+REJEITO RADIOATIVO ou 
+RADIOATIVO.  
+ 
+ 
+O grupo D deve ser identificado 
+conforme definido pelo órgão de 
+limpeza urbana.  
+ 
+ 
+Comburente  
+ 
+Explosivo  
+ 
+Corrosivo  
+Inflamável  Tóxico  
+REJEITO RADIOATIVO 
+Nocivo ao meio 
+ambiente  
+Perigoso para  
+a saúde  
+Nocivo para  
+a saúde  
+
+57   
+O grupo E é identificado pelo 
+símbolo de risco biológico, com 
+rótulo de fundo branco, desenho e 
+contorno preto, acrescido da 
+inscrição de RESÍDUO 
+PERFUROCORTANTE.  
+ 
+OU 
+PERFUROCORTANTE      
+OU 
+ 
+ 
+  
+PERFUROCORTANTE  
+58   
+ANEXO III 
+SUBSTÂNCIAS QUE DEVEM SER SEGREGADAS, ACONDICIONADAS E IDENTIFICADAS 
+SEPARADAMENTE 
+ 
+- Ácidos 
+- Asfixiantes 
+- Bases 
+- Brometo de etídio 
+- Carcinogênicas, mutagênicas e teratogênicas 
+- Compostos orgânicos halogenados 
+- Compostos orgânicos não halogenados 
+- Corrosivas 
+- Criogênicas 
+- De combustão espontânea 
+- Ecotóxicas 
+- Explosivas 
+- Formalina ou formaldeído 
+- Gases comprimidos 
+- Líquidos inflamáveis 
+- Materiais reativos com a água 
+- Materiais reativos com o ar 
+- Mercúrio e compostos de mercúrio 
+- Metais pesados 
+- Mistura sulfocrômica 
+- Óleos 
+- Oxidantes 
+- Resíduo fotográfico 
+- Sensíveis ao choque 
+- Soluções aquosas 
+- Venenos 
+Fonte: Chemical Waste Management Guide. University of Florida - Division of Environmental 
+Health & Safety - abril de 2001 
+ 
+59   
+  
+ANEXO  IV  
+INCOMPATIBILIDADE QUÍMICA ENTRE AS PRINCIPAIS SUBSTÂNCIAS UTILIZADAS 
+PELOS GERADORES DE RESÍDUOS DE SERVIÇOS DE SAÚDE 
+ 
+Substância  Incompatibilidade química  
+Acetileno  Cloro, Bromo, Flúor, Cobre, Prata, Mercúrio  
+Ácido acético  Ácido crômico, ác ido perclórico, peróxidos, permanganatos, 
+ácido nítrico, etilenoglicol 
+Acetona  Misturas de ácidos sulfúrico e nítrico concentrados, Peróxido 
+de hidrogênio 
+Ácido crômico  Ácido acético, naftaleno, cânfora, glicerol, turpentine, álcool, 
+outros líquidos inflamáveis 
+Ácido hidrociânico  Ácido nítrico, álcalis  
+Ácido fluorídrico anidro, 
+fluoreto de hidrogênio 
+Amônia (aquosa ou anidra)  
+Ácido nítrico concentrado  Ácido cianídrico, anilinas, Óxidos de cromo VI, Sulfeto de 
+hidrogênio, líquidos e gases combustíveis, ácido acético, ácido 
+crômico 
+Ácido oxálico  Prata e Mercúrio  
+Ácido perclórico  Anidrido acético, álcoois, Bismuto e suas ligas, papel, madeira  
+Ácido sulfúrico  Cloratos, percloratos, permanganatos e água  
+Alquil alumínio  Água  
+Amônia anidra  Mercúrio, Clo ro, hipoclorito de cálcio, Iodo, Bromo, ácido 
+fluorídrico 
+Anidrido acético  Compostos contendo hidroxil tais como etilenoglicol, ácido 
+perclórico 
+Anilina  Ácido nítrico, peróxido de hidrogênio  
+Azida sódica  Chumbo, Cobre e outros metais  
+Bromo e Cloro  Ben zeno, hidróxido de amônio, benzina de petróleo, 
+Hidrogênio, acetileno, etano, propano, butadienos, pós-
+metálicos 
+Carvão ativo  Dicromatos, permanganatos, ácido nítrico, ácido sulfúrico, 
+hipoclorito de sódio 
+Cloro  Amônia, acetileno, butadieno, butano, outr os gases de 
+petróleo, Hidrogênio, carbeto de sódio, turpentine, benzeno, 
+metais finamente divididos, benzinas e outras frações do 
+petróleo 
+Cianetos  Ácidos e álcalis  
+Cloratos, Percloratos, 
+Clorato de potássio 
+Sais de amônio, ácidos, metais em pó, matérias  orgânicas 
+particuladas, substâncias combustíveis 
+Cobre metálico  Acetileno, peróxido de hidrogênio, azidas  
+Dióxido de cloro  Amônia, metano, fósforo, sulfeto de hidrogênio  
+Flúor  Manter isolado de outros produtos químicos.  
+Fósforo  Enxofre, compostos oxig enados, cloratos, percloratos, 
+nitratos, permanganatos 
+Halogênios (flúor, cloro, 
+bromo e iodo) 
+Amoníaco, acetileno e hidrocarbonetos  
+Hidrazida  Peróxido de hidrogênio, ácido nítrico e outros oxidantes  
+Hidrocarbonetos (butano, Ácido crôm ico, Flúor, Cloro, Bromo, peróxidos  
+60   
+propano, tolueno)  
+Iodo  Acetileno, hidróxido de amônio, Hidrogênio  
+Líquidos inflamáveis  Ácido nítrico, nitrato de amônio, óxido de cromo VI, peróxidos, 
+Flúor, Cloro, Bromo, Hidrogênio 
+Mercúrio  Acetileno, ácido fulmínico, amônia  
+Metais  alcalinos  Dióxido de carbono, tetracloreto de carbono, outros 
+hidrocarbonetos clorados 
+Nitrato de amônio  Ácidos, pós -metálicos, líquidos inflamáveis, cloretos, Enxofre, 
+compostos orgânicos em pó 
+Nitrato de sódio  Nitrato de amônio e outros sais de amônio  
+Óxido de cálcio  Água  
+Óxido de cromo VI  Ácido acético, glicerina, benzina de petróleo, líquidos 
+inflamáveis, naftaleno 
+Oxigênio  Óleos, graxas, hidrogênio, líquidos, sólidos e gases inflamáveis  
+Perclorato de potássio  Ácidos  
+Permanganato de potássio  Glicerina, etilenoglicol, ácido sulfúrico  
+Peróxido de hidrogênio  Cobre, cromo, ferro, álcoois, acetonas, substâncias 
+combustíveis 
+Peróxido de sódio  Ácido acético, Anidrido acético, benzaldeído, etanol, metanol, 
+etilenoglicol, acetatos de metila e etila, furfural 
+Prata e sais de prata  Acetileno, ácido tartárico, ácido oxálico, compostos de amônio  
+Sódio  Dióxido de carbono, tetracloreto de carbono, outros 
+hidrocarbonetos clorados 
+Sulfeto de hidrogênio  Ácido nítrico fumegante, gases oxidantes  
+Fonte: Manual de Biossegurança - Mario Hiroyuki Hirata; Jorge Mancini Filho 
+  
+61   
+ 
+ 
+ANEXO V 
+LISTA DAS PRINCIPAIS SUBSTÂNCIAS UTILIZADAS EM SERVIÇ OS DE SAÚDE QUE 
+REAGEM COM EMBALAGENS DE POLIETILENO DE ALTA DENSIDADE (PEAD)    
+Ácido butírico  Dietil benzeno  
+Ácido nítrico  Dissulfeto de carbono  
+Ácidos concentrados  Éter  
+Bromo  Fenol / Clorofórmio  
+Bromofórmio  Nitrobenzeno  
+Álcool benzílico  o-diclorobenzeno  
+Anilina  Óleo de canela  
+Butadieno  Óleo de cedro  
+Ciclohexano  p-diclorobenzeno  
+Cloreto de etila, forma líquida  Percloroetileno  
+Cloreto de tionila  Solventes bromados & fluorados  
+Bromobenzeno  Solventes clorados  
+Cloreto de Amila  Tolueno  
+Cloreto de vinilideno  Tricloroeteno  
+Cresol  Xileno  
+Fonte: Chemical Waste Management Guide - University  of Florida - Division of Environmental 
+Health & Safety - abril de 2001. 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,730 @@
+[
+  {
+    "id": "white_01",
+    "name": "Manta azul dos materiais esterilizados (SMS)",
+    "destinationId": "white_bag",
+    "emoji": "🟦",
+    "image": null,
+    "source": {
+      "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
+      "page": 1
+    },
+    "explanation": "Conforme o gabarito institucional, este item segue para o saco branco leitoso.",
+    "contentStatus": "draft_from_supplied_gabarito",
+    "requiresInstitutionalValidation": true
+  },
+  {
+    "id": "white_02",
+    "name": "Luvas descartáveis de procedimento, cirúrgica, vinil e nitrila",
+    "destinationId": "white_bag",
+    "emoji": "🧤",
+    "image": null,
+    "source": {
+      "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
+      "page": 1
+    },
+    "explanation": "Conforme o gabarito institucional, este item segue para o saco branco leitoso.",
+    "contentStatus": "draft_from_supplied_gabarito",
+    "requiresInstitutionalValidation": true
+  },
+  {
+    "id": "white_03",
+    "name": "Máscaras descartáveis",
+    "destinationId": "white_bag",
+    "emoji": "😷",
+    "image": null,
+    "source": {
+      "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
+      "page": 1
+    },
+    "explanation": "Conforme o gabarito institucional, este item segue para o saco branco leitoso.",
+    "contentStatus": "draft_from_supplied_gabarito",
+    "requiresInstitutionalValidation": true
+  },
+  {
+    "id": "white_04",
+    "name": "Frascos de dieta vazios",
+    "destinationId": "white_bag",
+    "emoji": "🍼",
+    "image": null,
+    "source": {
+      "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
+      "page": 1
+    },
+    "explanation": "Conforme o gabarito institucional, este item segue para o saco branco leitoso.",
+    "contentStatus": "draft_from_supplied_gabarito",
+    "requiresInstitutionalValidation": true
+  },
+  {
+    "id": "white_05",
+    "name": "Sonda, drenos, saco e bolsa de urina (limpo/sujo)",
+    "destinationId": "white_bag",
+    "emoji": "🧴",
+    "image": null,
+    "source": {
+      "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
+      "page": 1
+    },
+    "explanation": "Conforme o gabarito institucional, este item segue para o saco branco leitoso.",
+    "contentStatus": "draft_from_supplied_gabarito",
+    "requiresInstitutionalValidation": true
+  },
+  {
+    "id": "white_06",
+    "name": "Bolsa de hemocomponentes após transfusão",
+    "destinationId": "white_bag",
+    "emoji": "🩸",
+    "image": null,
+    "source": {
+      "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
+      "page": 1
+    },
+    "explanation": "Conforme o gabarito institucional, este item segue para o saco branco leitoso.",
+    "contentStatus": "draft_from_supplied_gabarito",
+    "requiresInstitutionalValidation": true
+  },
+  {
+    "id": "white_07",
+    "name": "Frascos de soro vazios (mole/bag/bolsa)",
+    "destinationId": "white_bag",
+    "emoji": "💧",
+    "image": null,
+    "source": {
+      "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
+      "page": 1
+    },
+    "explanation": "Conforme o gabarito institucional, este item segue para o saco branco leitoso.",
+    "contentStatus": "draft_from_supplied_gabarito",
+    "requiresInstitutionalValidation": true
+  },
+  {
+    "id": "white_08",
+    "name": "Aventais descartáveis",
+    "destinationId": "white_bag",
+    "emoji": "🥼",
+    "image": null,
+    "source": {
+      "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
+      "page": 1
+    },
+    "explanation": "Conforme o gabarito institucional, este item segue para o saco branco leitoso.",
+    "contentStatus": "draft_from_supplied_gabarito",
+    "requiresInstitutionalValidation": true
+  },
+  {
+    "id": "white_09",
+    "name": "Swab usado",
+    "destinationId": "white_bag",
+    "emoji": "🧪",
+    "image": null,
+    "source": {
+      "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
+      "page": 1
+    },
+    "explanation": "Conforme o gabarito institucional, este item segue para o saco branco leitoso.",
+    "contentStatus": "draft_from_supplied_gabarito",
+    "requiresInstitutionalValidation": true
+  },
+  {
+    "id": "white_10",
+    "name": "Placenta",
+    "destinationId": "white_bag",
+    "emoji": "◉",
+    "image": null,
+    "source": {
+      "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
+      "page": 1
+    },
+    "explanation": "Conforme o gabarito institucional, este item segue para o saco branco leitoso.",
+    "contentStatus": "draft_from_supplied_gabarito",
+    "requiresInstitutionalValidation": true
+  },
+  {
+    "id": "white_11",
+    "name": "Algodão de hemostasia com ou sem sangue",
+    "destinationId": "white_bag",
+    "emoji": "⚪",
+    "image": null,
+    "source": {
+      "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
+      "page": 1
+    },
+    "explanation": "Conforme o gabarito institucional, este item segue para o saco branco leitoso.",
+    "contentStatus": "draft_from_supplied_gabarito",
+    "requiresInstitutionalValidation": true
+  },
+  {
+    "id": "white_12",
+    "name": "Embalagem de materiais esterilizados feita de plástico e de papel (papel encerado ou grau cirúrgico)",
+    "destinationId": "white_bag",
+    "emoji": "📦",
+    "image": null,
+    "source": {
+      "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
+      "page": 1
+    },
+    "explanation": "Conforme o gabarito institucional, este item segue para o saco branco leitoso.",
+    "contentStatus": "draft_from_supplied_gabarito",
+    "requiresInstitutionalValidation": true
+  },
+  {
+    "id": "white_13",
+    "name": "Gesso ou tala gessada com sangue",
+    "destinationId": "white_bag",
+    "emoji": "🩹",
+    "image": null,
+    "source": {
+      "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
+      "page": 1
+    },
+    "explanation": "Conforme o gabarito institucional, este item segue para o saco branco leitoso.",
+    "contentStatus": "draft_from_supplied_gabarito",
+    "requiresInstitutionalValidation": true
+  },
+  {
+    "id": "white_14",
+    "name": "Equipos (medicamento/dieta) com ou sem sangue",
+    "destinationId": "white_bag",
+    "emoji": "〰",
+    "image": null,
+    "source": {
+      "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
+      "page": 1
+    },
+    "explanation": "Conforme o gabarito institucional, este item segue para o saco branco leitoso.",
+    "contentStatus": "draft_from_supplied_gabarito",
+    "requiresInstitutionalValidation": true
+  },
+  {
+    "id": "white_15",
+    "name": "Seringa com sangue e sem agulha",
+    "destinationId": "white_bag",
+    "emoji": "💉",
+    "image": null,
+    "source": {
+      "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
+      "page": 1
+    },
+    "explanation": "Conforme o gabarito institucional, este item segue para o saco branco leitoso.",
+    "contentStatus": "draft_from_supplied_gabarito",
+    "requiresInstitutionalValidation": true
+  },
+  {
+    "id": "white_16",
+    "name": "Resto de curativo (gaze, ataduras e chumaço de algodão)",
+    "destinationId": "white_bag",
+    "emoji": "🩹",
+    "image": null,
+    "source": {
+      "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
+      "page": 1
+    },
+    "explanation": "Conforme o gabarito institucional, este item segue para o saco branco leitoso.",
+    "contentStatus": "draft_from_supplied_gabarito",
+    "requiresInstitutionalValidation": true
+  },
+  {
+    "id": "hamper_01",
+    "name": "Lençol",
+    "destinationId": "hamper",
+    "emoji": "🛏",
+    "image": null,
+    "source": {
+      "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
+      "page": 1
+    },
+    "explanation": "Este item pertence ao fluxo de roupa/tecido do hamper, conforme o gabarito institucional.",
+    "contentStatus": "draft_from_supplied_gabarito",
+    "requiresInstitutionalValidation": true
+  },
+  {
+    "id": "hamper_02",
+    "name": "Fronha",
+    "destinationId": "hamper",
+    "emoji": "▱",
+    "image": null,
+    "source": {
+      "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
+      "page": 1
+    },
+    "explanation": "Este item pertence ao fluxo de roupa/tecido do hamper, conforme o gabarito institucional.",
+    "contentStatus": "draft_from_supplied_gabarito",
+    "requiresInstitutionalValidation": true
+  },
+  {
+    "id": "hamper_03",
+    "name": "Compressa de pano com sangue",
+    "destinationId": "hamper",
+    "emoji": "🟥",
+    "image": null,
+    "source": {
+      "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
+      "page": 1
+    },
+    "explanation": "Este item pertence ao fluxo de roupa/tecido do hamper, conforme o gabarito institucional.",
+    "contentStatus": "draft_from_supplied_gabarito",
+    "requiresInstitutionalValidation": true
+  },
+  {
+    "id": "hamper_04",
+    "name": "Compressa de pano sem sangue",
+    "destinationId": "hamper",
+    "emoji": "⬜",
+    "image": null,
+    "source": {
+      "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
+      "page": 1
+    },
+    "explanation": "Este item pertence ao fluxo de roupa/tecido do hamper, conforme o gabarito institucional.",
+    "contentStatus": "draft_from_supplied_gabarito",
+    "requiresInstitutionalValidation": true
+  },
+  {
+    "id": "hamper_05",
+    "name": "Campo cirúrgico de tecido",
+    "destinationId": "hamper",
+    "emoji": "🟩",
+    "image": null,
+    "source": {
+      "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
+      "page": 1
+    },
+    "explanation": "Este item pertence ao fluxo de roupa/tecido do hamper, conforme o gabarito institucional.",
+    "contentStatus": "draft_from_supplied_gabarito",
+    "requiresInstitutionalValidation": true
+  },
+  {
+    "id": "hamper_06",
+    "name": "Capotes de pano",
+    "destinationId": "hamper",
+    "emoji": "🥼",
+    "image": null,
+    "source": {
+      "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
+      "page": 1
+    },
+    "explanation": "Este item pertence ao fluxo de roupa/tecido do hamper, conforme o gabarito institucional.",
+    "contentStatus": "draft_from_supplied_gabarito",
+    "requiresInstitutionalValidation": true
+  },
+  {
+    "id": "hamper_07",
+    "name": "Camisolas",
+    "destinationId": "hamper",
+    "emoji": "👕",
+    "image": null,
+    "source": {
+      "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
+      "page": 1
+    },
+    "explanation": "Este item pertence ao fluxo de roupa/tecido do hamper, conforme o gabarito institucional.",
+    "contentStatus": "draft_from_supplied_gabarito",
+    "requiresInstitutionalValidation": true
+  },
+  {
+    "id": "hamper_08",
+    "name": "Privativo",
+    "destinationId": "hamper",
+    "emoji": "👚",
+    "image": null,
+    "source": {
+      "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
+      "page": 1
+    },
+    "explanation": "Este item pertence ao fluxo de roupa/tecido do hamper, conforme o gabarito institucional.",
+    "contentStatus": "draft_from_supplied_gabarito",
+    "requiresInstitutionalValidation": true
+  },
+  {
+    "id": "hamper_09",
+    "name": "Cobertas",
+    "destinationId": "hamper",
+    "emoji": "▰",
+    "image": null,
+    "source": {
+      "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
+      "page": 1
+    },
+    "explanation": "Este item pertence ao fluxo de roupa/tecido do hamper, conforme o gabarito institucional.",
+    "contentStatus": "draft_from_supplied_gabarito",
+    "requiresInstitutionalValidation": true
+  },
+  {
+    "id": "red_01",
+    "name": "Peças anatômicas ou fetos (<500 g ou <20 semanas)",
+    "destinationId": "red_bag",
+    "emoji": "🫀",
+    "image": null,
+    "source": {
+      "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
+      "page": 1
+    },
+    "explanation": "Conforme o gabarito institucional, este item deve ser acondicionado no saco vermelho.",
+    "contentStatus": "draft_from_supplied_gabarito",
+    "requiresInstitutionalValidation": true
+  },
+  {
+    "id": "red_02",
+    "name": "Bolsa de hemocomponentes vencidos ou infectados",
+    "destinationId": "red_bag",
+    "emoji": "🩸",
+    "image": null,
+    "source": {
+      "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
+      "page": 1
+    },
+    "explanation": "Conforme o gabarito institucional, este item deve ser acondicionado no saco vermelho.",
+    "contentStatus": "draft_from_supplied_gabarito",
+    "requiresInstitutionalValidation": true
+  },
+  {
+    "id": "red_03",
+    "name": "Vacinas",
+    "destinationId": "red_bag",
+    "emoji": "💉",
+    "image": null,
+    "source": {
+      "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
+      "page": 1
+    },
+    "explanation": "Conforme o gabarito institucional, este item deve ser acondicionado no saco vermelho.",
+    "contentStatus": "draft_from_supplied_gabarito",
+    "requiresInstitutionalValidation": true
+  },
+  {
+    "id": "green_01",
+    "name": "Papelão",
+    "destinationId": "green_bag",
+    "emoji": "📦",
+    "image": null,
+    "source": {
+      "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
+      "page": 2
+    },
+    "explanation": "Conforme o gabarito institucional, este item segue para o fluxo do saco verde.",
+    "contentStatus": "draft_from_supplied_gabarito",
+    "requiresInstitutionalValidation": true
+  },
+  {
+    "id": "green_02",
+    "name": "Copo descartável limpo ou sujo",
+    "destinationId": "green_bag",
+    "emoji": "🥤",
+    "image": null,
+    "source": {
+      "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
+      "page": 2
+    },
+    "explanation": "Conforme o gabarito institucional, este item segue para o fluxo do saco verde.",
+    "contentStatus": "draft_from_supplied_gabarito",
+    "requiresInstitutionalValidation": true
+  },
+  {
+    "id": "green_03",
+    "name": "Frasco de soro redondo (vazio e rígido)",
+    "destinationId": "green_bag",
+    "emoji": "🧴",
+    "image": null,
+    "source": {
+      "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
+      "page": 2
+    },
+    "explanation": "Conforme o gabarito institucional, este item segue para o fluxo do saco verde.",
+    "contentStatus": "draft_from_supplied_gabarito",
+    "requiresInstitutionalValidation": true
+  },
+  {
+    "id": "green_04",
+    "name": "Papel seco ou molhado",
+    "destinationId": "green_bag",
+    "emoji": "📄",
+    "image": null,
+    "source": {
+      "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
+      "page": 2
+    },
+    "explanation": "Conforme o gabarito institucional, este item segue para o fluxo do saco verde.",
+    "contentStatus": "draft_from_supplied_gabarito",
+    "requiresInstitutionalValidation": true
+  },
+  {
+    "id": "green_05",
+    "name": "Papel sulfite",
+    "destinationId": "green_bag",
+    "emoji": "📄",
+    "image": null,
+    "source": {
+      "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
+      "page": 2
+    },
+    "explanation": "Conforme o gabarito institucional, este item segue para o fluxo do saco verde.",
+    "contentStatus": "draft_from_supplied_gabarito",
+    "requiresInstitutionalValidation": true
+  },
+  {
+    "id": "green_06",
+    "name": "Seringa sem agulha e sem sangue",
+    "destinationId": "green_bag",
+    "emoji": "💉",
+    "image": null,
+    "source": {
+      "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
+      "page": 2
+    },
+    "explanation": "Conforme o gabarito institucional, este item segue para o fluxo do saco verde.",
+    "contentStatus": "draft_from_supplied_gabarito",
+    "requiresInstitutionalValidation": true
+  },
+  {
+    "id": "green_07",
+    "name": "Plástico e latas de alumínio",
+    "destinationId": "green_bag",
+    "emoji": "♻",
+    "image": null,
+    "source": {
+      "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
+      "page": 2
+    },
+    "explanation": "Conforme o gabarito institucional, este item segue para o fluxo do saco verde.",
+    "contentStatus": "draft_from_supplied_gabarito",
+    "requiresInstitutionalValidation": true
+  },
+  {
+    "id": "green_08",
+    "name": "Gelox",
+    "destinationId": "green_bag",
+    "emoji": "🧊",
+    "image": null,
+    "source": {
+      "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
+      "page": 2
+    },
+    "explanation": "Conforme o gabarito institucional, este item segue para o fluxo do saco verde.",
+    "contentStatus": "draft_from_supplied_gabarito",
+    "requiresInstitutionalValidation": true
+  },
+  {
+    "id": "green_09",
+    "name": "Ampolas de soro vazias",
+    "destinationId": "green_bag",
+    "emoji": "🧪",
+    "image": null,
+    "source": {
+      "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
+      "page": 2
+    },
+    "explanation": "Conforme o gabarito institucional, este item segue para o fluxo do saco verde.",
+    "contentStatus": "draft_from_supplied_gabarito",
+    "requiresInstitutionalValidation": true
+  },
+  {
+    "id": "black_01",
+    "name": "Resto de alimento e casca de frutas",
+    "destinationId": "black_bag",
+    "emoji": "🍎",
+    "image": null,
+    "source": {
+      "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
+      "page": 2
+    },
+    "explanation": "Conforme o gabarito institucional, este item segue para o saco preto.",
+    "contentStatus": "draft_from_supplied_gabarito",
+    "requiresInstitutionalValidation": true
+  },
+  {
+    "id": "black_02",
+    "name": "Embalagens prateadas, marmitas e copos de isopor",
+    "destinationId": "black_bag",
+    "emoji": "🥡",
+    "image": null,
+    "source": {
+      "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
+      "page": 2
+    },
+    "explanation": "Conforme o gabarito institucional, este item segue para o saco preto.",
+    "contentStatus": "draft_from_supplied_gabarito",
+    "requiresInstitutionalValidation": true
+  },
+  {
+    "id": "black_03",
+    "name": "Fita e etiqueta adesiva",
+    "destinationId": "black_bag",
+    "emoji": "🏷",
+    "image": null,
+    "source": {
+      "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
+      "page": 2
+    },
+    "explanation": "Conforme o gabarito institucional, este item segue para o saco preto.",
+    "contentStatus": "draft_from_supplied_gabarito",
+    "requiresInstitutionalValidation": true
+  },
+  {
+    "id": "black_04",
+    "name": "Fralda e absorventes íntimos",
+    "destinationId": "black_bag",
+    "emoji": "◻",
+    "image": null,
+    "source": {
+      "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
+      "page": 2
+    },
+    "explanation": "Conforme o gabarito institucional, este item segue para o saco preto.",
+    "contentStatus": "draft_from_supplied_gabarito",
+    "requiresInstitutionalValidation": true
+  },
+  {
+    "id": "black_05",
+    "name": "Gesso ou tala gessada sem sangue",
+    "destinationId": "black_bag",
+    "emoji": "🩹",
+    "image": null,
+    "source": {
+      "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
+      "page": 2
+    },
+    "explanation": "Conforme o gabarito institucional, este item segue para o saco preto.",
+    "contentStatus": "draft_from_supplied_gabarito",
+    "requiresInstitutionalValidation": true
+  },
+  {
+    "id": "black_06",
+    "name": "Papel higiênico",
+    "destinationId": "black_bag",
+    "emoji": "🧻",
+    "image": null,
+    "source": {
+      "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
+      "page": 2
+    },
+    "explanation": "Conforme o gabarito institucional, este item segue para o saco preto.",
+    "contentStatus": "draft_from_supplied_gabarito",
+    "requiresInstitutionalValidation": true
+  },
+  {
+    "id": "black_07",
+    "name": "Cotonete",
+    "destinationId": "black_bag",
+    "emoji": "〰",
+    "image": null,
+    "source": {
+      "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
+      "page": 2
+    },
+    "explanation": "Conforme o gabarito institucional, este item segue para o saco preto.",
+    "contentStatus": "draft_from_supplied_gabarito",
+    "requiresInstitutionalValidation": true
+  },
+  {
+    "id": "sharp_01",
+    "name": "Ampolas quebradas",
+    "destinationId": "sharps",
+    "emoji": "🧪",
+    "image": null,
+    "source": {
+      "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
+      "page": 2
+    },
+    "explanation": "Por apresentar risco de corte ou perfuração, o gabarito direciona este item ao coletor de perfurocortantes.",
+    "contentStatus": "draft_from_supplied_gabarito",
+    "requiresInstitutionalValidation": true
+  },
+  {
+    "id": "sharp_02",
+    "name": "Lâminas de bisturi",
+    "destinationId": "sharps",
+    "emoji": "🔪",
+    "image": null,
+    "source": {
+      "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
+      "page": 2
+    },
+    "explanation": "Por apresentar risco de corte ou perfuração, o gabarito direciona este item ao coletor de perfurocortantes.",
+    "contentStatus": "draft_from_supplied_gabarito",
+    "requiresInstitutionalValidation": true
+  },
+  {
+    "id": "sharp_03",
+    "name": "Lancetas",
+    "destinationId": "sharps",
+    "emoji": "◢",
+    "image": null,
+    "source": {
+      "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
+      "page": 2
+    },
+    "explanation": "Por apresentar risco de corte ou perfuração, o gabarito direciona este item ao coletor de perfurocortantes.",
+    "contentStatus": "draft_from_supplied_gabarito",
+    "requiresInstitutionalValidation": true
+  },
+  {
+    "id": "sharp_04",
+    "name": "Vidros quebrados",
+    "destinationId": "sharps",
+    "emoji": "◩",
+    "image": null,
+    "source": {
+      "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
+      "page": 2
+    },
+    "explanation": "Por apresentar risco de corte ou perfuração, o gabarito direciona este item ao coletor de perfurocortantes.",
+    "contentStatus": "draft_from_supplied_gabarito",
+    "requiresInstitutionalValidation": true
+  },
+  {
+    "id": "sharp_05",
+    "name": "Lâminas de barbear",
+    "destinationId": "sharps",
+    "emoji": "▱",
+    "image": null,
+    "source": {
+      "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
+      "page": 2
+    },
+    "explanation": "Por apresentar risco de corte ou perfuração, o gabarito direciona este item ao coletor de perfurocortantes.",
+    "contentStatus": "draft_from_supplied_gabarito",
+    "requiresInstitutionalValidation": true
+  },
+  {
+    "id": "sharp_06",
+    "name": "Agulhas, scalp/cateteres agulhados e butterfly",
+    "destinationId": "sharps",
+    "emoji": "💉",
+    "image": null,
+    "source": {
+      "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
+      "page": 2
+    },
+    "explanation": "Por apresentar risco de corte ou perfuração, o gabarito direciona este item ao coletor de perfurocortantes.",
+    "contentStatus": "draft_from_supplied_gabarito",
+    "requiresInstitutionalValidation": true
+  },
+  {
+    "id": "vial_01",
+    "name": "Frasco-ampola vazio",
+    "destinationId": "vial_glass",
+    "emoji": "🧪",
+    "image": null,
+    "source": {
+      "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
+      "page": 2
+    },
+    "explanation": "O gabarito institucional separa o frasco-ampola vazio no recipiente de vidros.",
+    "contentStatus": "draft_from_supplied_gabarito",
+    "requiresInstitutionalValidation": true
+  },
+  {
+    "id": "chem_01",
+    "name": "Frasco-ampola com resto de medicação",
+    "destinationId": "vial_chemical",
+    "emoji": "⚗",
+    "image": null,
+    "source": {
+      "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
+      "page": 2
+    },
+    "explanation": "Como há resto de medicação, o gabarito institucional direciona o frasco-ampola ao fluxo químico.",
+    "contentStatus": "draft_from_supplied_gabarito",
+    "requiresInstitutionalValidation": true
+  }
+]

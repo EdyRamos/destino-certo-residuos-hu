@@ -1,0 +1,66 @@
+[
+  {
+    "id": "white_bag",
+    "name": "Saco branco leitoso",
+    "shortName": "Branco",
+    "colorToken": "white",
+    "symbol": "☣",
+    "feedback": "Conforme o gabarito institucional, este item segue para o saco branco leitoso."
+  },
+  {
+    "id": "hamper",
+    "name": "Hamper",
+    "shortName": "Hamper",
+    "colorToken": "orange",
+    "symbol": "▤",
+    "feedback": "Este item pertence ao fluxo de roupa/tecido do hamper, conforme o gabarito institucional."
+  },
+  {
+    "id": "red_bag",
+    "name": "Saco vermelho",
+    "shortName": "Vermelho",
+    "colorToken": "red",
+    "symbol": "☣",
+    "feedback": "Conforme o gabarito institucional, este item deve ser acondicionado no saco vermelho."
+  },
+  {
+    "id": "green_bag",
+    "name": "Saco verde",
+    "shortName": "Verde",
+    "colorToken": "green",
+    "symbol": "♻",
+    "feedback": "Conforme o gabarito institucional, este item segue para o fluxo do saco verde."
+  },
+  {
+    "id": "black_bag",
+    "name": "Saco preto",
+    "shortName": "Preto",
+    "colorToken": "black",
+    "symbol": "▣",
+    "feedback": "Conforme o gabarito institucional, este item segue para o saco preto."
+  },
+  {
+    "id": "sharps",
+    "name": "Perfurocortantes",
+    "shortName": "Perfuro",
+    "colorToken": "yellow",
+    "symbol": "▲",
+    "feedback": "Por apresentar risco de corte ou perfuração, o gabarito direciona este item ao coletor de perfurocortantes."
+  },
+  {
+    "id": "vial_glass",
+    "name": "Vidros (frasco-ampola)",
+    "shortName": "Vidros",
+    "colorToken": "glass",
+    "symbol": "◫",
+    "feedback": "O gabarito institucional separa o frasco-ampola vazio no recipiente de vidros."
+  },
+  {
+    "id": "vial_chemical",
+    "name": "Vidros (frasco-ampola) químico",
+    "shortName": "Químico",
+    "colorToken": "chemical",
+    "symbol": "⚗",
+    "feedback": "Como há resto de medicação, o gabarito institucional direciona o frasco-ampola ao fluxo químico."
+  }
+]

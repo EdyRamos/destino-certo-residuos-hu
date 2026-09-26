@@ -1,0 +1,8 @@
+import fs from 'node:fs';
+import sharp from 'sharp';
+const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><rect width="512" height="512" rx="110" fill="#08734c"/><circle cx="256" cy="256" r="150" fill="#d9f2b5"/><path d="M176 261l53 54 112-121" fill="none" stroke="#075839" stroke-width="34" stroke-linecap="round" stroke-linejoin="round"/><path d="M365 119c-38-41-96-62-153-47M143 382c44 39 105 53 159 37" fill="none" stroke="#fff" stroke-width="13" stroke-linecap="round"/></svg>`;
+fs.writeFileSync('public/icons/app-icon.svg', svg);
+for (const size of [192,512]) await sharp(Buffer.from(svg)).resize(size,size).png().toFile(`public/icons/icon-${size}.png`);
+const maskable = svg.replace('rx="110"','rx="0"');
+await sharp(Buffer.from(maskable)).resize(512,512).png().toFile('public/icons/maskable-512.png');
+console.log('Ícones do aplicativo gerados a partir do SVG local.');
