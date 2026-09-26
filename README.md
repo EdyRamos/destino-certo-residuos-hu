@@ -39,4 +39,4 @@ Sem o Chromium do Playwright instalado, use o navegador da máquina: `PW_CHANNEL
 - dados clínicos ou de pacientes.
 
 ## Próxima etapa humana
-A Patricia Ito/Divisão de Ensino e Pesquisa deve revisar `docs/CONTEUDO_PARA_VALIDACAO.csv` e aprovar as classificações e explicações antes da publicação.
+A Divisão de Ensino e Pesquisa deve revisar `docs/CONTEUDO_PARA_VALIDACAO.csv` e aprovar as classificações e explicações antes da publicação.
