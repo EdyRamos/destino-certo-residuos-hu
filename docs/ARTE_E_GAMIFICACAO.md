@@ -9,6 +9,13 @@ Personagens e materiais são ilustrações raster em estilo 3D, com volume, mate
 - **Nery:** educadora adulta, cabelo castanho preso, jaleco branco, roupa azul-petróleo e tablet. A marca no jaleco da arte atual foi gerada a partir da referência oficial e precisa de conferência institucional; as novas poses devem vir sem marca (ver `docs/LEONARDO_ASSETS.md`). Os logos do cabeçalho e dos créditos são os arquivos originais.
 - **Destinos:** sacos com textura plástica e símbolos reconhecíveis; hamper com estrutura tubular, rodízios e saco de tecido. Os coletores de vidro devem usar as fotos reais dos recipientes do HU (`vial-glass-v2`, `vial-chemical-v2`). Ilustração não é especificação de compra nem autorização de procedimento.
 
+## Sistema visual
+
+- Uma folha de estilos (`src/styles.css`) com escalas fixas: tipografia (`--t-*`), espaçamento (`--s-*`), três raios (`--r-sm`, `--r-md`, `--r-lg`) e duas sombras. Novas telas devem reutilizar esses tokens em vez de valores soltos.
+- Fonte Lexend (licença OFL), embutida no pacote a partir de `@fontsource-variable/lexend` (subconjunto latino, cerca de 40 KB).
+- Títulos diretos e funcionais; rótulos pequenos apenas quando informam contexto (ex.: "Capítulo 1 · Começo do plantão").
+- Decoração só onde comunica algo: cenário do capítulo, plataforma da Nery e recompensas.
+
 ## Narrativa e mecânica
 
 | Capítulo | Contexto | Objetivo | Medalha |

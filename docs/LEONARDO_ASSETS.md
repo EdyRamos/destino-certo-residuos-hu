@@ -22,6 +22,8 @@ Atualizado em 28/09/2026. O jogo já funciona sem estas artes: cada uma que cheg
 
 ### A1. Poses da Nery (6)
 
+> **Importante:** gere as poses com **fundo transparente**. As versões atuais vieram com fundo branco; como o jaleco também é branco, o recorte automático precisa adivinhar o contorno e pode deixar pequenas marcas. Com transparência de origem, o resultado é perfeito. Salve como `nery-<pose>-v2.png`: a versão 2 substitui a atual automaticamente.
+
 Base comum para colar no início de cada prompt:
 
 > Nery, friendly adult Brazilian female hospital educator, warm brown eyes, brown hair in a neat bun with a few loose strands, stylized 3D character like a premium animated movie, plain white lab coat with blank chest (no logo, no text) over dark teal scrubs, white clogs, full body, centered, soft studio lighting, plain pure white background, generous margin around the figure.

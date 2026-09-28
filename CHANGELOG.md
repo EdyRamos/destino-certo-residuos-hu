@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.11.0 — revisão de layout, UX e UI (28/09/2026)
+- Nery sem partes apagadas: recorte de fundo que preserva o jaleco branco;
+- ícones do cabeçalho refeitos (configurações e música com estado ligado/desligado);
+- sistema visual único (tipografia, espaçamento, raios e sombras) e fonte Lexend embutida, offline;
+- títulos diretos, termo "capítulo" unificado e modo "Treino livre";
+- valor da tentativa visível no jogo e par item → destino na explicação;
+- tela inicial com ação principal clara, layout próprio para tablet em pé e ajustes no celular.
+
 ## 0.10.0 — Missão Nery (28/09/2026, atualização local)
 - Nery refinada, oito destinos ilustrados e substituição das figuras de perguntas por sprites 3D;
 - três capítulos narrativos, objetivos de observação, conquistas e revisão de erros ao fim da fase;

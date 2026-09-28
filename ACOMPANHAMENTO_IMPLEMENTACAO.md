@@ -131,3 +131,12 @@ Implementação concluída para homologação interna (ver `IMPLEMENTATION_REPOR
 - Correções: cenário com URL absoluta (URL relativa em variável CSS resolvia a partir da pasta do CSS), enquadramento do rosto no avatar e largura do cartão do item em telas estreitas.
 - Originais PNG (84 MB) mantidos fora do Git, no OneDrive; o jogo usa `public/art` (3,2 MB).
 - Verificação: 52 testes unitários e 11 fluxos de navegador passaram; telas revisadas em 1280×800, 800×1280 e 390×844.
+
+### 16. Revisão de layout, UX e UI — concluída (28/09/2026)
+- Nery com partes apagadas: as 6 poses chegaram com fundo branco sólido e o recorte automático apagava o jaleco onde o branco encosta no fundo. O recorte passou a selar o contorno antes de remover o fundo; teste reproduz o caso. Ideal: poses com fundo transparente na origem.
+- Ícones: engrenagem refeita; música como ícone com estado ligado/desligado (antes "♫ Ligada", um caractere de texto); carreira com ícone de rota.
+- Diagramação: folha de estilos única com escalas fixas de tipografia, espaçamento, 3 raios e 2 sombras, substituindo camadas sobrepostas. Fonte Lexend (OFL) embutida para funcionar offline e igual em todos os tablets.
+- Textos: títulos diretos em todas as telas, sem rótulos em caixa-alta nem slogans; termo "capítulo" unificado; modo de prática renomeado para "Treino livre".
+- Jogo: tentativa atual e quanto ela vale ficam visíveis; dica de arrastar só nos dois primeiros itens; explicação mostra o par item → destino.
+- Tela inicial com uma ação principal e atalhos compactos; tablet em pé com layout empilhado; nomes longos dos coletores sem corte no celular; configurações com chaves liga/desliga; medalhas num único estilo até o conjunto de artes estar completo.
+- Verificação: 53 testes unitários e 11 fluxos de navegador; telas revisadas em 1280×800, 800×1280 e 390×844.

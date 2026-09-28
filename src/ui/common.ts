@@ -9,7 +9,11 @@ export function icon(name: string, size = 24) {
   const shapes: Record<string,string> = {
     play:'<path d="m9 5 11 7-11 7Z"/>', back:'<path d="m14 6-6 6 6 6M8 12h13"/>',
     arrow:'<path d="m9 5 7 7-7 7"/>', check:'<path d="m5 12 4 4L19 6"/>',
-    settings:'<path d="m9 3-1 3-3 1v4l2 1-2 2 2 4h3l2 3 3-1 1-3 3-1v-4l-2-1 1-3-3-2-3 1Z"/><circle cx="12" cy="12" r="3"/>',
+    settings:'<path d="M12.22 2h-.44a2 2 0 0 0-2 2v.18a2 2 0 0 1-1 1.73l-.43.25a2 2 0 0 1-2 0l-.15-.08a2 2 0 0 0-2.73.73l-.22.38a2 2 0 0 0 .73 2.73l.15.1a2 2 0 0 1 1 1.72v.51a2 2 0 0 1-1 1.74l-.15.09a2 2 0 0 0-.73 2.73l.22.38a2 2 0 0 0 2.73.73l.15-.08a2 2 0 0 1 2 0l.43.25a2 2 0 0 1 1 1.73V20a2 2 0 0 0 2 2h.44a2 2 0 0 0 2-2v-.18a2 2 0 0 1 1-1.73l.43-.25a2 2 0 0 1 2 0l.15.08a2 2 0 0 0 2.73-.73l.22-.39a2 2 0 0 0-.73-2.73l-.15-.08a2 2 0 0 1-1-1.74v-.5a2 2 0 0 1 1-1.74l.15-.09a2 2 0 0 0 .73-2.73l-.22-.38a2 2 0 0 0-2.73-.73l-.15.08a2 2 0 0 1-2 0l-.43-.25a2 2 0 0 1-1-1.73V4a2 2 0 0 0-2-2Z"/><circle cx="12" cy="12" r="3"/>',
+    music:'<path d="M9 18V5l12-2v13"/><circle cx="6" cy="18" r="3"/><circle cx="18" cy="16" r="3"/>',
+    musicOff:'<path d="M9 18V5l12-2v13"/><circle cx="6" cy="18" r="3"/><circle cx="18" cy="16" r="3"/><path d="m3 3 18 18"/>',
+    route:'<circle cx="6" cy="19" r="3"/><path d="M9 19h8.5a3.5 3.5 0 0 0 0-7h-11a3.5 3.5 0 0 1 0-7H15"/><circle cx="18" cy="5" r="3"/>',
+    hand:'<path d="M9 11V5.5a1.5 1.5 0 0 1 3 0V10m0-.5v-2a1.5 1.5 0 0 1 3 0V11m0-1a1.5 1.5 0 0 1 3 0v4a7 7 0 0 1-7 7h-.5a6 6 0 0 1-5-2.7L3.3 15a1.6 1.6 0 0 1 2.6-1.8L9 16"/>',
     book:'<path d="M12 6C7 3 3 4 3 4v15s4-1 9 2c5-3 9-2 9-2V4s-4-1-9 2Zm0 0v15"/>',
     trophy:'<path d="M8 3h8v7a4 4 0 0 1-8 0ZM8 5H4v3a4 4 0 0 0 4 4m8-7h4v3a4 4 0 0 1-4 4m-4 2v6m-4 1h8"/>',
     bars:'<path d="M4 20v-5h3v5Zm7 0V9h3v11Zm7 0V3h3v17Z"/>',
@@ -60,8 +64,10 @@ const medals: Record<MedalKey, [string, string, boolean]> = {
 };
 let medalId = 0;
 /** Leonardo badge art when delivered, otherwise a vector medal in the same palette. */
+// Mixing generated badges with vector ones looks improvised: use the art only once the set is complete.
+const fullBadgeSet = (Object.keys(medals) as MedalKey[]).every(k => artUrl('badge-' + k));
 export function medal(key: MedalKey) {
-  const url = artUrl('badge-' + key);
+  const url = fullBadgeSet ? artUrl('badge-' + key) : null;
   if (url) return '<img class="medal-art" src="'+url+'" alt="" draggable="false">';
   const [enamel, glyph, gold] = medals[key], id = 'medal' + (++medalId), rim = gold ? ['#ffe9a3', '#c8912a'] : ['#f4f7f6', '#9aaba4'];
   return '<svg class="medal-art" viewBox="0 0 100 120" aria-hidden="true"><defs><linearGradient id="'+id+'" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="'+rim[0]+'"/><stop offset="1" stop-color="'+rim[1]+'"/></linearGradient></defs>'

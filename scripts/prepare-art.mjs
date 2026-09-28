@@ -7,6 +7,8 @@ import { cutout } from './cutout.mjs';
 // This script only converts: the highest version of each key becomes public/art/<key>-v<N>.webp,
 // opaque flat backgrounds are cut out, and items/destinations/manifest are linked to what exists.
 const SRC = 'docs/art', OUT = 'public/art';
+// `--force <prefixo>` reconverte as artes cuja chave começa pelo prefixo (ex.: após mudar o recorte).
+const forceAt = process.argv.indexOf('--force'), force = forceAt > 0 ? (process.argv[forceAt + 1] ?? '') : null;
 const NAME = /^(.+)-v(\d+)\.(png|jpe?g|webp)$/i;
 fs.mkdirSync(OUT, { recursive: true });
 
@@ -27,7 +29,7 @@ function latestVersions(dir, ext) {
 
 for (const [key, { version, file }] of latestVersions(SRC)) {
   const source = path.join(SRC, file), target = path.join(OUT, `${key}-v${version}.webp`), k = kind(key);
-  if (fs.existsSync(target) && fs.statSync(target).mtimeMs >= fs.statSync(source).mtimeMs) continue;
+  if (!(force && key.startsWith(force)) && fs.existsSync(target) && fs.statSync(target).mtimeMs >= fs.statSync(source).mtimeMs) continue;
   const input = k === 'bg' ? source : (await cutout(source)) ?? source;
   await sharp(input).resize({ width: edge[k], height: edge[k], fit: 'inside', withoutEnlargement: true })
     .webp({ quality: k === 'bg' ? 78 : 86, alphaQuality: 100 }).toFile(target);
