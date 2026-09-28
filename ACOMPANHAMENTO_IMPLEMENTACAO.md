@@ -142,7 +142,7 @@ Implementação concluída para homologação interna (ver `IMPLEMENTATION_REPOR
 - Verificação: 53 testes unitários e 11 fluxos de navegador; telas revisadas em 1280×800, 800×1280 e 390×844.
 
 ### 17. Artes finais da Nery e medalhas — concluída (28/09/2026)
-- Seis poses da Nery substituídas por versões com fundo transparente de origem; a pose de aceno (wave) continua a anterior, com recorte automático.
+- Seis poses da Nery substituídas por versões com fundo transparente de origem; a pose de aceno (wave) foi substituída depois, na 0.11.2, também com fundo transparente.
 - Conjunto completo de 7 medalhas ilustradas; o jogo passou a usar as medalhas ilustradas no lugar das vetoriais.
 - `docs/art/Sem Título-13.png` é cópia idêntica de `nery-explain-v1.png` e é ignorada pelo pipeline.
 - Verificação: testes unitários, fluxos de navegador e telas de missão, explicação e resultado revisadas.

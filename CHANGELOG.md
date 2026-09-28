@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.11.2 — Nery acenando (28/09/2026)
+- pose de aceno da Nery com fundo transparente de origem (tela inicial e mapa da carreira).
+
 ## 0.11.1 — artes finais da Nery e medalhas (28/09/2026)
 - poses da Nery com fundo transparente de origem (apresentação, comemoração, dica, incentivo, explicação e troféu);
 - conjunto completo das 7 medalhas ilustradas (capítulos 1 a 3, carreira completa, fase perfeita, sequência e aprender com o erro).
