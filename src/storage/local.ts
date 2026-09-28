@@ -8,7 +8,7 @@ function read(key: string): unknown {
   try { const raw = localStorage.getItem(key); return raw ? JSON.parse(raw) : null; }
   catch { unavailable = true; return null; }
 }
-export function save(key: 'career' | 'ranking' | 'preferences', value: unknown): boolean {
+export function save(key: 'career' | 'ranking' | 'preferences' | 'album', value: unknown): boolean {
   try { localStorage.setItem(key === 'preferences' ? 'destino-certo-preferences-v2' : prefix + key, JSON.stringify(value)); return true; }
   catch { unavailable = true; return false; }
 }
@@ -41,5 +41,16 @@ export function loadRanking(): RankingEntry[] {
 }
 export function loadPreferences(): Preferences {
   const x = read('destino-certo-preferences-v2');
-  return obj(x) && typeof x.sound === 'boolean' && typeof x.reducedMotion === 'boolean' ? x as Preferences : { sound: true, reducedMotion: false };
+  return {
+    sound: obj(x) && typeof x.sound === 'boolean' ? x.sound : true,
+    music: obj(x) && typeof x.music === 'boolean' ? x.music : true,
+    reducedMotion: obj(x) && typeof x.reducedMotion === 'boolean' ? x.reducedMotion : false
+  };
+}
+/** Team collection: enabled items that already reached the right destination on this device. */
+export function loadAlbum(): string[] {
+  const x = read(prefix + 'album');
+  if (x === null) return [];
+  if (!Array.isArray(x) || new Set(x).size !== x.length || !x.every(id => typeof id === 'string' && itemMap.get(id)?.enabled)) { unavailable = true; return []; }
+  return x;
 }

@@ -1,7 +1,7 @@
 {
   "name": "destino-certo-residuos-hu",
   "private": true,
-  "version": "0.9.0",
+  "version": "0.10.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -12,7 +12,8 @@
     "guide": "node scripts/build-guide.mjs",
     "review:export": "node scripts/review.mjs export",
     "review:import": "node scripts/review.mjs import",
-    "test:e2e": "playwright test"
+    "test:e2e": "playwright test",
+    "art": "node scripts/prepare-art.mjs && node scripts/art-catalog.mjs"
   },
   "devDependencies": {
     "@playwright/test": "^1.63.0",

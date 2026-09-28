@@ -4,7 +4,7 @@
     "name": "Manta azul dos materiais esterilizados (SMS)",
     "destinationId": "white_bag",
     "emoji": "🟦",
-    "image": null,
+    "image": "art/white_01-v1.webp",
     "source": {
       "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
       "page": 1
@@ -27,7 +27,7 @@
     "name": "Luvas descartáveis de procedimento, cirúrgica, vinil e nitrila",
     "destinationId": "white_bag",
     "emoji": "🧤",
-    "image": null,
+    "image": "art/white_02-v1.webp",
     "source": {
       "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
       "page": 1
@@ -50,7 +50,7 @@
     "name": "Máscara sem contaminação de risco",
     "destinationId": "black_bag",
     "emoji": "😷",
-    "image": null,
+    "image": "art/white_03-v1.webp",
     "source": {
       "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
       "page": 1
@@ -96,7 +96,7 @@
     "name": "Sonda, drenos, saco e bolsa de urina (limpo/sujo)",
     "destinationId": "white_bag",
     "emoji": "🧴",
-    "image": null,
+    "image": "art/white_05-v1.webp",
     "source": {
       "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
       "page": 1
@@ -119,7 +119,7 @@
     "name": "Bolsa de hemocomponentes após transfusão",
     "destinationId": "white_bag",
     "emoji": "🩸",
-    "image": null,
+    "image": "art/white_06-v1.webp",
     "source": {
       "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
       "page": 1
@@ -165,7 +165,7 @@
     "name": "Aventais descartáveis",
     "destinationId": "white_bag",
     "emoji": "🥼",
-    "image": null,
+    "image": "art/white_08-v1.webp",
     "source": {
       "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
       "page": 1
@@ -188,7 +188,7 @@
     "name": "Swab usado",
     "destinationId": "white_bag",
     "emoji": "🧪",
-    "image": null,
+    "image": "art/white_09-v1.webp",
     "source": {
       "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
       "page": 1
@@ -211,7 +211,7 @@
     "name": "Placenta",
     "destinationId": "white_bag",
     "emoji": "◉",
-    "image": null,
+    "image": "art/white_10-v1.webp",
     "source": {
       "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
       "page": 1
@@ -234,7 +234,7 @@
     "name": "Algodão com sangue absorvido",
     "destinationId": "white_bag",
     "emoji": "⚪",
-    "image": null,
+    "image": "art/white_11-v1.webp",
     "source": {
       "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
       "page": 1
@@ -280,7 +280,7 @@
     "name": "Gesso ou tala gessada com sangue",
     "destinationId": "white_bag",
     "emoji": "🩹",
-    "image": null,
+    "image": "art/white_13-v1.webp",
     "source": {
       "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
       "page": 1
@@ -303,7 +303,7 @@
     "name": "Equipo contaminado, sem agulha",
     "destinationId": "white_bag",
     "emoji": "〰",
-    "image": null,
+    "image": "art/white_14-v1.webp",
     "source": {
       "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
       "page": 1
@@ -326,7 +326,7 @@
     "name": "Seringa com vestígios de sangue, sem agulha",
     "destinationId": "white_bag",
     "emoji": "💉",
-    "image": null,
+    "image": "art/white_15-v1.webp",
     "source": {
       "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
       "page": 1
@@ -349,7 +349,7 @@
     "name": "Resto de curativo (gaze, ataduras e chumaço de algodão)",
     "destinationId": "white_bag",
     "emoji": "🩹",
-    "image": null,
+    "image": "art/white_16-v1.webp",
     "source": {
       "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
       "page": 1
@@ -372,7 +372,7 @@
     "name": "Lençol",
     "destinationId": "hamper",
     "emoji": "🛏",
-    "image": null,
+    "image": "art/hamper_01-v1.webp",
     "source": {
       "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
       "page": 1
@@ -395,7 +395,7 @@
     "name": "Fronha",
     "destinationId": "hamper",
     "emoji": "▱",
-    "image": null,
+    "image": "art/hamper_02-v1.webp",
     "source": {
       "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
       "page": 1
@@ -418,7 +418,7 @@
     "name": "Compressa de pano com sangue",
     "destinationId": "hamper",
     "emoji": "🟥",
-    "image": null,
+    "image": "art/hamper_03-v1.webp",
     "source": {
       "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
       "page": 1
@@ -441,7 +441,7 @@
     "name": "Compressa de pano sem sangue",
     "destinationId": "hamper",
     "emoji": "⬜",
-    "image": null,
+    "image": "art/hamper_04-v1.webp",
     "source": {
       "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
       "page": 1
@@ -464,7 +464,7 @@
     "name": "Campo cirúrgico de tecido",
     "destinationId": "hamper",
     "emoji": "🟩",
-    "image": null,
+    "image": "art/hamper_05-v1.webp",
     "source": {
       "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
       "page": 1
@@ -487,7 +487,7 @@
     "name": "Capotes de pano",
     "destinationId": "hamper",
     "emoji": "🥼",
-    "image": null,
+    "image": "art/hamper_06-v1.webp",
     "source": {
       "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
       "page": 1
@@ -510,7 +510,7 @@
     "name": "Camisolas",
     "destinationId": "hamper",
     "emoji": "👕",
-    "image": null,
+    "image": "art/hamper_07-v1.webp",
     "source": {
       "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
       "page": 1
@@ -533,7 +533,7 @@
     "name": "Privativo",
     "destinationId": "hamper",
     "emoji": "👚",
-    "image": null,
+    "image": "art/hamper_08-v1.webp",
     "source": {
       "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
       "page": 1
@@ -556,7 +556,7 @@
     "name": "Cobertas",
     "destinationId": "hamper",
     "emoji": "▰",
-    "image": null,
+    "image": "art/hamper_09-v1.webp",
     "source": {
       "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
       "page": 1
@@ -579,7 +579,7 @@
     "name": "Peça anatômica humana (membro)",
     "destinationId": "red_bag",
     "emoji": "🫀",
-    "image": null,
+    "image": "art/red_01-v1.webp",
     "source": {
       "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
       "page": 1
@@ -648,7 +648,7 @@
     "name": "Papelão",
     "destinationId": "green_bag",
     "emoji": "📦",
-    "image": null,
+    "image": "art/green_01-v1.webp",
     "source": {
       "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
       "page": 2
@@ -671,7 +671,7 @@
     "name": "Copo plástico limpo",
     "destinationId": "green_bag",
     "emoji": "🥤",
-    "image": null,
+    "image": "art/green_02-v1.webp",
     "source": {
       "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
       "page": 2
@@ -694,7 +694,7 @@
     "name": "Frasco de soro redondo (vazio e rígido)",
     "destinationId": "green_bag",
     "emoji": "🧴",
-    "image": null,
+    "image": "art/green_03-v1.webp",
     "source": {
       "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
       "page": 2
@@ -717,7 +717,7 @@
     "name": "Papel limpo e seco",
     "destinationId": "green_bag",
     "emoji": "📄",
-    "image": null,
+    "image": "art/green_05-v1.webp",
     "source": {
       "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
       "page": 2
@@ -740,7 +740,7 @@
     "name": "Papel sulfite",
     "destinationId": "green_bag",
     "emoji": "📄",
-    "image": null,
+    "image": "art/green_05-v1.webp",
     "source": {
       "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
       "page": 2
@@ -786,7 +786,7 @@
     "name": "Plástico e latas de alumínio",
     "destinationId": "green_bag",
     "emoji": "♻",
-    "image": null,
+    "image": "art/green_07-v1.webp",
     "source": {
       "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
       "page": 2
@@ -832,7 +832,7 @@
     "name": "Ampola plástica de soro vazia",
     "destinationId": "green_bag",
     "emoji": "🧪",
-    "image": null,
+    "image": "art/green_09-v1.webp",
     "source": {
       "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
       "page": 2
@@ -855,7 +855,7 @@
     "name": "Resto de alimento e casca de frutas",
     "destinationId": "black_bag",
     "emoji": "🍎",
-    "image": null,
+    "image": "art/black_01-v1.webp",
     "source": {
       "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
       "page": 2
@@ -878,7 +878,7 @@
     "name": "Isopor sujo de alimento",
     "destinationId": "black_bag",
     "emoji": "🥡",
-    "image": null,
+    "image": "art/black_02-v1.webp",
     "source": {
       "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
       "page": 2
@@ -901,7 +901,7 @@
     "name": "Fita e etiqueta adesiva",
     "destinationId": "black_bag",
     "emoji": "🏷",
-    "image": null,
+    "image": "art/black_03-v1.webp",
     "source": {
       "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
       "page": 2
@@ -924,7 +924,7 @@
     "name": "Fralda e absorventes íntimos",
     "destinationId": "black_bag",
     "emoji": "◻",
-    "image": null,
+    "image": "art/black_04-v1.webp",
     "source": {
       "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
       "page": 2
@@ -947,7 +947,7 @@
     "name": "Gesso ou tala gessada sem sangue",
     "destinationId": "black_bag",
     "emoji": "🩹",
-    "image": null,
+    "image": "art/black_05-v1.webp",
     "source": {
       "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
       "page": 2
@@ -970,7 +970,7 @@
     "name": "Papel higiênico",
     "destinationId": "black_bag",
     "emoji": "🧻",
-    "image": null,
+    "image": "art/black_06-v1.webp",
     "source": {
       "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
       "page": 2
@@ -993,7 +993,7 @@
     "name": "Cotonete",
     "destinationId": "black_bag",
     "emoji": "〰",
-    "image": null,
+    "image": "art/black_07-v1.webp",
     "source": {
       "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
       "page": 2
@@ -1016,7 +1016,7 @@
     "name": "Ampolas quebradas",
     "destinationId": "sharps",
     "emoji": "🧪",
-    "image": null,
+    "image": "art/sharp_01-v1.webp",
     "source": {
       "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
       "page": 2
@@ -1039,7 +1039,7 @@
     "name": "Lâminas de bisturi",
     "destinationId": "sharps",
     "emoji": "🔪",
-    "image": null,
+    "image": "art/sharp_02-v1.webp",
     "source": {
       "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
       "page": 2
@@ -1062,7 +1062,7 @@
     "name": "Lancetas",
     "destinationId": "sharps",
     "emoji": "◢",
-    "image": null,
+    "image": "art/sharp_03-v1.webp",
     "source": {
       "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
       "page": 2
@@ -1085,7 +1085,7 @@
     "name": "Vidros quebrados",
     "destinationId": "sharps",
     "emoji": "◩",
-    "image": null,
+    "image": "art/sharp_04-v1.webp",
     "source": {
       "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
       "page": 2
@@ -1108,7 +1108,7 @@
     "name": "Lâminas de barbear",
     "destinationId": "sharps",
     "emoji": "▱",
-    "image": null,
+    "image": "art/sharp_05-v1.webp",
     "source": {
       "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
       "page": 2
@@ -1131,7 +1131,7 @@
     "name": "Agulhas, scalp/cateteres agulhados e butterfly",
     "destinationId": "sharps",
     "emoji": "💉",
-    "image": null,
+    "image": "art/sharp_06-v1.webp",
     "source": {
       "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
       "page": 2
@@ -1154,7 +1154,7 @@
     "name": "Frasco-ampola vazio",
     "destinationId": "vial_glass",
     "emoji": "🧪",
-    "image": null,
+    "image": "art/vial_01-v1.webp",
     "source": {
       "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
       "page": 2
@@ -1177,7 +1177,7 @@
     "name": "Frasco-ampola com resto de medicação",
     "destinationId": "vial_chemical",
     "emoji": "⚗",
-    "image": null,
+    "image": "art/chem_01-v1.webp",
     "source": {
       "file": "A4 GABARITO JOGO RESÍDUOS PEÇAS.pdf",
       "page": 2

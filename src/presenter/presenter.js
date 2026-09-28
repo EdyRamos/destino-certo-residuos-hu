@@ -2,7 +2,7 @@ const $=id=>document.getElementById(id);
 const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 $('hu-logo').src=DATA.images['brand/hu-horizontal.png'];
 $('depe-logo').src=DATA.images['brand/depe.png'];
-$('version').textContent=(DATA.items.some(i=>i.requiresInstitutionalValidation)?'Conteúdo em validação':'Conteúdo homologado')+' · '+DATA.version.content+' · Imagens de referência';
+$('version').textContent=(DATA.items.some(i=>i.requiresInstitutionalValidation)?'Conteúdo em validação':'Conteúdo homologado')+' · '+DATA.version.content+' · Ilustrações em validação';
 for(const d of DATA.destinations){const o=document.createElement('option');o.value=d.id;o.textContent=d.name;$('category').append(o);}
 let index=0,step=0,selected='',filtered=[];
 function filter(){
@@ -24,7 +24,7 @@ function render(){
  $('stage').innerHTML='<div class="item"><div class="art">'+art(i)+'</div><div><span class="eyebrow">OBSERVE · CONVERSE · DESCUBRA</span><h2>'+esc(i.name)+'</h2><p class="condition">'+esc(i.condition)+'</p><p class="question">Qual seria o destino certo? O que fez você escolher?</p></div></div>'+
  (!i.enabled?'<div class="pending"><strong>Caso suspenso — decisão do DEPE necessária</strong><p>'+esc(i.reviewNote)+'</p><p>Este item não é apresentado nas partidas. Discuta as condições que faltam; nenhuma resposta é indicada como correta.</p></div>':
  '<div class="actions"><button id="show-choices" '+(step>=1?'disabled':'')+'>Mostrar destinos</button><button id="reveal" class="primary" '+(step>=2?'disabled':'')+'>Revelar resposta</button><button id="explain" '+(step<2||step>=3?'disabled':'')+'>Mostrar explicação</button></div>'+
- (step>=1?'<div class="choices">'+DATA.destinations.map(x=>'<button data-choice="'+x.id+'" class="'+(step>=2&&x.id===i.destinationId?'correct ':selected===x.id?'selected':'')+'" '+(step>=2?'disabled':'')+'>'+esc(x.name)+'</button>').join('')+'</div>':'')+
+ (step>=1?'<div class="choices">'+DATA.destinations.map(x=>'<button data-choice="'+x.id+'" class="'+(step>=2&&x.id===i.destinationId?'correct ':selected===x.id?'selected':'')+'" '+(step>=2?'disabled':'')+'>'+ '<img class="destination-preview" src="'+DATA.images[DATA.destinationImages[x.id]]+'" alt="">'+esc(x.name)+'</button>').join('')+'</div>':'')+
  (step>=2?'<section class="answer"><strong>Destino: '+esc(d.name)+'</strong>'+(step>=3?'<p>'+esc(i.explanation)+'</p><small>'+esc(i.technicalReference)+'</small>':'')+'</section>':''));
  if(i.enabled){
  $('show-choices').onclick=()=>{step=1;render();};

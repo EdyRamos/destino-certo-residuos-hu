@@ -12,4 +12,4 @@ export type SessionState = { levelId: string; mode: 'career' | 'practice'; itemI
 export type PhaseResult = { levelId: string; score: number; correct: number; firstTry: number; itemIds: string[]; passed: boolean };
 export type Career = { id: string; results: PhaseResult[]; session: SessionState | null; submitted: boolean; completedAt: string | null };
 export type RankingEntry = { id: string; name: string; score: number; firstTry: number; endedAt: string };
-export type Preferences = { sound: boolean; reducedMotion: boolean };
+export type Preferences = { sound: boolean; music: boolean; reducedMotion: boolean };

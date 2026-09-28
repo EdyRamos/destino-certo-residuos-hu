@@ -134,3 +134,8 @@ npm run preview -- --host 127.0.0.1 --port 4173
 - Downloads (gabarito HTML e pacote do jogo para hospedagem própria): https://github.com/EdyRamos/destino-certo-residuos-hu/releases/tag/v0.9.0
 
 Após a publicação, o site real foi conferido no Chrome: service worker com o escopo correto, manifesto válido, “Pronto para uso offline”, reabertura sem rede com os 8 destinos, sem respostas de erro e sem pedidos externos.
+
+## 9. Versão 0.10.0 — Missão Nery
+
+Camada de jogo (animações, reações da Nery, estrelas, medalhas, conquistas e Coleção da equipe), trilha com temas por tela e arte própria para os 45 itens, conforme `docs/ARTE_E_GAMIFICACAO.md` e `ACOMPANHAMENTO_IMPLEMENTACAO.md` (itens 12 a 15). Pontuação, aprovação, ranking e conteúdo clínico inalterados. Figuras a revisar pelo DEPE: `green_07`, `red_01` e a marca gerada nos jalecos da Nery.
+

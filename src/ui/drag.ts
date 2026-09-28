@@ -1,4 +1,4 @@
-export function enablePointerDrag(card: HTMLElement, onDrop: (id: string) => void) {
+export function enablePointerDrag(card: HTMLElement, onDrop: (id: string) => void, onStart?: () => void) {
   let pointer: number | null = null, startX = 0, startY = 0;
   let ghost: HTMLElement | null = null;
   const clear = () => { ghost?.remove(); ghost = null; pointer = null; document.querySelectorAll('.drop-hover').forEach(e => e.classList.remove('drop-hover')); };
@@ -10,7 +10,7 @@ export function enablePointerDrag(card: HTMLElement, onDrop: (id: string) => voi
   card.addEventListener('pointermove', ev => {
     if (ev.pointerId !== pointer) return;
     if (!ghost && Math.hypot(ev.clientX - startX, ev.clientY - startY) > 10) {
-      ghost = card.cloneNode(true) as HTMLElement; ghost.removeAttribute('id'); ghost.setAttribute('aria-hidden', 'true'); ghost.classList.add('drag-ghost'); document.body.append(ghost);
+      ghost = card.cloneNode(true) as HTMLElement; ghost.removeAttribute('id'); ghost.setAttribute('aria-hidden', 'true'); ghost.classList.add('drag-ghost'); document.body.append(ghost); onStart?.();
     }
     if (!ghost) return;
     ghost.style.left = ev.clientX + 'px'; ghost.style.top = ev.clientY + 'px';

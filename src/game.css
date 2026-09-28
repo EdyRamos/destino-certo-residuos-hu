@@ -1,0 +1,98 @@
+/* Camada de jogo — cenários, Nery reativa, HUD, efeitos, estrelas, medalhas e coleção. */
+.app-shell{background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cg fill='none' stroke='%2308734c' stroke-opacity='.035' stroke-width='3' stroke-linecap='round'%3E%3Cpath d='M30 20v20M20 30h20M120 100v20M110 110h20'/%3E%3Cpath d='M105 35c-18-2-26 8-20 20 12 6 22-2 20-20ZM85 55l14-14'/%3E%3Ccircle cx='40' cy='120' r='7'/%3E%3C/g%3E%3C/svg%3E"),radial-gradient(ellipse at 90% 10%,#daf1e6,transparent 60%),linear-gradient(145deg,#fcfdf9,#edf5f0)}
+.app-shell.has-scene{background:linear-gradient(180deg,#f8fbf8f0,#f4f9f5e8 45%,#eef6f1f2),var(--scene) center/cover no-repeat;background-attachment:fixed}
+.home.has-scene{background:linear-gradient(90deg,#f8fbf8f5 0,#f8fbf8e6 45%,#f8fbf880 100%),var(--scene) center/cover no-repeat}
+.screen-in{animation:screen-in .35s ease-out}
+.pill{display:inline-grid;place-items:center;min-width:48px;padding:2px 9px;border-radius:20px;background:#e3f3e6;color:var(--green);font-size:.75rem;font-weight:800}
+.speech{position:relative;background:#fff;border:1px solid #d6e7da;border-radius:18px;padding:14px 18px;color:#24503f;box-shadow:0 10px 24px #12402a14;line-height:1.45;margin:0}
+.hero-speech{position:absolute;top:10%;left:-4%;max-width:250px;min-height:52px;font-weight:600;font-size:.92rem;z-index:3;animation:note-float 5s ease-in-out infinite}
+.hero-speech:after{content:"";position:absolute;right:26px;bottom:-9px;width:16px;height:16px;background:#fff;border-right:1px solid #d6e7da;border-bottom:1px solid #d6e7da;transform:rotate(45deg)}
+.hero-art .nery-portrait{animation:nery-arrive .8s ease-out both,nery-breathe 5s ease-in-out 1s infinite}
+.pose-fallback.pose-celebrate,.pose-fallback.pose-trophy{animation:nery-hop 1.1s ease-in-out infinite}
+.pose-fallback.pose-thinking{transform:rotate(-2.5deg)}
+.pose-fallback.pose-encourage{animation:nery-sway 3.2s ease-in-out infinite}
+.nery-avatar{display:block;width:64px;height:64px;min-width:64px;border-radius:50%;background-color:#e3f2e5;background-size:auto 390%;background-position:50% 0;background-repeat:no-repeat;border:3px solid #fff;box-shadow:0 4px 12px #0d3b2622}
+.nery-avatar.pose-welcome{background-position:44% 0}.nery-avatar.pose-wave{background-position:62% 0}
+.nery-portrait.avatar{position:static;inset:auto;display:block;width:64px;height:64px;min-width:64px;aspect-ratio:1;border-radius:50%;object-fit:cover;object-position:50% 4%;background:radial-gradient(circle at 50% 30%,#fff,#dbeedd);border:3px solid #fff;box-shadow:0 4px 12px #0d3b2622;animation:none;transform:none;filter:none}
+
+/* Mapa da jornada */
+.journey-map{position:relative;padding-top:18px}.journey-map:before{display:none}
+.journey-road{position:absolute;left:0;right:0;top:48px;width:100%;height:120px;pointer-events:none}.journey-road path{fill:none;stroke:#cfe3cf;stroke-width:12;stroke-linecap:round;stroke-dasharray:1 26}
+.station.done{background:linear-gradient(145deg,#fff,#eef8e6)}.station.current{animation:station-glow 2.4s ease-in-out infinite}
+.you-are-here{position:absolute;top:-24px;right:18px;display:flex;flex-direction:column;align-items:center;gap:4px;animation:nery-hop 2.4s ease-in-out infinite}.you-are-here small{font-size:.62rem;font-weight:800;color:#fff;background:var(--green);padding:3px 8px;border-radius:10px;white-space:nowrap}
+.stars-row{display:inline-flex;gap:3px;margin:0 0 10px}.station .stars-row{display:flex}.speech-nav{display:flex;align-items:center;justify-content:space-between;margin-top:8px}.speech-dots{display:flex;gap:6px}.speech-dots i{width:8px;height:8px;border-radius:50%;background:#d3e4d7;transition:background .3s}.speech-dots i.on{background:var(--green)}.mission-speech{min-height:118px;margin-bottom:14px}.mission-speech p{margin:0;color:#24503f;font-size:1.05rem;min-height:3em}.star{color:#d6dfd8;display:inline-flex}.star svg{fill:currentColor;stroke:#0000}.star.filled{color:#f2b92c;filter:drop-shadow(0 2px 2px #b0780f44)}
+
+/* HUD e palco */
+.game-top{gap:18px}.phase-progress>span{align-items:center}
+.track{display:grid;grid-template-columns:repeat(10,1fr);gap:6px}.track i{height:10px;border-radius:10px;background:#dfe9e0;transition:background .3s}.track i.current{background:#9fd2b3;animation:dot-pulse 1.4s ease-in-out infinite}.track i.first{background:linear-gradient(90deg,#0a8a55,#3fb36f)}.track i.retry{background:linear-gradient(90deg,#e0a526,#f2c44b)}.track i.miss{background:#e7b3a6}
+.hud-right{display:flex;align-items:center;gap:14px}.streak{display:inline-flex;align-items:center;gap:4px;padding:7px 12px;border-radius:30px;background:linear-gradient(135deg,#fff3cf,#ffe08a);color:#a0550f;font-weight:800;box-shadow:0 4px 0 #e7c160;animation:pop-in .35s ease-out}.streak svg{fill:#ff9d2e;stroke:#c2560f}
+.points strong{min-width:3ch;font-variant-numeric:tabular-nums}
+.mission-meter{align-items:center;justify-content:flex-start;gap:14px}.meter{flex:0 0 min(220px,40%);height:8px;border-radius:8px;background:#dfe9e0;overflow:hidden}.meter i{display:block;height:100%;border-radius:8px;background:linear-gradient(90deg,#0a8a55,#82b94e);transition:width .5s}
+.item-stage{position:relative;display:grid;justify-items:center;min-width:0;width:100%}.item-stage .waste-card{min-width:0;max-width:100%}.waste-card .item-art{min-width:0}.stage-shadow{width:70%;height:18px;margin-top:-6px;border-radius:50%;background:radial-gradient(ellipse,#0d3b2630,transparent 70%);animation:shadow-breathe 3s ease-in-out infinite}
+.waste-card{width:100%;transition:box-shadow .2s,transform .2s}.waste-card:active{cursor:grabbing;transform:scale(1.03)}.waste-card .item-art{animation:item-float 3s ease-in-out infinite}.waste-card.flown .item-art{opacity:0;animation:none}
+.nery-tip{display:flex;align-items:center;gap:12px;margin-top:16px}.nery-tip .speech{font-size:.85rem;padding:10px 14px;border-radius:4px 16px 16px 16px}
+.play-instruction{display:flex;align-items:center;justify-content:center;gap:8px}.play-instruction svg{transform:rotate(90deg)}
+.destination{position:relative}.destination.gulp{animation:bin-gulp .55s ease-out}.destination.shake{animation:bin-shake .45s ease-in-out;border-color:#e3a08f}.destination.reveal{border-color:#08734c;box-shadow:0 0 0 4px #08734c33,0 10px 20px #0866402a;transform:translateY(-6px)}
+.fly-ghost{position:fixed!important;z-index:1002;margin:0;pointer-events:none;object-fit:contain;filter:drop-shadow(0 12px 12px #0d3b2633)}
+.float-text{position:fixed;z-index:1003;transform:translate(-50%,-50%);font-weight:900;font-size:1.8rem;pointer-events:none;animation:float-up 1.1s ease-out forwards}.float-text.gain{color:#0a8a55;text-shadow:0 2px 0 #fff,0 0 12px #fff}.float-text.miss{color:#c8553d;font-size:2.4rem;text-shadow:0 2px 0 #fff}
+.sparkles{position:fixed;z-index:1003;pointer-events:none}.sparkles i{position:absolute;width:9px;height:9px;border-radius:50%;background:#f2c44b;box-shadow:0 0 8px #ffe08a;animation:sparkle .8s ease-out forwards}.sparkles i:nth-child(3n){background:#49b785}.sparkles i:nth-child(4n){background:#fff}
+
+/* Diálogos */
+.feedback .feedback-layout{display:grid;grid-template-columns:150px 1fr;gap:20px;align-items:center;text-align:left}
+.feedback .feedback-nery{width:150px;height:200px;border-radius:24px;background:radial-gradient(circle at 50% 35%,#fff,#e2f3e4);margin:0;overflow:hidden;position:relative}
+.feedback .feedback-nery .nery-portrait{position:absolute;inset:0;width:100%;height:auto;min-height:100%;transform:none;object-fit:cover;object-position:50% 0;aspect-ratio:auto;border-radius:0;box-shadow:none}
+.feedback .feedback-nery .pose-fallback{width:160%;left:-30%;right:auto}
+.feedback.is-correct{border-top:8px solid #16925c}.feedback.is-missed{border-top:8px solid #e0a526}.feedback.is-hint{border-top:8px solid #9fc3b0}
+.cheer{font-weight:800;color:#0a8a55;font-size:1.05rem!important;margin-bottom:4px}.earned{margin-bottom:10px}.earned.zero{color:#a3702a}
+.answer-dest{display:flex;align-items:center;gap:12px;background:#e9f3e9;padding:8px 14px;border-radius:16px;margin:10px 0 14px}.answer-dest .destination-art{width:54px;height:62px;flex-shrink:0}.answer-dest .correct-answer{background:none;padding:0;margin:0;font-size:1.1rem}.answer-dest strong{font-size:1.05rem}
+.hint{display:flex;gap:10px;align-items:flex-start;background:#fff7e0;border-radius:14px;padding:12px 14px;color:#6b5220}.hint svg{color:#d49a1c;flex-shrink:0}
+.modal{animation:modal-in .28s cubic-bezier(.2,.9,.3,1.2)}
+.pause-nery{width:120px;height:150px;margin:0 auto 10px;overflow:hidden;border-radius:20px;background:#eaf5ea}.pause-nery .nery-portrait{position:static;width:100%;height:100%;object-fit:cover;object-position:50% 0;aspect-ratio:auto;border-radius:0}
+
+/* Resultado, medalhas e final */
+.result-panel{max-width:860px}.result-hero{display:grid;grid-template-columns:200px 1fr;gap:26px;align-items:center;text-align:left}
+.result-nery{height:260px;position:relative}.result-nery .nery-portrait{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;object-position:center bottom;aspect-ratio:auto;border-radius:0;box-shadow:none;filter:drop-shadow(0 12px 12px #163f2c22)}
+.result-stars{display:grid;justify-items:center;margin:14px 0 4px}.result-stars .stars-row{gap:10px;margin:0}.result-stars .star{animation:star-pop .5s cubic-bezier(.2,1.6,.4,1) both;animation-delay:calc(.7s + var(--i) * .38s)}.result-stars small{font-size:.7rem;color:var(--muted)}
+.medals{display:flex;flex-wrap:wrap;justify-content:center;gap:16px;margin:10px 0 24px}
+.medal-card{width:170px;padding:14px 12px;background:#fff;border:1px solid var(--line);border-radius:20px;display:grid;justify-items:center;gap:6px;animation:medal-in .6s cubic-bezier(.2,1.4,.4,1) both;animation-delay:calc(1.9s + var(--i) * .25s)}
+.medal-art{width:84px;height:100px;object-fit:contain;filter:drop-shadow(0 6px 8px #0d3b2630)}.medal-card strong{color:var(--dark);font-size:.9rem;line-height:1.2}.medal-card small{font-size:.72rem;color:var(--muted);line-height:1.35}
+.chapter-closing{font-size:1.02rem;color:#2d5a47}.finale-panel .result-nery{height:320px}
+.confetti-rain{position:fixed;inset:0;z-index:1001;pointer-events:none;overflow:hidden}.confetti-rain i{position:absolute;top:-20px;width:10px;height:16px;border-radius:2px;background:#5c9b46;animation:rain var(--t) linear var(--d) forwards}.confetti-rain i:nth-child(3n){background:#f2c44b}.confetti-rain i:nth-child(4n){background:#49b785}.confetti-rain i:nth-child(5n){background:#3b76c9}
+
+/* Coleção */
+.album-progress{display:flex;align-items:center;gap:16px;margin:0 0 22px}.album-count{font-size:2rem;color:var(--green)}.album-progress .meter{flex:1 1 auto;height:12px}.album-progress small{color:var(--muted)}
+.album-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:14px}
+.album-card{display:grid;grid-template-rows:120px auto;gap:8px;padding:12px;border:1px solid var(--line);border-radius:18px;background:#fff;color:var(--dark);font-size:.78rem;font-weight:650;text-align:center;line-height:1.3}.album-card .item-art{max-height:120px}.album-card:not(.locked):hover{border-color:#159866;transform:translateY(-3px);transition:transform .15s}
+.album-card.locked{background:#f1f5f1;color:#8aa093}.mystery{position:relative;display:grid;place-items:center}.silhouette{max-width:100%;max-height:110px;object-fit:contain;filter:brightness(0);opacity:.13}.mystery b{position:absolute;font-size:2.4rem;color:#9ab5a4}
+.album-detail{display:grid;gap:4px}.album-detail>.item-art{max-height:170px;margin:0 auto 6px}
+.with-nery{display:flex;align-items:flex-end;justify-content:space-between;gap:24px;max-width:none}.heading-nery.nery-portrait{position:static;width:140px;height:190px;object-fit:cover;object-position:50% 0;aspect-ratio:auto;border-radius:24px;background:#e4f2e4}
+
+@keyframes screen-in{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+@keyframes nery-breathe{50%{transform:translateY(-4px) scale(1.01)}}
+@keyframes nery-hop{0%,100%{transform:translateY(0)}40%{transform:translateY(-10px)}60%{transform:translateY(-4px)}}
+@keyframes nery-sway{50%{transform:rotate(2deg)}}
+@keyframes station-glow{50%{box-shadow:0 7px 0 #b9ddbf,0 0 0 8px #4cb38126}}
+@keyframes dot-pulse{50%{opacity:.45}}
+@keyframes pop-in{from{transform:scale(.4);opacity:0}}
+@keyframes item-float{50%{transform:translateY(-8px) rotate(-1.5deg)}}
+@keyframes shadow-breathe{50%{transform:scaleX(.85);opacity:.7}}
+@keyframes bin-gulp{0%{transform:none}30%{transform:scale(1.08,.9)}60%{transform:scale(.96,1.06) translateY(-6px)}100%{transform:none}}
+@keyframes bin-shake{20%{transform:translateX(-7px) rotate(-2deg)}40%{transform:translateX(6px) rotate(2deg)}60%{transform:translateX(-4px)}80%{transform:translateX(3px)}}
+@keyframes float-up{0%{opacity:0;transform:translate(-50%,-30%) scale(.6)}20%{opacity:1;transform:translate(-50%,-80%) scale(1.15)}100%{opacity:0;transform:translate(-50%,-240%) scale(1)}}
+@keyframes sparkle{from{transform:translate(0,0) scale(1);opacity:1}to{transform:translate(var(--x),var(--y)) scale(.2);opacity:0}}
+@keyframes modal-in{from{opacity:0;transform:translateY(16px) scale(.96)}to{opacity:1;transform:none}}
+@keyframes star-pop{from{transform:scale(0) rotate(-40deg);opacity:0}to{transform:none;opacity:1}}
+@keyframes medal-in{from{transform:translateY(24px) scale(.6);opacity:0}to{transform:none;opacity:1}}
+@keyframes rain{to{transform:translateY(110vh) rotate(var(--r))}}
+
+@media(max-width:1050px){.result-hero{grid-template-columns:160px 1fr}.result-nery{height:220px}.hero-speech{left:0;top:4%}}
+@media(max-width:700px){
+  .hud-right{gap:8px}.streak{padding:5px 9px}.track{gap:3px}.track i{height:8px}
+  .nery-tip .nery-avatar{width:46px;height:46px;min-width:46px}.nery-tip .speech{font-size:.75rem}
+  .feedback .feedback-layout{grid-template-columns:1fr;text-align:center}.feedback .feedback-nery{width:120px;height:140px;margin:0 auto}.answer-dest{justify-content:center}
+  .result-hero{grid-template-columns:1fr;text-align:center}.result-nery{height:200px}.medal-card{width:140px}
+  .album-grid{grid-template-columns:repeat(2,1fr)}.hero-speech{display:none}.with-nery .heading-nery{display:none}
+  .you-are-here{right:10px}.journey-road{display:none}.mission-meter .meter{flex-basis:30%}
+}
+.reduce-motion *, .reduce-motion *::before, .reduce-motion *::after{animation:none!important;transition:none!important}
+@media(prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important}}

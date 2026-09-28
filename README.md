@@ -1,9 +1,12 @@
 # Destino Certo - Resíduos HU
 
-Jogo educativo para tablet sobre segregação e acondicionamento de resíduos no HU-UEL. Versão de homologação 0.9.0.
+Jogo educativo para tablet sobre segregação e acondicionamento de resíduos no HU-UEL. Versão de homologação 0.10.0, publicada em https://edyramos.github.io/destino-certo-residuos-hu/.
 
 ## Conceito
 O participante recebe itens do cotidiano hospitalar com a condição de uso descrita e deve encaminhá-los ao destino correto. Cada pergunta admite três tentativas (100, 60 e 30 pontos); antes da revelação há uma dica, e depois do acerto ou do terceiro erro aparecem o destino e a explicação. A carreira tem três fases; é preciso acertar 6 de 10 para avançar. A prática por fase não altera a carreira nem o ranking local.
+
+## Missão Nery
+Capítulos com diálogos da Nery, item voando até o coletor, estrelas, medalhas, conquistas, Coleção da equipe e revisão dos itens que exigiram atenção. Trilha original com temas por tela e efeitos, sem dependência de rede. Consulte `docs/ARTE_E_GAMIFICACAO.md`; novas artes entram com `npm run art` (lista para gerar em `docs/LEONARDO_ASSETS.md`).
 
 ## PWA e offline
 O aplicativo é instalado no tablet pelo navegador. A primeira visita precisa de rede; depois de exibir “Pronto para uso offline”, o jogo funciona sem internet.
@@ -28,6 +31,7 @@ Sem o Chromium do Playwright instalado, use o navegador da máquina: `PW_CHANNEL
 ## Documentos principais
 - `IMPLEMENTATION_REPORT.md`: o que foi feito, verificações e pendências.
 - `docs/COMO_VALIDAR_E_PUBLICAR.md`: instalação, revisão do DEPE e publicação.
+- `docs/ARTE_E_GAMIFICACAO.md`: direção visual, missão, áudio e integração dos assets.
 - `docs/REVISAO_CONTEUDO.md`: revisão preliminar e casos suspensos.
 
 ## V1 não tem

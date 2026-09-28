@@ -4,3 +4,8 @@ output/
 test-results/
 .DS_Store
 *.local
+
+# Originais pesados das artes (ficam no OneDrive); o jogo usa as versões leves em public/art.
+docs/art/*.png
+docs/art/*.jpg
+docs/art/*.jpeg

@@ -96,3 +96,38 @@ Implementação concluída para homologação interna (ver `IMPLEMENTATION_REPOR
 - Jogo: https://edyramos.github.io/destino-certo-residuos-hu/ — conferido no Chrome: escopo do service worker, manifesto, uso offline e ausência de pedidos externos.
 - Pré-lançamento v0.9.0 com gabarito HTML e pacote `dist` compactado para hospedagem própria.
 - Próximo passo: homologação em tablet físico e devolução da planilha pelo DEPE.
+
+### 12. Direção de arte e missão Nery — em implementação (28/09/2026)
+- Versão de trabalho confirmada pelo usuário; sincronizado o ajuste de README de origin/main.
+- Geração integrada de imagens voltou a funcionar: nova Nery, hamper metálico com tecido e conjunto dos oito destinos, com arquivos independentes e transparência.
+- Narrativa criada em três capítulos, sem alterar classificação clínica, pontuação, aprovação ou ranking.
+- Em integração: abertura das missões, revisão dos erros, conquistas por capítulo e trilha procedural opcional, separada dos efeitos.
+- Próximo passo: otimizar as artes, renovar ilustrações dos itens e testar experiência, áudio e funcionamento offline.
+
+### 13. Narrativa, áudio e aprendizagem — implementados (28/09/2026)
+- Abertura por capítulo com Nery, situação de plantão e objetivo explícito. Retomadas preservam a pergunta, sem repetir a abertura.
+- Conquistas simbólicas por fase aprovada; revisão expansível dos itens que exigiram novas tentativas ou foram errados. Pontos e critérios de aprovação preservados.
+- Trilha procedural original e leve, ativada pelo participante, independente dos efeitos. Pausa em diálogos e abas ocultas; preferências anteriores são migradas sem perder som/animações.
+- Entrada suave de personagens e perguntas, profundidade nos botões e resposta visual dos destinos; redução de movimento do sistema e do jogo respeitada.
+- Verificação: 39 testes unitários passaram, incluindo início de áudio por gesto, interrupção e ausência de suporte; nove fluxos de navegador passaram. Ajustando o teste de armazenamento para atravessar a nova abertura de missão.
+- Próximo passo: terminar a substituição dos itens ativos e verificar novamente o pacote completo com todas as artes.
+
+### 14. Camada de jogo, trilha e pipeline de artes — implementados (28/09/2026)
+- Retomada após a queda da sessão anterior: estado conferido (tipos, 39 testes unitários, build e 11 fluxos de navegador passando); três artes pendentes convertidas (21/45 itens com arte).
+- Jogo: voo do item até o coletor, reação do coletor, "+pontos", placar animado, trilha de progresso por item, sequência de acertos de primeira e dicas gerais da Nery. Após o terceiro erro, o item é levado ao destino correto antes da explicação.
+- Narrativa: três falas digitadas por capítulo; poses da Nery por situação com reserva automática enquanto as artes não chegam.
+- Recompensas simbólicas: estrelas (1 a 3), medalhas de capítulo, conquistas por fase, mapa da jornada com estrelas e final com troféu. Pontuação, aprovação e ranking inalterados.
+- Coleção da equipe: itens descobertos no aparelho, com silhuetas dos não descobertos, reabertura das explicações e limpeza nas configurações.
+- Áudio: temas de menu, jogo e final; música ligada por padrão após o primeiro toque, abaixada nos diálogos e parada na pausa; novos efeitos.
+- Artes: `npm run art` com versões por arquivo (a mais alta vence), recorte de fundo liso testado, manifesto, cenários, poses e medalhas. Lista para o Leonardo AI em `docs/LEONARDO_ASSETS.md`.
+- Coletores de vidro: o usuário pediu a troca pelas fotos reais dos recipientes do HU; aguardando os arquivos `docs/art/vial-glass-v2.png` e `docs/art/vial-chemical-v2.png`.
+- Próximo passo: integrar as artes do Leonardo e as fotos dos coletores, conferir no catálogo e homologar som e movimento em tablet físico.
+
+### 15. Artes completas e publicação da 0.10.0 — concluída (28/09/2026)
+- Coletores de vidro substituídos pelas fotos reais dos recipientes do HU enviadas pelo usuário.
+- 30 figuras do ChatGPT (`docs/figuras_Chatgpt`) conferidas uma a uma contra nome e condição e renomeadas em `docs/art`: 24 itens, 4 cenários (início e capítulos) e 2 medalhas (capítulos 1 e 2). Seis poses da Nery também integradas.
+- Itens do jogo com arte própria: 45/45. Recortes do PDF permanecem só para os 7 casos suspensos no gabarito.
+- Revisar: `green_07` (garrafa aparenta conter água; condição diz embalagem limpa) e `red_01` (braço parece de pessoa viva com manga, não peça anatômica). Conferir também a marca do HU gerada nos jalecos das poses.
+- Correções: cenário com URL absoluta (URL relativa em variável CSS resolvia a partir da pasta do CSS), enquadramento do rosto no avatar e largura do cartão do item em telas estreitas.
+- Originais PNG (84 MB) mantidos fora do Git, no OneDrive; o jogo usa `public/art` (3,2 MB).
+- Verificação: 52 testes unitários e 11 fluxos de navegador passaram; telas revisadas em 1280×800, 800×1280 e 390×844.
