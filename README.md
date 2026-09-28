@@ -1,6 +1,6 @@
 # Destino Certo - Resíduos HU
 
-Jogo educativo para tablet sobre segregação e acondicionamento de resíduos no HU-UEL. Versão de homologação 0.11.0, publicada em https://edyramos.github.io/destino-certo-residuos-hu/.
+Jogo educativo para tablet sobre segregação e acondicionamento de resíduos no HU-UEL. Versão de homologação 0.11.1, publicada em https://edyramos.github.io/destino-certo-residuos-hu/.
 
 ## Conceito
 O participante recebe itens do cotidiano hospitalar com a condição de uso descrita e deve encaminhá-los ao destino correto. Cada pergunta admite três tentativas (100, 60 e 30 pontos); antes da revelação há uma dica, e depois do acerto ou do terceiro erro aparecem o destino e a explicação. A carreira tem três fases; é preciso acertar 6 de 10 para avançar. A prática por fase não altera a carreira nem o ranking local.

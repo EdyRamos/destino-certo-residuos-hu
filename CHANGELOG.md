@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.11.1 — artes finais da Nery e medalhas (28/09/2026)
+- poses da Nery com fundo transparente de origem (apresentação, comemoração, dica, incentivo, explicação e troféu);
+- conjunto completo das 7 medalhas ilustradas (capítulos 1 a 3, carreira completa, fase perfeita, sequência e aprender com o erro).
+
 ## 0.11.0 — revisão de layout, UX e UI (28/09/2026)
 - Nery sem partes apagadas: recorte de fundo que preserva o jaleco branco;
 - ícones do cabeçalho refeitos (configurações e música com estado ligado/desligado);

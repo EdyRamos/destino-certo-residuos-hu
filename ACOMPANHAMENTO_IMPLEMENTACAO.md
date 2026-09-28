@@ -140,3 +140,9 @@ Implementação concluída para homologação interna (ver `IMPLEMENTATION_REPOR
 - Jogo: tentativa atual e quanto ela vale ficam visíveis; dica de arrastar só nos dois primeiros itens; explicação mostra o par item → destino.
 - Tela inicial com uma ação principal e atalhos compactos; tablet em pé com layout empilhado; nomes longos dos coletores sem corte no celular; configurações com chaves liga/desliga; medalhas num único estilo até o conjunto de artes estar completo.
 - Verificação: 53 testes unitários e 11 fluxos de navegador; telas revisadas em 1280×800, 800×1280 e 390×844.
+
+### 17. Artes finais da Nery e medalhas — concluída (28/09/2026)
+- Seis poses da Nery substituídas por versões com fundo transparente de origem; a pose de aceno (wave) continua a anterior, com recorte automático.
+- Conjunto completo de 7 medalhas ilustradas; o jogo passou a usar as medalhas ilustradas no lugar das vetoriais.
+- `docs/art/Sem Título-13.png` é cópia idêntica de `nery-explain-v1.png` e é ignorada pelo pipeline.
+- Verificação: testes unitários, fluxos de navegador e telas de missão, explicação e resultado revisadas.
